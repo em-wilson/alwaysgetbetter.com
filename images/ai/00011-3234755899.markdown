@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 05:45:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00011-3234755899
+title: Wheeee
+---
+
+![Wheeee](/images/ai/00011-3234755899.png)
+
+ colorful cartoon illustration of an airplane flying from Vancouver to Halifax over North America
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, extra limbs, cloned face, disfigured, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3234755899, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 47.6 sec.

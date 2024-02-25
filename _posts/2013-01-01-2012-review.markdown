@@ -1,0 +1,36 @@
+---
+author: emwilson
+comments: true
+date: 2013-01-01 18:27:52+00:00
+layout: post
+link: https://www.alwaysgetbetter.com/2013/01/01/2012-review/
+slug: 2012-review
+title: 2012 in Review
+wordpress_id: 518
+categories:
+- General Programming
+---
+
+This has been one of my busiest and most productive years, but you wouldn't know it from the infrequency of my blog updates.
+
+The majority of my writing time was spent creating two books on Node.js which were released this year - [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do) and [Building Node Applications with MongoDB and Backbone](http://shop.oreilly.com/product/0636920026587.do). I'll use that as my excuse for not updating here - I'm not planning to take on any major projects like this in the near future because I want to get some of my "smaller" ideas accrued over the year out in article form.
+
+Apart from writing, I pulled up roots and moved to the West Coast; it was an epic move since we have a larger than normal family, but the new environment and business opportunities have been well worth it. Now that we live on a mountain next to the ocean, I'm going to feel very reluctant to go anywhere else.
+
+At the end of 2011 I predicted that mobile development would become a necessary tool for serious developers. It's certainly been my bread and butter this year, and will likely be even more so in 2013. Desktop development will remain important, but I can see future world where the majority of "normal" customers will be consuming content on a tablet or handheld device. There is going to be a greater dichotomy between content creators (think - developers on laptops) versus content consumers - designing for mobile first will position you for that economy by keeping your focus on ease of use.
+
+The top three posts this year were:
+
+
+
+
+
+  1. [Using DateTime in the Play! Framework](/blog/2012/05/20/datetime-play-framework/)
+
+
+  2. [ Setting up WordPress with nginx and FastCGI](/blog/2012/01/30/setting-wordpress-nginx-fastcgi/)
+
+
+  3. [ log4php Performance](/blog/2012/02/29/log4php-performance/)
+
+

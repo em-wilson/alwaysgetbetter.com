@@ -1,0 +1,16 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 04:43:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00003-2059859094
+title: Factory Workers
+---
+
+![Factory Workers](/images/ai/00003-2059859094.png)
+
+award winning illustration of sullen factory workers in a line waiting to use their punch clock
+Negative prompt: deformed
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2059859094, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Version: v1.7.0
+
+Time taken: 2 min. 22.4 sec.

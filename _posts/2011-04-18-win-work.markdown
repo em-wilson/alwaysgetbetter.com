@@ -1,0 +1,44 @@
+---
+author: emwilson
+comments: true
+date: 2011-04-18 03:42:17+00:00
+layout: post
+link: https://www.alwaysgetbetter.com/2011/04/17/win-work/
+slug: win-work
+title: How to Win at Work
+wordpress_id: 393
+categories:
+- Employment
+tags:
+- customer service
+- Employment
+- ethics
+- programming
+- security
+- work/life balance
+photo:
+  source: /images/ai/00014-3689207053
+  url: /images/ai/00014-3689207053.png
+  description: So Much Win
+---
+
+It isn't really hard to do well in a job; you just have to apply yourself and put the work first. Just like [during the interview](/blog/2011/04/13/interview-process/), your boss or employer's motivation is not to give you a hard time or to make your life difficult; all they really want is to get the work done and make money.
+
+A lot of employees seem to approach their job the same way they approached high school: as an institution with fixed rules and authority figures. In this mindset, the best way to succeed is by doing what the teacher (boss) dictates to the minimum acceptable level. Over time, it is possible to rise to the top on the merits of "years of good service".
+
+Let's be honest with ourselves: there is surely a more fulfilling way to spend the majority of our day.
+
+**Fail Fast**
+If we look at the best, most successful entrepreneurs, we'll find a list of failed companies leading up to their home run enterprise. Good entrepreneurs know that there is no secret to success - it is necessary to keep trying and learning from failures until we finally reach our goals. The best thing we can learn is to fail fast so we can move on to success faster.
+
+This flies in the face of the ordinary way of thinking which is to avoid failure. Failure hurts, but if we can learn to accept it, we can open the way to more resounding success.
+
+**Do It On Your Own Time**
+Your boss does not care about your personal growth. As a programmer, the company is not obligated to teach you the newest programming technology. The company is interested in turning a profit, and in order to afford to pay an employee, they need to earn several times the cost of that employee in order to maintain profitability.
+
+So how do you get new skills and remain relevant in a changing work environment? You need to study and learn, [especially during your free time](/blog/2008/02/18/programming-doesnt-mix-with-family/). Not sure what you should be studying? Read job boards - you will get a feeling for what is trending and what skills are in demand. You don't have to be job seeking, but having a polished resume and portfolio will keep your mind sharp and improve the quality of work you already deliver.
+
+**Make the Boss Look Good**
+While you're busy learning all your new languages and technologies, the boss is responsible for making sure work gets done and that profits are earned for _their_ boss. So what's the best way to get bumped up in line for that next promotion? Make your boss look good.
+
+If you are pulling your weight plus more, your boss will look more effective, which will raise everybody's boat. The best way to get noticed is by being responsible for everyone's success. But wait - didn't we say to embrace failure? By failing early and fast, we set ourselves up for our greatest successes. Don't settle for status quo - always get better.

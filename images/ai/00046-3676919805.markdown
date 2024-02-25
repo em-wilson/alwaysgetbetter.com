@@ -1,0 +1,19 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 18:43:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00046-3676919805
+title: One of 20 Project Managers
+---
+
+[![One of 20 Project Managers](/images/ai/00046-3676919805.png)](/images/ai/00046-3676919805.png)
+
+abstract painting of a rhinoceros going over a waterfall in a barrel
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 3676919805, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 3 min. 9.8 sec.
+

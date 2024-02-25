@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 20:02:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00045-3676919805
+title: Not Raining It's Pouring
+---
+
+[![Not Raining It's Pouring](/images/ai/00045-3676919805.png)](/images/ai/00045-3676919805.png)
+
+realistic drawing of a giant cumulus cloud, high above a small town. it has a large outdoor water faucet sticking out of it pouring water down onto the town like a waterfall, water is pooling on the streets
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 3676919805, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 53.9 sec.

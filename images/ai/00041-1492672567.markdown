@@ -1,0 +1,20 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 19:44:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00041-1492672567
+title: Knight Parting the Crowd
+---
+
+[![Knight Parting the Crowd](/images/ai/00041-1492672567.png)](/images/ai/00041-1492672567.png)
+
+(AI not understanding how many arms a human should have is part of the charm!)
+
+a bright and hopeful illustration of a knight in shining armor escorting an aloof child through a heavily crowded market
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 1492672567, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 3 min. 3.7 sec.

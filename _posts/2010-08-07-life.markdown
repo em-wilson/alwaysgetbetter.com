@@ -1,0 +1,28 @@
+---
+author: emwilson
+comments: true
+date: 2010-08-07 00:50:36+00:00
+layout: post
+link: https://www.alwaysgetbetter.com/2010/08/06/life/
+slug: life
+title: Life in Linux
+wordpress_id: 326
+categories:
+- Ubuntu
+- Windows Vista
+tags:
+- linux
+- open source
+- performance
+- windows
+---
+
+So I wiped my hard drive and installed Ubuntu. After [struggling with the decision to switch from Windows](/blog/2010/08/02/thinking-switching-ubuntu/) for some time, I finally resolved to move.
+
+So far the results have been very good. My system boots up and is ready to use in less than a minute, there is no lag loading and switching programs, and everything I need for my day-to-day programming is available much more readily than it was with the other operating system.
+
+The most striking difference to me is the amount of disk space I now have available to me. With all of my software, work projects, and operating system overhead, Windows left 80Gb free from my 285Gb drive. With all of my projects, code libraries, files and operating system installed, Ubuntu uses _just 6.7Gb_, leaving 97% of the drive available for my use. I am blown away by how much less clutter I have now.
+
+I haven't tried to do very much with Mono yet; we'll see how it works when I try making improvements to my [SiteAssistant](/blog/category/siteassistant/) project. I've been reading about [Mono's Winforms](http://www.mono-project.com/Winforms) capabilities and so far am impressed by the possibilities. We'll see how well it works with my fairly simple project; with any luck I may have found a cross-platform .NET solution with this one. Maybe the Winforms explorations will be a good topic for a future post.
+
+Not missing Office yet, either. My Quicken financial software has been running perfectly under Wine, and all of my files appear to have made the move intact. I still own licenses to all my software, so on those rare instances if I really need it I can install Windows with [VirtualBox](http://www.virtualbox.org/) and fill up some of that hard drive space I've earned.

@@ -1,0 +1,42 @@
+---
+author: emwilson
+comments: true
+date: 2011-12-31 18:35:13+00:00
+layout: post
+link: https://www.alwaysgetbetter.com/2011/12/31/2011-review/
+slug: 2011-review
+title: 2011 In Review
+wordpress_id: 471
+categories:
+- Blogging
+- Employment
+- General Programming
+photo:
+  source: http://www.flickr.com/photos/89165847@N00/6175196194/
+  url: http://farm7.static.flickr.com/6179/6175196194_9689e42f7e_m.jpg
+  description: Hot Desk
+  cc_author: mikecogh
+  cc_link: http://www.flickr.com/photos/89165847@N00/6175196194/
+---
+
+This year started off with a foray into Rails, an experience I won't be rushing to complete. Most of my time was spent building a small application during the Christmas break in 2010, but in 2011 I moved that site into production and [wrote a little bit about separating production and development values](/blog/2011/03/03/displaying-productiononly-markup-rails/) (a feat I repeated for the [Play! framework](/blog/2011/05/09/accessing-configuration-parameters-play-frameworks-template-engine/), which I actually like, later in the year). I think the only thing I really like from Rails, and this is a bit of a stretch, is the [database migrations](/blog/2011/04/20/database-migrations/).
+
+Having moved entirely over to a LAMP platform professionally, and getting good at the [security nuances](/blog/2011/04/26/protect-ssh-server-rsa-keys/) plus everything else, I reminisced a little about some of the creature comforts I missed in C#, like [operators for default null variables](/blog/2011/03/04/defaulting-null-variables/). But [when I discovered Time Machine](/blog/2011/04/15/backup-time/) on my Mac, there was no going back - until the company switched directions and I got thrown back into .NET development.
+
+That's right - back to .NET, and deep into the Windows Azure cloud. I dealt with things like figuring out [which is better - table storage or SQL Azure](/blog/2011/04/24/azure-table-storage-azure-sql/), and figuring out the nuances of their multiple SLAs, and [how to ensure we actually have Azure Compute instances on-line when it hits the fan](/blog/2011/04/25/ensure-sla-multiple-web-role-instances-windows-azure/). At this point [I have a pretty good handle on Azure's strengths and weaknesses](/blog/2011/08/02/windows-azure-thoughts-months/) and my overall impression of the platform is very positive. If I continue building sites on the Microsoft stack, I would definitely continue to use Azure - it _seems_ more expensive than other options at first glance, but it has some serious computing power behind it and takes the majority of administration headaches off of my plate. It really has enabled me to, for the most part, just focus on development whereas I was spending an increasing amount of my work day on system administration issues when supporting the LAMP platform.
+
+Scalability and high availability have been on my mind a lot, and I've been looking into some more 'off-beat' database solutions like [Drizzle](/blog/2011/03/24/drizzle-mysql-cloud/) for my transactional needs, as well as [speeding up existing deployments](/blog/2011/04/10/memcache-mysqls-hero/) by [moving as much as possible into RAM](/blog/2011/04/09/memcached-session-handler/). There's always a battle between [changing the way we work to take advantage of the new paradigm](/blog/2011/04/11/play-framework-saves-world/) or changing our [existing configuration](/blog/2011/04/12/performance-tuning-apache/) to get some more life out of it.
+
+The whole cloud computing buzz [feels tired](/blog/2011/04/05/cloud-computing-magical/) but has enabled a whole new class of online business. If you have a lot of commodity hardware you can achieve, [very cheaply](/blog/2011/04/21/accelerate-site-content-delivery-network/), [feats that were only possible with an expensive dedicated network](/blog/2011/04/16/small-site-big-footprint/) just a few years ago. Sure, it adds a lot of new choke points [you will need good people to help sort through](/blog/2011/04/19/tracking-website-speed-problems/), which is giving rise to a whole new sub-category of programmer specialization to make hiring in 2012 even more challenging.
+
+There is a downside to all the cloud computing, though, as we learned during the high profile [Amazon failures - backups are important](/blog/2011/04/23/surviving-cloud-failures/). This includes geographically-redundant systems that most organizations don't have the experience to deal effectively with just yet. Even so, the biggest lesson I learned was **never let your server run into swap space** or your performance will nose-dive. The growth of this site even prompted me to [move more of the site into memory](/blog/2011/12/20/fastcgi-nginx-performance-vm/) which prevented me from needing to spend a lot of money upgrading my infrastructure.
+
+Social media continues to grow, with companies [realizing they can't control its effect on their business in traditional ways](/blog/2011/04/08/command-control-social-media/) and less-than-useless cons ruining it for everyone by [selling CEOs on cheap gimmicks](/blog/2011/04/07/hire-social-media-expert/).
+
+Since my third child was born in February, I've definitely taken some time to sotp and reflect on what I want to work on, [why I want to keep working](/blog/2011/04/06/overwork-creative-work-ethic/), and what the next steps are career-wise and life-wise. I want to provide the best that I can for my family and 2012 is going to see a radical course change as I start to shift gears and begin building something that will really last, even outlast me. [When will my website start paying my bills?](/blog/2011/04/14/blog-living/) I don't expect it will.
+
+I learned a lot by running dozens (over a hundred?) [job interviews](/blog/2011/04/13/interview-process/) in the past two years. Ignoring the old adage that you shouldn't judge a book by it's cover, I learned that you _can_ tell with pretty good accuracy whether or not someone will be a good match for your company within the first five minutes of an interview. I'm less interested in hiring people with domain knowledge than I am in surrounding myself with the most intelligent developers I can find - one is a skill that can be taught, the other is an aptitude candidates need to bring to the table. Really, when it comes down to it, what I really want is for people I hire to [stand up for themselves (since they are adults)](/blog/2011/04/27/letter-word/) and [make me look good](/blog/2011/04/17/win-work/) by being awesome at what they do.
+
+I also learned a lot by being responsible for some very large projects; things like [the importance of continuous integration](/blog/2011/04/22/rely-continuous-integration/).
+
+What's next in 2012? Look for [mobile device use to continue growth](/blog/2011/04/28/pintsized-mobile-devices/) - every developer who plans to stay employed needs to know something about mobile development, because it's going to be ubiquitous with regular desktop programming very soon. Now that version 0.6 has been released with Windows support [is Node.js ready for prime-time](/blog/2011/11/07/nodejs-06-released/)? I had the opportunity to play with it a lot over the past few month - look for a book early in the new year co-authored by yours truly.

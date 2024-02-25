@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 15:07:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00033-2075869658
+title: Computer Logs
+---
+
+[![Computer Logs](/images/ai/00033-2075869658.png)](/images/ai/00033-2075869658.png)
+
+a cinematic photograph of computer monitors and wooden logs stacked in a messy pile, large field with rain on the lense
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 12.5, Seed: 2075869658, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 54.0 sec.

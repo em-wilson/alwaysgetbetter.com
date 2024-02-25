@@ -1,0 +1,27 @@
+---
+author: emwilson
+comments: true
+date: 2009-11-11 01:37:48+00:00
+layout: post
+link: https://www.alwaysgetbetter.com/2009/11/10/focus/
+slug: focus
+title: When You Focus on Getting Better
+wordpress_id: 267
+categories:
+- Blogging
+tags:
+- Blogging
+- social media
+- standards
+- work/life balance
+---
+
+It seems like correcting Seth Godin is a favourite pastime enjoyed by folks online. Sorry to break from the group, but I happen to think he is a deep well of relevant information.
+
+This week he brought up the idea of [upsides versus downsides](http://sethgodin.typepad.com/seths_blog/2009/11/upside-vs-downside.html) - how much effort do businesses put into minimizing their downside versus the time they put into offering the best user experience?
+
+One of the primary examples from the post is that of a hospital spending a huge amount of time doing paperwork to prevent litigation and prevent people from getting _worse_ when their primary goal (and reason for existing) should be improving the lives of the patients coming through their doors.
+
+The hospital example was interesting and timely because in "real life" the Jewish General Hospital recently came out and said it has been able to [improve patient care (upside) by reducing errors (downside)](http://www.ignorantmouth.com/2009/11/hospitals-save-lives-admit-mistakes/) through its new(ish) full disclosure policy. This ties in nicely with Seth's article because it proves that it is possible for even large organizations to let go of the status quo and achieve new levels of excellence.
+
+In the case of the Jewish General Hospital, it seems paradoxical but by admitting and dealing with errors, the hospital is actually _less likely_ to be sued and face costly litigation. In essence, they have found a way to improve patient care, cut costs, and foster an open corporate culture. Way to go!
