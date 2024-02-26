@@ -22,19 +22,19 @@ Now that the rebellion against IE6 has hit mainstream, a brave new world of CSS3
 CSS is intended to define the appearance of elements, not their behaviour. Be very careful about "overloading" CSS to accomplish tasks best performed by JavaScript.
 
 A popular example of poor CSS usage is drop-down menu lists. Some web programmers use CSS' :hover selector to instruct the web browser to display sub-navigation when the user hovers over a list item.
-`
+```css
 ul#menu li:hover ul { display: block; }
-`
+```
 
 This is much better accomplished using a touch of jQuery:
-`
+```javascript
 jQuery("ul#menu ul").css({display: "none"}); // For Opera
 	jQuery("ul#menu li").hover(function(){
 		jQuery(this).find('ul:first').css({visibility: "visible", display: "none"}).show(268);
 		},function(){
 		jQuery(this).find('ul:first').css({visibility: "hidden"});
 		});
-`
+```
 Not only is this example less dependent on consistent web browser support for the CSS :hover selector, we've even thrown in a spiffy little roll-out animation.
 
 **Keep It Simple**

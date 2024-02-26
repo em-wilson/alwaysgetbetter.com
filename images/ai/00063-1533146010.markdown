@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 23:42:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00063-1533146010
+title: Spin Doctor
+---
+
+[![Spin Doctor](/images/ai/00063-1533146010.jpg)](/images/ai/00063-1533146010.jpg)
+
+cinematic avant garde illustration with subdued colours, a doctor DJ laughing and spinning records
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes, extra limbs, deformed arms, extra arms
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 1533146010, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 3 min. 0.1 sec.

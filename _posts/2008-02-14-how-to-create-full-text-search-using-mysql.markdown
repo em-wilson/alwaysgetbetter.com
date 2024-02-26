@@ -37,70 +37,27 @@ Incorporating a decent search tool into a web site using PHP is dead simple.  Al
 
 
 Let’s get started.  Our simplistic database table (PRODUCTS) will consist of the following columns:
-<table >
-<tr >
-Column Name
-Data Type
-Description
-</tr>
-<tr >
 
-<td >intID
-</td>
+Column Name     | Data Type     | Description
+----------------|---------------|-----------------------------
+intID           | int           | Product ID and Primary Key
+vcrName         | varchar(25)   | Product Name
+txtDescription  | text          | Product Description
+vcrPhoto        | varchar(40)   | Path (URL) to product photo
 
-<td >int
-</td>
-
-<td >Product ID and Primary Key
-</td>
-</tr>
-<tr >
-
-<td >vcrName
-</td>
-
-<td >varchar(25)
-</td>
-
-<td >Product Name
-</td>
-</tr>
-<tr >
-
-<td >txtDescription
-</td>
-
-<td >text
-</td>
-
-<td >Product Description
-</td>
-</tr>
-<tr >
-
-<td >vcrPhoto
-</td>
-
-<td >varchar(40)
-</td>
-
-<td >Path (URL) to product photo
-</td>
-</tr>
-</table>
 Obviously this is just a simplified example, but the product ID, name, description and photo should be enough for the purposes of our demonstration.
 
 The SQL to create the table looks like this:
-[source:sql]
+```sql
 CREATE TABLE PRODUCTS
 (
-intID int auto_increment,
-vcrName varchar(25),
-txtDescription text,
-vcrPhoto varchar(40),
-CONSTRAINT PRODUCTS_pk PRIMARY KEY ( intID )
+  intID int auto_increment,
+  vcrName varchar(25),
+  txtDescription text,
+  vcrPhoto varchar(40),
+  CONSTRAINT PRODUCTS_pk PRIMARY KEY ( intID )
 );
-[/source]
+```
 
 
 ## Add the Full-Text Index
@@ -108,23 +65,23 @@ CONSTRAINT PRODUCTS_pk PRIMARY KEY ( intID )
 
 In this example, we’re interested in searching the name and description fields of our products.  In order to add the full-text index to our table, we use the ALTER TABLE command:
 
-[source:sql]
+```sql
 ALTER TABLE PRODUCTS ADD FULLTEXT( vcrName, txtDescription );
-[/source]
+```
 
 Alternatively, we could have created the index along with the table in our original CREATE statement like this:
 
-[source:sql]
+```sql
 CREATE TABLE PRODUCTS
 (
-intID int auto_increment,
-vcrName varchar(25),
-txtDescription text,
-vcrPhoto varchar(40),
-CONSTRAINT PRODUCTS_pk PRIMARY KEY ( intID ),
-FULLTEXT( vcrName, txtDescription )
+  intID int auto_increment,
+  vcrName varchar(25),
+  txtDescription text,
+  vcrPhoto varchar(40),
+  CONSTRAINT PRODUCTS_pk PRIMARY KEY ( intID ),
+  FULLTEXT( vcrName, txtDescription )
 );
-[/source]
+```
 
 
 ## Searching For Text
@@ -132,10 +89,10 @@ FULLTEXT( vcrName, txtDescription )
 
 Now that the index has been created, we can go ahead and search the database.  To activate full-text search, we use the MATCH () AGAINST () syntax like this:
 
-[source:sql]
+```sql
 SELECT intID, vcrName, txtDescription, vcrPhoto
 FROM PRODUCTS
 WHERE MATCH( vcrName, txtDescription ) AGAINST ( ‘search terms here’ );
-[/source]
+```
 
 That’s all there is to it!  Anyone with access to a mySQL database should be able to incorporate search into their sites without too much difficulty.  Of course this is a very basic introduction, but should be more the sufficient to get going with.

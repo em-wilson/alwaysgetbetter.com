@@ -42,21 +42,21 @@ Move it over to the new server and run this command to overwrite your target:
 
 Log into your MySQL database and issue this update command to ensure Wordpress redirects to the new server:
 
-[source language=":sql"]
+```sql
 UPDATE wp_options SET option_value = replace(option_value, 'http://www.old-domain.com', 'http://www.new-domain.com') WHERE option_name = 'home' OR option_name = 'siteurl';
-[/source]
+```
 
 Next update the post URLs:
 
-[source language=":sql"]
+```sql
 UPDATE wp_posts SET guid = replace(guid, 'http://www.old-domain.com','http://www.new-domain.com');
-[/source]
+```
 
 Finally, update your posts' content to fix any internal links:
 
-[source language=":sql"]
+```sql
 UPDATE wp_posts SET post_content = replace(post_content, 'http://www.old-domain.com', 'http://www.new-domain.com');
-[/source]
+```
 
 That's all!  Repeat these steps when moving from production to development and vise-versa.
 

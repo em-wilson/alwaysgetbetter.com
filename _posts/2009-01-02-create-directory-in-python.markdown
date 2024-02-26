@@ -18,7 +18,7 @@ I needed to learn how to create directories using Python and found this [great r
 
 Although I didn't really add anything new to the code, I ended up creating the following commented function which I share here in case it helps more users to understand.
 
-[source:python]
+```python
 # If directory (path) doesn't exist, create it
 def createPath(path):
     if not os.path.isdir(path):
@@ -29,4 +29,4 @@ createPath( "C:\\Python\\myNewDirectory" )
 
 # Example of Linux file path
 createPath( "/home/username/myNewDirectory" )
-[/source]
+```

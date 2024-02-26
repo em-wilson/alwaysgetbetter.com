@@ -22,7 +22,7 @@ Opening and Closing Connections
 
 Case in point: managing of sql database connection resources. How many of us learned to write something like this:
 
-`
+```chsarp
 // Create a new SQL Connection object
 SqlConnection conn = new SqlConnection( connectionString );
 
@@ -37,7 +37,7 @@ cmd.ExecuteNonQuery();
 
 // Close the database connection
 conn.Close();
-`
+```
 
 Sure it’s easy to follow, but if you deploy that on a moderately busy server you are going to make your client very unhappy.
 
@@ -51,7 +51,7 @@ SQLConnection and SQLCommand objects reference unmanaged resources, meaning the 
 
 So our code gets updated to look like this:
 
-`
+```csharp
 // Create a new SQL Connection object
 SqlConnection conn = new SqlConnection( connectionString );
 
@@ -72,7 +72,7 @@ conn.Close();
 
 // Dispose of the connection object
 conn.Dispose();
-`
+```
 
 
 
@@ -84,61 +84,61 @@ What happens if there’s a problem, and your code fails to complete? If your ap
 
 Fortunately, C# includes the try … finally reserved words. If anything within the try { } block fails, the finally { } still executes. We can easily apply this to our program code:
 
-`
+```csharp
 // Create a new SQL Connection object
 SqlConnection conn = new SqlConnection( connectionString );
 
 try
 {
-// Open the connection to the database
-conn.Open();
+    // Open the connection to the database
+    conn.Open();
 
-// Create a new SQL Command
-SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn );
+    // Create a new SQL Command
+    SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn );
 
-try
-{
-// Execute the command
-cmd.ExecuteNonQuery();
+    try
+    {
+        // Execute the command
+        cmd.ExecuteNonQuery();
+    }
+    finally
+    {
+        // Dispose of the command
+        cmd.Dispose();
+    }
+
+    // Close the database connection
+    conn.Close();
 }
 finally
 {
-// Dispose of the command
-cmd.Dispose();
+    // Dispose of the connection object
+    conn.Dispose();
 }
-
-// Close the database connection
-conn.Close();
-}
-finally
-{
-// Dispose of the connection object
-conn.Dispose();
-}
-`
+```
 
 For my own part, I prefer the using keyword. We can include a using call anywhere we would ordinarily use a disposal object. When the code is compiled, it behaves the same as try … catch, but leaves our program code much more readable.
 
 Even better, we don’t even have to bother calling Dispose() because it does it for us!
 
-`
+```csharp
 // Create a new SQL Connection object
 using ( SqlConnection conn = new SqlConnection( connectionString ) )
 {
-// Open the connection to the database
-conn.Open();
+    // Open the connection to the database
+    conn.Open();
 
-// Create a new SQL Command
-using ( SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn ) )
-{
-// Execute the command
-cmd.ExecuteNonQuery();
-}
+    // Create a new SQL Command
+    using ( SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn ) )
+    {
+        // Execute the command
+        cmd.ExecuteNonQuery();
+    }
 
-// Close the database connection
-conn.Close();
+    // Close the database connection
+    conn.Close();
 }
-`
+```
 
 Slick.
 
@@ -153,23 +153,23 @@ Whenever we Open() a database connection, we expect to use the database right aw
 
 Let’s change our example code so we will now Open() at the last possible opportunity, and Close() right away when we’ve made our call:
 
-`
+```csharp
 // Create a new SQL Connection object
 using ( SqlConnection conn = new SqlConnection( connectionString ) )
 {
-// Create a new SQL Command
-using ( SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn ) )
-{
-// Open the connection to the database
-conn.Open();
+    // Create a new SQL Command
+    using ( SqlCommand cmd = new SqlCommand( “DELETE FROM BabyNames;”, conn ) )
+    {
+        // Open the connection to the database
+        conn.Open();
 
-// Execute the command
-cmd.ExecuteNonQuery();
+        // Execute the command
+        cmd.ExecuteNonQuery();
 
-// Close the connection to the database
-conn.Close();
+        // Close the connection to the database
+        conn.Close();
+    }
 }
-}
-`
+```
 
 In the end, the program code we wrote is very similar to the newbie code we started with. However, we’re now protecting our system from memory leaks, and we’re protecting our database from wasted clock cycles. Our code is easy to read and stable.

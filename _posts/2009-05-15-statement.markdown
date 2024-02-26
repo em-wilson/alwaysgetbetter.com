@@ -20,12 +20,12 @@ _using_ forces us as programmers to be honest about releasing memory to the CLR.
 
 If you come from the C++ world, you're probably (hopefully) used to calling **delete** to deallocate any memory you reserved. You also know that forgetting the **delete** (or **delete []** on arrays) results in a memory leak. You might think of **Dispose()** as C#'s implementation of the **delete** statement.
 
-`
+```csharp
 using ( SqlCommand cmd = new SqlCommand( sqlStatement, sqlConnection ) )
 {
    // Do something
 }
-`
+```
 
 _using_ acts as a try...catch...finally block, so if your code fails your object will still be disposed. The using statement keeps everything wrapped into a neat little package so you don't forget to keep your local variables in scope.
 

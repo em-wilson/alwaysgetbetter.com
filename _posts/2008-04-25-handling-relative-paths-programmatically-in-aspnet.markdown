@@ -29,9 +29,9 @@ There are two ways of doing this:
 
 If we are programming a page template or a server control, we can use the **ResolveUrl()** function provided by our environment context.
 
-[source:c#]
+```csharp
 string resolvedUrl = ResolveUrl( "~/index.php" );
-[/source]
+```
 
 On AlwaysGetBetter.com, "~/index.php" would resolve to **http://www.alwaysgetbetter.com/blog/index.php**.  On another site, it might resolve to the root such as **http://www.abetterblog.com/index.php**.  Programming this way makes our solution more portable.
 
@@ -44,7 +44,7 @@ Sometimes we need to use relative paths from outside the context of a web page. 
 
 Fortunately, .NET provides us with the static helper class _VirtualPathUtility_.
 
-[source:c#]
+```csharp
 string redirUrl = VirtualPathUtility.ToAbsolute("~/redirPage.aspx");
 Response.Redirect( redirUrl );
-[/source]
+```

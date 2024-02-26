@@ -17,14 +17,14 @@ tags:
 Being used to SQL Server, I get messed up when moving to Oracle.  For reference, here are equivalent top N queries in both environments:
 
 **SQL Server**:
-[source:sql]
+```sql
 SELECT TOP 10 book_name, price*sales
 FROM tblBooks;
-[/source]
+```
 
 **Oracle**:
-[source:sql]
+```sql
 SELECT book_name, price*sales
 FROM tblBooks
 WHERE ROWNUM <= 10;
-[/source]
+```

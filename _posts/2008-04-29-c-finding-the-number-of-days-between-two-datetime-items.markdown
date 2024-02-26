@@ -20,9 +20,9 @@ One very common requirement is for the number of days elapsed since a particular
 
 The easiest way to create a TimeSpan is like this:
 
-[source:c#]
+```csharp
 TimeSpan tsMySpan = DateTime.Now.Subtract( dtCompareTime );
 
 // The number of days elapsed can be accessed like this:
 // tsMySpan.Days
-[/source]
+```

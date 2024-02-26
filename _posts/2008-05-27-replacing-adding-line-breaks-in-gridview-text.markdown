@@ -26,16 +26,16 @@ For long blocks of text, it may be desirable to have your GridView insert HTML l
 
 As a programmer, my first instinct is to try to solve the problem using code behind.  I add a RowDataBound event handler to my GridView and create the command this way:
 
-[source language=":c#"]
+```csharp
 protected void gvMessageList_RowDataBound(object sender, GridViewRowEventArgs e)
 {
-GridViewRow row = e.Row;
-if (e.Row.RowType == DataControlRowType.DataRow)
-{
-row.Cells[2].Text = row.Cells[2].Text.Replace("\n", "<br />");
+  GridViewRow row = e.Row;
+  if (e.Row.RowType == DataControlRowType.DataRow)
+  {
+    row.Cells[2].Text = row.Cells[2].Text.Replace("\n", "<br />");
+  }
 }
-}
-[/source]
+```
 
 Although it works, it has several drawbacks:
 
@@ -55,7 +55,9 @@ Although it works, it has several drawbacks:
 
 By far, the better solution is to simply declare the formatting changes in the same place as the GridView.  Using a Template field, I can add line breaks to my message by adding this:
 
+```csharp
 <%# Eval("Message").ToString().Replace("\n", "<br />") %>
+```
 
 
 ## More Information

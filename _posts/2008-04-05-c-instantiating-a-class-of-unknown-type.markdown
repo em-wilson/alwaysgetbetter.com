@@ -21,11 +21,11 @@ The problem is: _How do you instantiate a form when the type is unknown?_
 
 The code snippet is:
 
-[source:c#]
+```csharp
 CreateForm( typeof(CustomFormType) );
 
 Form CreateForm( Type formType )
 {
-return (Form)Activator.CreateInstance(formType);
+    return (Form)Activator.CreateInstance(formType);
 }
-[/source]
+```

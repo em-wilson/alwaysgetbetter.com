@@ -18,11 +18,11 @@ tags:
 - social media
 - twitter
 - web 2.0
+photo:
+  source: /images/ai/00063-1533146010
+  url: /images/ai/00063-1533146010.jpg
+  description: Spin doctor
 ---
-
-[![little monkey](http://farm4.static.flickr.com/3206/2480513431_c15cb9b276_m.jpg)](http://www.flickr.com/photos/23865500@N00/2480513431/)  
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by/2.0/) [photo](http://www.photodropper.com/photos/) credit: [michelb](http://www.flickr.com/photos/23865500@N00/2480513431/)
-
 
 You have to shake your head every time someone goes off about "netbooks", those wonderful, tiny, _cute_ computers that don't cost very much. When you look at them, what do you really see? How about a crappy laptop that can barely run Windows. [The thing is cheap](http://gigaom.com/2009/01/26/netbook-cheap-pc/) in more ways than one - but somehow marketers have been able to spin that as a good thing and make big profits off useless hardware without needing to develop anything new.
 

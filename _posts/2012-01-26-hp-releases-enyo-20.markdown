@@ -17,7 +17,7 @@ tags:
 - webos
 ---
 
-![](http://cdn.precentral.net/resources/images/000/106/057/large/enyo-html5-palm-logos.png)Now that WebOS is being made open source, HP has released a new version of the Enyo JavaScript framework. Whereas the first version of the framework only supported Webkit-based environments (like the HP Touchpad, or Safari or Chrome), the newer version has expanded support for Firefox and IE9 as well. Developers who created apps with the old framework will have to wait a little while longer before all of the widgets and controls from Enyo 1.0 are ported over.
+Now that WebOS is being made open source, HP has released a new version of the Enyo JavaScript framework. Whereas the first version of the framework only supported Webkit-based environments (like the HP Touchpad, or Safari or Chrome), the newer version has expanded support for Firefox and IE9 as well. Developers who created apps with the old framework will have to wait a little while longer before all of the widgets and controls from Enyo 1.0 are ported over.
 
 What does this mean for app developers? Now that Enyo is open-source, it means applications built on the platform will run on Android and iOS. But it's not a disruptive technology - both Android and iOS have supported HTML5 applications for quite awhile; HP will be competing against mature frameworks like jQuery Mobile.
 

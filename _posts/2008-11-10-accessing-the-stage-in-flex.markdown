@@ -24,12 +24,11 @@ If you need to, for example, attach a MOUSE_MOVE event to the application stage 
 
 
 
-[source:jscript]
-addEventListener( Event.ADDED_TO_STAGE, function(e:Event):void
-{
-stage.addEventListener( MouseEvent.MOUSE_MOVE, myMouseMoveEvent );
+```javascript
+addEventListener( Event.ADDED_TO_STAGE, function(e:Event):void {
+   stage.addEventListener( MouseEvent.MOUSE_MOVE, myMouseMoveEvent );
 });
-[/source]
+```
 
 
 
@@ -38,6 +37,6 @@ stage.addEventListener( MouseEvent.MOUSE_MOVE, myMouseMoveEvent );
 
 The system manager parents all displayable elements within the Flex application.  It is an elegant way of accessing the stage through custom flex components which have not yet been added to it.
 
-[source:jscript]
+```javascript
 systemManager.stage.addEventListener( MouseEvent.MOUSE_MOVE, myMouseMoveEvent );
-[/source]
+```

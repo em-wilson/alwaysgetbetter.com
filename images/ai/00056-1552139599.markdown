@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 21:27:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00056-1552139599
+title: Wind Zone Music
+---
+
+[![Wind Zone Music](/images/ai/00056-1552139599.jpg)](/images/ai/00056-1552139599.jpg)
+
+an brightly-colored abstract illustration of a programmer away wearing headphones and typing on a laptop computer
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes, extra limbs, deformed arms, extra arms
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 1552139599, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 54.1 sec.

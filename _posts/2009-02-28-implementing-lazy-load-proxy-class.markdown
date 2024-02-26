@@ -15,11 +15,13 @@ tags:
 - data types
 - Design Patterns
 - efficiency
+photo:
+  source: http://www.flickr.com/photos/76045572@N00/3258171732/
+  url: http://farm4.static.flickr.com/3096/3258171732_38e877e923_m.jpg
+  description: Relaxing in Slippers
+  cc_author: Gog Llundain
+  cc_link: http://www.flickr.com/photos/76045572@N00/3258171732/
 ---
-
-[![Relaxing in Slippers](http://farm4.static.flickr.com/3096/3258171732_38e877e923_m.jpg)](http://www.flickr.com/photos/76045572@N00/3258171732/)
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-sa/2.0/) [photo](http://www.photodropper.com/photos/) credit: [Gog Llundain](http://www.flickr.com/photos/76045572@N00/3258171732/)
-
 
 Lazy load is a design pattern wherein an object is not instantiated until the last possible minute. This is very handy when working with lists of items whose contents are expensive to retrieve from the data store.
 
@@ -46,7 +48,7 @@ Our print function is never aware of ArtistProxy - as far as it is concerned it 
 
 Now that we understand how our classes relate to each other, it's time to use them in code:
 
-[source:csharp]
+```csharp
 // Our printArtists() function looks something like this.
 // Notice how we are unaware whether the artist is
 // an actual object, or a whether it is a proxy.
@@ -164,7 +166,7 @@ public class ArtistProxy : IArtist
     return _artist.getNumberOfAlbums();
   }
 }
-[/source]
+```
 
 Of course for the sake of convenience a few things are missing from my example:
 1. An actual data source

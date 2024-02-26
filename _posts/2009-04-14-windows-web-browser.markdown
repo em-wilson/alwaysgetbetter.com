@@ -15,11 +15,13 @@ tags:
 - firefox
 - Internet Explorer
 - standards
+photo:
+  source: http://www.flickr.com/photos/51567388@N00/114507298/
+  url: http://farm1.static.flickr.com/41/114507298_04a482ca9b_m.jpg
+  description: European Flag
+  cc_author: rockcohen
+  cc_link: http://www.flickr.com/photos/51567388@N00/114507298/
 ---
-
-[![European Flag](http://farm1.static.flickr.com/41/114507298_04a482ca9b_m.jpg)](http://www.flickr.com/photos/51567388@N00/114507298/)  
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-sa/2.0/) [photo](http://www.photodropper.com/photos/) credit: [rockcohen](http://www.flickr.com/photos/51567388@N00/114507298/)
-
 
 The EU wants to [stop Microsoft from bundling Internet Explorer](http://mashable.com/2009/01/19/eu-internet-explorer/) with its operating system. In today's day and age, how does this make sense? The charge is led by Opera, who claims that having Internet Explorer ship with Windows unfairly limits competitors from getting through to customers.
 

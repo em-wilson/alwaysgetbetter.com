@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 23:19:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00061-2864560267
+title: Flaming Horse
+---
+
+[![Flaming Horse](/images/ai/00061-2864560267.jpg)](/images/ai/00061-2864560267.jpg)
+
+photograph of a robot horse breathing fire
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes, extra limbs, deformed arms, extra arms
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 2864560267, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 42.2 sec.

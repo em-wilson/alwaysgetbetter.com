@@ -13,10 +13,10 @@ categories:
 
 Apart from the login screen, if you are using a Ubuntu computer and want to know the version number:
 
-`
+```
 > cat /etc/lsb-release 
 DISTRIB_ID=Ubuntu
 DISTRIB_RELEASE=10.04
 DISTRIB_CODENAME=lucid
 DISTRIB_DESCRIPTION="Ubuntu 10.04.2 LTS"
-`
+```

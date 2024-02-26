@@ -1,0 +1,19 @@
+---
+author: emwilson
+comments: false
+date: 2024-02-25 23:33:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/ai/00062-1703907608
+title: Cloud Wizards
+---
+
+[![Cloud Wizards](/images/ai/00062-1703907608.jpg)](/images/ai/00062-1703907608.jpg)
+
+oil painting of a cloud wizard in a stormy landscape
+
+Negative prompt: lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, watermark, deformed, missing clothes, extra limbs, deformed arms, extra arms
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 6.5, Seed: 1703907608, Size: 1536x1024, Model hash: 31e35c80fc, Model: sd_xl_base_1.0, Refiner: sd_xl_refiner_1.0 [7440042bbd], Refiner switch at: 0.8, Version: v1.7.0
+
+Time taken: 2 min. 59.8 sec.
+

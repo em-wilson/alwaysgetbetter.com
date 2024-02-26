@@ -9,11 +9,11 @@ title: Prevent Link Rot From Suffocating Your Blog or Web Site
 wordpress_id: 226
 categories:
 - General Programming
+photo:
+  source: /images/ai/00000-2742228962
+  url: /images/ai/00000-2742228962.jpg
+  description: Logs rot, so do links
 ---
-
-[![Anchor Chain](http://farm4.static.flickr.com/3149/2683651538_7ddc219900_m.jpg)](http://www.flickr.com/photos/48394718@N00/2683651538/)  
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by/2.0/) [photo](http://www.photodropper.com/photos/) credit: [chefranden](http://www.flickr.com/photos/48394718@N00/2683651538/)
-
 
 Link rot occurs when a page linked to from within your web site becomes invalid. Visitors to your site who click on that link will receive a 404 "Not Found" message rather than the quality content they were expecting to find. This matters to you as a web site operator because:
 

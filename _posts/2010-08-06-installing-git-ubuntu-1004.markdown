@@ -13,8 +13,8 @@ categories:
 
 Here's how to install Git on Ubuntu 10.04
 
-`
+```
 sudo apt-get install git-core
-`
+```
 
 (The package name is _git-core_, not _git_)

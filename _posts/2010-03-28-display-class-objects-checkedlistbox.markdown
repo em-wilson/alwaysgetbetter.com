@@ -23,9 +23,9 @@ If you want to use anything more complex than a list of strings in a ListBox, yo
 
 In this case, I want to display a list of posts found in a blog. **Blog** is a class which contains _Posts_, an array of **Post** classes. To start, I created the CheckedListBox in the form designer, and I add the posts to it like this:
 
-[sourcecode language="csharp" light="true"]
+```csharp
 clbPages.Items.AddRange(_blog.Posts);
-[/sourcecode]
+```
 
 If I do nothing else, the ListBox will call the Post's ToString() method and will display as:
 
@@ -45,8 +45,7 @@ We have two options for displaying this correctly:
 
 2. Add a string converter: This will automatically convert each post object to a usable string when called by an object like a ListBox. ListBox uses Convert.ToString() - this uses that converter more appropriately. ToString() should only be used as a fallback.
 
-[sourcecode language="csharp" wraplines="false"]
-<pre>
+```csharp
 // Use System for the Type object
 using System;
 // Use ComponentModel for the TypeConvert base class
@@ -112,20 +111,18 @@ namespace SiteAssistant.Blog
     }
 }
 </pre>
-[/sourcecode]
+```
 
 The code we write in .NET is like the meat inside a sandwich. The framework is the bread that wraps around our logic and keeps our application together. Our new Posts string converter will be called by the application without us needing to override the **Convert** function.
 
 It doesn't happen by magic of course. The final change we have to make is to add information about our conversion function to the posts class:
 
-[sourcecode language="csharp" wraplines="false"]
-<pre>
+```csharp
     [System.ComponentModel.TypeConverter(typeof(PostConverter))]
     public class Post
     {
         // Rest of the code goes here
     }
-</pre>
-[/sourcecode]
+```
 
 That's all there is to it! Now we can pass a list of Posts to the CheckedListBox and manipulate each item directly. In this application, I will be using this technique to provide the Post object to the text editor with a double-click.

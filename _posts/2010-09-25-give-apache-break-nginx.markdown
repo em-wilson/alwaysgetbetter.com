@@ -27,7 +27,7 @@ To start, change Apache's settings so it listens on a separate port (rather than
 Next, set up nginx to listen on the default http port 80. We will let Nginx decide whether each request should be served directly from the hard drive, or whether it should pass through to Apache.
 
 The config file for nginx looks like this:
-`
+```
 server {
 listen 80;
 server_name mysite.com www.mysite.com;
@@ -57,6 +57,6 @@ proxy_busy_buffers_size 512k;
 proxy_temp_file_write_size 512k;
 }
 }
-`
+```
 
 It is also possible to serve PHP and other dynamic content using nginx, but for our purposes it makes a lot more sense to use Apache for scripting and nginx as the web-facing proxy.

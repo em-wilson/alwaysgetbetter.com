@@ -30,9 +30,9 @@ Before beginning, you'll need to have the Memcached server running. I won't get 
 
 Installing memcache for PHP is hard (not!). Here's how you do it:
 
-`
+```
 pecl install memcache
-`
+```
 
 Careful, it's **memcache**, without the 'd' at the end. Why is this the case? It's a long story - let's save the history lesson for another day.
 

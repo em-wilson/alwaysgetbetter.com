@@ -15,20 +15,20 @@ tags:
 
 By default, SQL Server doesn't allow an operation like this:
 
-[source:sql]
+```sql
 SELECT SUM(blnBitColumn) FROM tblTable;
-[/source]
+```
 
 In order to achieve this result, you must first convert the bit column to a numeric type:
 
-[source:sql]
+```sql
 SELECT SUM(CONVERT(int,blnBitColumn)) FROM tblTable;
-[/source]
+```
 
 This counts the number of times the bit is **true**.
 
 If you want to get the flip-side of that to see how many times the bit is **false**, just subtract the total number of bits from the positive:
 
-[source:sql]
+```sql
 SELECT COUNT(blnBitColumn)-SUM(CONVERT(int,blnBitColumn)) FROM tblTable;
-[/source]
+```

@@ -12,11 +12,13 @@ categories:
 tags:
 - internet
 - networking
+photo:
+  source: http://www.flickr.com/photos/82365211@N00/2215461980/
+  url: http://farm3.static.flickr.com/2101/2215461980_e236194144_m.jpg
+  description: internet
+  cc_author: kalleboo
+  cc_link: http://www.flickr.com/photos/82365211@N00/2215461980/
 ---
-
-[![internet](http://farm3.static.flickr.com/2101/2215461980_e236194144_m.jpg)](http://www.flickr.com/photos/82365211@N00/2215461980/)
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-sa/2.0/) [photo](http://www.photodropper.com/photos/) credit: [kalleboo](http://www.flickr.com/photos/82365211@N00/2215461980/)
-
 
 In December 2008, a "fault" in three of the undersea cables under the Mediterranean Sea denied Internet service to thousands of subscribers in Egypt, India and the Middle East.
 

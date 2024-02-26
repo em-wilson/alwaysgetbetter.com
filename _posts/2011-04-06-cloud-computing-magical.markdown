@@ -14,6 +14,10 @@ categories:
 tags:
 - customer service
 - hosting
+photo:
+  source: /images/ai/00062-1703907608
+  url: /images/ai/00062-1703907608.jpg
+  description: Cloud wizards
 ---
 
 Back in 2009 I was tired of hearing the phrases "cloud computing" and "in the cloud". These days I'm so numb to their meaninglessness that it doesn't even phase me anymore. Somewhere along the way marketers took over the internet and 'social media' became a job position.

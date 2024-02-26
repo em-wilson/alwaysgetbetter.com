@@ -19,14 +19,22 @@ The MongoDB classes do not come with default generators for Rails applications. 
 
 Installation:
 1. Download the generators into your application's lib folder:
-`cd myapp
+```
+cd myapp
 git clone git://github.com/indirect/rails3-generators.git lib/generators`
+```
 
 2. Install the rails3-generators gem
-`gem install rails3-generators`
+```
+gem install rails3-generators
+```
 
 3. Add this to your project's Gemfile
-`gem 'rails3-generators'`
+```
+gem 'rails3-generators'
+```
 
 Usage:
-`rails generate model ModelName --orm=mongo_mapper`
+```
+rails generate model ModelName --orm=mongo_mapper
+```

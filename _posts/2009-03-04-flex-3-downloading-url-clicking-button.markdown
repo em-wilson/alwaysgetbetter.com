@@ -13,7 +13,7 @@ categories:
 
 Suppose you have a button in your Flex program. When the user clicks on your button, they are prompted to choose where they would like to download a file. But... the file never comes:
 
-[source:javascript]
+```javascript
 protected function buttonClick():void
 {
     var mpRequest:URLRequest = new URLRequest("soundbyte.mp3");
@@ -29,13 +29,13 @@ protected function buttonClick():void
         trace("Unable to download file.");
     }
 } 
-[/source]
+```
 
 The reason the file never downloads is because as soon as the function completes, it goes out of scope. As far as I know, this has to do with the event model using weak referencing by default when triggered by clicking on the button.
 
 The simplest solution is to simply move the variables outside the button:
 
-[source:javascript]
+```javascript
 protected var mpRequest:URLRequest;
 protected var localRef:FileReference;
 
@@ -54,4 +54,4 @@ protected function buttonClick():void
         trace("Unable to download file.");
     }
 } 
-[/source]
+```

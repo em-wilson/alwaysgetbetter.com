@@ -22,19 +22,19 @@ This is a common situation: I needed to compare two strings with unknown capital
 **Option 1: strcasecmp**
 Whenever possible developers should try to use built-in functions which are compiled code and (in general) run much faster than anything you could write. PHP has _strcasecmp_ to case-insentively compare two strings. Sounds like a perfect match!
 
-`
+```php
 if ( strcasecmp('country','Country') != 0 ) {
   // We have a match!
 }
-`
+```
 
 **Option 2: strtolower**
 Always read the documentation, but draw your own conclusions. One commentator in the PHP documentation suggested developers never use strcasecmp, and use strtolower with regular equality like this:
-`
+```php
 if ( strtolower('country') === strtolower('Country') ) {
   // We have a match
 }
-`
+```
 
 **Test the Speed**
 Both methods accomplish the same thing, but do we really want to skip using strcasecmp()? Which is the better option?

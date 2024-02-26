@@ -22,33 +22,33 @@ Abstract classes in Java cannot be instantiated.  Here we're going to consider w
 
 For example, you can't do this:
 
-[source:java]
+```java
 ActionListener buttonListener = new ActionListener();
-[/source]
+```
 
 You have to do this:
 
-[source:java]
+```java
 public class ButtonListener
 {
-public void actionPerformed( ActionEvent event )
-{
-}
+  public void actionPerformed( ActionEvent event )
+  {
+  }
 }
 
 ButtonListener buttonListener = new ButtonListener();
 ourJButton.addActionListener( buttonListener );
-[/source]
+```
 
 However, this code _is_ valid:
 
-[source:java]
+```java
 ourJButon.addActionListener( new ActionListener() {
-public void actionPerformed( ActionEvent event )
-{
-}
+  public void actionPerformed( ActionEvent event )
+  {
+  }
 } );
-[/source]
+```
 
 What's going on?  It would _appear_ that we are instantiating a new ActionListener and giving it an actionPerformed() method.  We've succeeded in giving our button a listener without first creating a class to handle the event.
 

@@ -30,7 +30,7 @@ I recently needed to handle file uploads from a Flash form post using CGI and Py
 
 Here is the file I came up with:
 
-[source:python]
+```python
 #!/usr/bin/python
 import cgi, sys, os
 
@@ -61,6 +61,6 @@ if postVars.has_key("myFile"):
         if not chunk: break
         fileObj.write(chunk)
     fileObj.close()
-[/source]
+```
 
 Bonus points for [checking for and creating a new directory](/blog/2009/01/01/create-directory-in-python/) to store the uploaded file in, if needed.

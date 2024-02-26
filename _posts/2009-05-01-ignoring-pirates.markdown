@@ -11,11 +11,11 @@ categories:
 - games
 tags:
 - piracy games business
+photo:
+  source: /images/ai/00064-3168621031
+  url: /images/ai/00064-3168621031.jpg
+  description: You can't ignore pirates
 ---
-
-[![WhitbyPirate](http://farm4.static.flickr.com/3597/3479884129_51b3ac5aef_m.jpg)](http://www.flickr.com/photos/30052084@N03/3479884129/)  
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nd/2.0/) [photo](http://www.photodropper.com/photos/) credit: [saxman1597](http://www.flickr.com/photos/30052084@N03/3479884129/)
-
 
 I'm sure they're not unique in their philosophy, but StarDock games is a terrific example of a company which has taken the high road in the battle against software piracy. In principal, the company believes that if someone would steal/pirate their software, that person would not have likely bought it anyway if piracy wasn't an option. To that end, the company stands against putting DRM measures - which they feel only serve to detract from the experience of legitimate customers - into its products.
 

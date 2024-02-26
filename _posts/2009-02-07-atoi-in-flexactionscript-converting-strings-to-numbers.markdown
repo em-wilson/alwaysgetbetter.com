@@ -18,9 +18,9 @@ tags:
 
 It couldn't be easier to convert a string to a number in Flex Actionscript. The language doesn't have (or need) an atoi() function as seen in languages like C - it's as simple as creating a cast:
 
-[source:JavaScript]
+```javascript
 var myString:String = "15";
 var myNum:Number = Number( myString );
-[/source]
+```
 
 The framework will convert any data type, not just strings. If it is unable to do so, it will return 0 (for ints) or NaN (for floating point).
