@@ -28,20 +28,13 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
     {%- if page.photo -%}
-      <p>
-      <a href="{{ page.photo.source}}"><img src="{{ page.photo.url}}" alt="{{ page.photo.description }}" / ></a>
-      {%- if page.photo.cc_author -%}
-        <a href="http://creativecommons.org/licenses/by-sa/2.0/">
-          <img src="/images/photo-dropper/images/cc.png" alt="Creative Commons License" />
-        </a>
-        photo credit:&nbsp;
-        {%- if page.photo.cc_link -%}
-        <a href="{{ page.photo.cc_link }}">{{ page.photo.cc_author }}</a>
-        {%- else -%}
-        {{ page.photo.cc_author }}
-        {%- endif -%}
-      {%- endif -%}
-      </p>
+      {% include image.html
+            source=page.photo.source
+            url=page.photo.url
+            description=page.photo.description
+            author=page.photo.cc_author
+            author_link=page.photo.cc_link
+      %}
     {%- endif -%}
     {{ content }}
   </div>

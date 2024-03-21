@@ -1,0 +1,14 @@
+<p>
+    <a href="{{ include.source }}"><img src="{{ include.url }}" alt="{{ include.description }}" / ></a>
+    {%- if include.author -%}
+      <a href="http://creativecommons.org/licenses/by-sa/2.0/">
+        <img src="/images/photo-dropper/images/cc.png" alt="Creative Commons License" />
+      </a>
+      photo credit:&nbsp;
+      {%- if include.author_link -%}
+      <a href="{{ include.author_link }}">{{ include.author }}</a>
+      {%- else -%}
+      {{ include.author }}
+      {%- endif -%}
+    {%- endif -%}
+</p>
