@@ -1,0 +1,18 @@
+---
+author: emwilson
+comments: false
+date: 2024-03-22 16:57:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/2024/03/00002-3611064529
+title: Awesome Sauce Dogs
+---
+
+[![Spin Doctor](/images/2024/03/00002-3611064529.jpg)](/images/2024/03/00002-3611064529.jpg)
+
+cartoon portrait of a mysterious woman inside a hot dog bun travelling through space at warp speed, household pets such as hamsters cats and dogs and spinning in the background
+
+Negative prompt: extra limbs, deformed
+
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3611064529, Size: 1536x1024, Model hash: fdbe56354b, Model: DreamShaperXL_Lightning, Version: v1.8.0
+
+Time taken: 3 min. 44.0 sec.

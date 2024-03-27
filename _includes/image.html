@@ -1,5 +1,7 @@
 <p>
-    <a href="{{ include.source }}"><img src="{{ include.url }}" alt="{{ include.description }}" / ></a>
+    {%- if include.source -%}<a href="{{ include.source }}">{%- else -%}<a href="{{ include.url }}">{%- endif -%}
+    <img src="{{ include.url }}" alt="{{ include.description }}" />
+    </a>
     {%- if include.author -%}
       <a href="http://creativecommons.org/licenses/by-sa/2.0/">
         <img src="/images/photo-dropper/images/cc.png" alt="Creative Commons License" />
