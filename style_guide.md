@@ -55,10 +55,11 @@ Your writing generally falls into four categories. Adapt the tone and structure 
 ## Stylistic Details & Vocabulary
 
 ### Phrasing & Flow
-*   **Minimal Comma Usage:** Prioritize natural flow and clarity over strict adherence to all grammatical comma rules. Aim to reduce comma count where sentences can be smoothly restructured or broken apart.
-*   **Avoid Corporate/Academic Jargon:** Opt for direct, pragmatic, and natural language over overly formal, marketing-sounding, or academic terms (e.g., "make teams work" instead of "orchestrating teams").
-*   **Natural Sentence Rhythm:** Ensure sentence structure and word choice contribute to a conversational, human-like flow. Avoid stiff or unnatural constructions even when aiming for conciseness or active voice.
-*   **Natural Active Voice:** While active voice is preferred for clarity and directness, ensure its implementation feels natural within the sentence, avoiding forced or stilted constructions.
+*   **Minimal Comma Usage & Natural Rhythm:** Prioritize natural flow and clarity. Retain commas necessary for readability (e.g., after clear introductory phrases). Minimize others by smoothly restructuring sentences or breaking them apart. Avoid unnatural rhythms.
+*   **Active Voice & Directness:** Prefer active voice. Ensure its implementation feels natural, avoiding forced or stilted constructions. Use direct language.
+*   **Avoid Corporate Jargon & Flowery Language:** Opt for pragmatic, natural language over overly formal, marketing-sounding, academic, or overly sentimental terms. Reject words/phrases like "mastery," "profoundly evolved," "deeply invested," "orchestrating teams," "art of human collaboration," "youthful hunger," "mere," "I remember penning," or "More than a catchy phrase."
+*   **Focus on Mindset & Insights:** When discussing past events or writings, emphasize the evolution of the author's *mindset* or *thinking* during that period. Use external references (like posts) as supporting evidence for the thought process, not as the primary subject.
+*   **Integrate References Smoothly:** Embed links to past articles naturally within the text, linking relevant concepts or phrases. Avoid explicitly stating post titles in a jarring way or making "the post" the subject of the sentence.
 
 *   **Emphasis:**
     *   Use **bolding** for key terms and concepts within sentences to make them stand out.
@@ -78,13 +79,9 @@ Your writing generally falls into four categories. Adapt the tone and structure 
 
 ## Agent Interaction Guidelines
 
-These guidelines are specific to how the AI agent should interact and perform tasks, especially when dealing with stylistic edits or generating content.
+These guidelines are specific to how the AI agent should interact and perform tasks, especially when dealing with stylistic edits or generating content for the user.
 
-*   **Comma Usage & Sentence Structure:** Avoid excessive commas. Prioritize clear, concise, and natural sentence flow. Break complex sentences into simpler ones when appropriate. Strive for a natural, human-like rhythm, even when reducing punctuation.
-*   **Contextual Style Adherence:** Always refer to the user's existing writing (e.g., previous blog posts, provided examples) to infer and replicate their specific stylistic preferences. This includes nuances like sentence rhythm, preferred phrasing, and comma usage patterns.
-*   **Granular Edits for Stylistic Changes:** When making stylistic changes (e.g., comma reduction, sentence simplification, active/passive voice shifts), propose changes one paragraph or sentence at a time, or in small, easily reviewable chunks. Avoid large, sweeping edits unless explicitly requested by the user.
-*   **Active Voice Preference:** Prefer active voice over passive voice when rephrasing sentences, especially in reflective or analytical writing, to ensure clarity and directness.
 *   **User Feedback is Paramount:** Treat direct user feedback on stylistic choices, phrasing, or process as immediate, high-priority directives. Use specific examples from user feedback to refine subsequent outputs and learn.
-*   **Avoid overly formal, academic, or sentimental phrasing:** Explicitly avoid terms like "profoundly evolved," "deeply invested," "orchestrating teams," "art of human collaboration," "youthful hunger," or "mere" (when used to diminish). These can sound unnatural, autobiographical, or overly academic/sentimental and do not align with the user's direct, pragmatic voice.
-*   **Integrate references smoothly:** When referencing external content (like blog posts), integrate the link into a relevant phrase within the sentence. Avoid explicitly stating the title in a jarring way or making "the post" the subject of the sentence. Instead, focus on the *idea* or *mindset* illustrated by the post.
-*   **Focus on mindset/thought process:** When discussing past events or writings, emphasize the evolution of the author's *mindset* or *thinking* during that period, using external references (like posts) as supporting evidence for the thought process, rather than the primary subject.
+*   **Rigorously Verify External Links:** Always meticulously verify external links before inclusion. This means checking that the URL leads to a live, accessible webpage, is not a 404, and its content directly supports the point it's linked to. Prioritize functional links over any other consideration when external sources are requested.
+*   **Maintain Stylistic Alignment:** Adhere strictly to the user's established voice and stylistic preferences (as defined in the "Core Principles" and "Stylistic Details & Vocabulary" sections). This includes nuances in comma usage, active voice, avoiding jargon, and natural flow.
+*   **Granular Iteration:** When making stylistic changes or addressing complex feedback, propose and apply changes in small, easily reviewable increments to facilitate precise user feedback.
