@@ -1,7 +1,7 @@
 ---
 author: emwilson
 comments: true
-date: 2025-12-21 13:00:00+00:00
+date: 2025-12-23 13:00:00+00:00
 layout: post
 slug: rust-blocks
 title: When Rust Code Blocks Beat Functions
