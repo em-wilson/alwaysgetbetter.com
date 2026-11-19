@@ -6,6 +6,10 @@ layout: post
 slug: how-hybrid-key-exchange-works
 title: "How Hybrid Key Exchange Works"
 excerpt: "X25519MLKEM768 looks like a cat walked across the keyboard, but it tells you exactly how your connection is protected. What hybrid key exchange is, why the internet chose it, where it quietly fails, and what it still doesn't cover."
+photo:
+  source: /images/2026/11/many-keys
+  url: /images/2026/11/many-keys.jpg
+  description: More Keys Than Ever
 categories:
 - Security
 - General Programming
