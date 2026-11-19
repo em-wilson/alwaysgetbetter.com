@@ -1,31 +1,78 @@
-# Top 10 Free Software Engineering News Sources
+# News Sources
 
-Here is a curated list of top free (no paywall) sources for news and happenings in software engineering and the tech industry:
+Sources are grouped by tier. When reading the news, cover every source in Tier 1, sample Tier 2, and check Tier 3 only for major events that affect tech. All sources are free to read (no hard paywall).
 
-1.  **Hacker News (news.ycombinator.com):** A community-driven news aggregator from Y Combinator, offering a wide range of tech, startup, and computer science news with highly engaged discussions.
-2.  **InfoQ (infoq.com):** Geared towards experienced software developers and architects, featuring expert articles, interviews, and presentations on software development news, trends, and best practices, including agile, DevOps, software architecture, and programming languages. All content is free.
-3.  **DEV Community (dev.to):** An open-source blogging community where developers share knowledge, tutorials, and news.
-4.  **DZone (dzone.com):** A popular hub with articles, news, and resources across various software development topics like programming languages, cloud, DevOps, and big data. Primarily free content, with some potential registration for specific resources.
-5.  **Ars Technica (arstechnica.com):** Offers detailed analysis and reviews of hardware, software, IT trends, and the intersection of technology with science and policy. Operates on a freemium model, providing full access to all content with ads for free.
-6.  **SD Times (sdtimes.com):** Specifically focuses on software development and DevOps news, how-tos, features, reviews, and videos, covering topics like API, AI, agile, containers, data, DevOps, DevSecOps, and more. Most content is free, with some premium content possibly requiring registration.
-7.  **The GitHub Blog (github.blog):** The official blog from GitHub, covering product announcements, engineering deep dives, open source trends, and security news.
-8.  **Google Engineering Blog (engineering.google/blog/):** A premier destination for insights into the innovative engineering practices that drive Google, sharing technical challenges, solutions, and advancements.
-9.  **Meta Engineering Blog (engineering.fb.com):** Provides technical articles and insights from Meta's engineering teams, covering large-scale system design, AI/ML, and infrastructure.
-10. **Netflix Technology Blog (netflixtechblog.com):** Shares in-depth articles on how Netflix builds, scales, and operates its global streaming service and underlying technology.
+**Reading rule:** Digests and aggregators are for discovery only. Before citing anything found through an aggregator or a news write-up, follow it back to the original report, advisory, release note or vendor post, and cite that.
+
+**Fallbacks:** If a homepage can't be fetched, try the source's RSS feed, a site-restricted web search, or the fallback aggregators listed at the bottom.
 
 ---
 
-# Top 10 Free General News Sources (No Paywall)
+## Tier 1: Core Software Engineering News
 
-Here is a list of top free and frequently updated general news sources, selected for their reputation and lack of a strict paywall:
+1.  **InfoQ (infoq.com/news):** News, articles and talks for experienced developers and architects on architecture, DevOps, AI/ML engineering, cloud and languages. All content is free. Consistently the most useful single source.
+2.  **Hacker News (news.ycombinator.com):** Community-ranked tech news with highly engaged discussion. Good for spotting what developers are actually arguing about.
+3.  **The GitHub Blog and Changelog (github.blog, github.blog/changelog):** Product announcements, engineering deep dives, open source trends and security news, plus a daily changelog of platform changes.
+4.  **SD Times (sdtimes.com):** Software development and DevOps news covering AI, testing, DevSecOps and developer tools.
+5.  **Ars Technica (arstechnica.com):** In-depth analysis of software, hardware, security and tech policy.
+6.  **DZone (dzone.com):** Practitioner articles on programming, cloud, DevOps and data.
+7.  **DEV Community (dev.to):** Developer-written tutorials and opinion; useful for gauging what working developers care about.
 
-1.  **Associated Press (AP News):** A nonprofit news cooperative that provides fast, factual, and unbiased news to a vast number of newspapers and broadcasters worldwide.
-2.  **Reuters:** An international news organization known for its comprehensive global coverage and fact-based reporting.
-3.  **BBC News:** The British Broadcasting Corporation is a publicly funded organization that provides impartial international news, free from commercial or political influence.
-4.  **NPR (National Public Radio):** A publicly funded, non-profit media organization in the U.S. known for its in-depth reporting and analysis on a wide range of topics.
-5.  **PBS NewsHour:** The Public Broadcasting Service's daily news program, recognized for its thoughtful and balanced reporting.
-6.  **The Guardian:** A UK-based news organization that has committed to keeping its online journalism open for all readers, funded by reader support rather than a mandatory paywall.
-7.  **ProPublica:** An independent, nonprofit newsroom that produces investigative journalism in the public interest. Their work is freely available.
-8.  **The Hill:** A political news outlet that provides in-depth, non-partisan coverage of the U.S. Congress, the presidency, and election campaigns.
-9.  **Politico:** A political journalism organization that covers politics and policy in the U.S. and internationally.
-10. **Mother Jones:** A reader-supported, nonprofit news organization that specializes in investigative, political, and social justice reporting.
+## Tier 1: Security
+
+8.  **Krebs on Security (krebsonsecurity.com):** Investigative reporting on cybercrime, breaches and botnets.
+9.  **BleepingComputer (bleepingcomputer.com):** Fast, detailed coverage of vulnerabilities, malware and breaches.
+10. **The Record by Recorded Future (therecord.media):** Cybersecurity news with strong coverage of nation-state activity and policy.
+11. **SecurityWeek (securityweek.com):** Industry news on vulnerabilities, threat intelligence and security business.
+12. **Schneier on Security (schneier.com):** Bruce Schneier's commentary on security, cryptography and policy.
+
+## Tier 1: AI Agents and Governance
+
+13. **Simon Willison's Weblog (simonwillison.net):** The best single source on practical LLM use and agent security problems such as prompt injection and data exfiltration.
+
+## Tier 2: Cryptography and Post-Quantum
+
+14. **The Cloudflare Blog (blog.cloudflare.com):** Primary source for post-quantum TLS, Merkle Tree Certificates and large-scale network engineering.
+15. **Let's Encrypt Blog (letsencrypt.org/blog):** Certificate ecosystem changes, including post-quantum plans.
+16. **Chromium Blog (blog.chromium.org):** Browser security and TLS changes that affect every website.
+
+## Tier 2: Supply Chain, Runtimes and Node.js
+
+17. **Node.js Blog (nodejs.org/en/blog):** Official release notes and announcements.
+18. **Socket.dev Blog (socket.dev/blog):** Open source supply-chain attacks and malicious package research.
+
+## Tier 2: Low-Level Systems, Chips and Firmware
+
+19. **Chips and Cheese (chipsandcheese.com):** Deep technical analysis of CPU and GPU architectures.
+20. **LWN.net (lwn.net):** Linux kernel and open source development news. Subscriber articles become free one week after publication.
+
+## Tier 2: Company Engineering Blogs
+
+21. **Google Engineering Blog (engineering.google/blog/):** Engineering practices and technical challenges at Google.
+22. **Meta Engineering Blog (engineering.fb.com):** Large-scale systems, AI/ML infrastructure and developer tooling at Meta.
+23. **Netflix Technology Blog (netflixtechblog.com):** How Netflix builds, scales and operates its streaming service.
+24. **Uber Engineering Blog (uber.com/blog/engineering):** Platform engineering, infrastructure and AI tooling at scale.
+25. **Stripe Engineering Blog (stripe.com/blog/engineering):** API design, reliability and payments infrastructure.
+26. **Shopify Engineering Blog (shopify.engineering):** Developer productivity, Rails at scale and commerce infrastructure.
+
+---
+
+## Tier 3: General News (Major Events Only)
+
+Check these only when a story is big enough to affect the tech industry broadly (regulation, major outages, large breaches, market shifts).
+
+1.  **Associated Press (apnews.com):** Fast, factual wire coverage.
+2.  **Reuters (reuters.com):** Comprehensive global and business coverage.
+3.  **BBC News (bbc.com/news):** International news with a non-US perspective.
+4.  **The Guardian (theguardian.com):** UK-based coverage, free to read, strong on tech policy.
+5.  **CBC News (cbc.ca/news/science):** Canadian perspective on tech, policy and business.
+6.  **ProPublica (propublica.org):** Investigative journalism, occasionally on tech and data privacy.
+
+---
+
+## Fallback Aggregators (Discovery Only)
+
+Use these when primary sites can't be reached. Never cite them directly; always trace stories back to the original.
+
+- **Hacker News Digest (zeli.app/digest):** Daily summaries of Hacker News front-page stories and discussion.
+- **The Hacker News weekly recap (thehackernews.com):** Weekly roundup of vulnerabilities and attacks, useful for finding CVEs and advisories to trace.
