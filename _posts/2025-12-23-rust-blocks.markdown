@@ -10,6 +10,7 @@ photo:
   source: /images/2025/12/confusing-read
   url: /images/2025/12/confusing-read.jpg
   description: Even I Have to Keep Re-Reading This
+categories:
 - Rust
 - Programming
 published: true
