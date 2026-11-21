@@ -6,7 +6,10 @@ layout: post
 slug: rust-blocks
 title: When Rust Code Blocks Beat Functions
 excerpt: "Reflecting on Rust's code blocks. My instinct says to use named functions, but these inline blocks carve out their own, sometimes indispensable, purpose. It's about knowing when."
-categories:
+photo:
+  source: /images/2025/12/confusing-read
+  url: /images/2025/12/confusing-read.jpg
+  description: Even I Have to Keep Re-Reading This
 - Rust
 - Programming
 published: true
