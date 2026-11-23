@@ -13,13 +13,18 @@ Used _Draw Things_
 
 Prompt:
 
-  flx_ematar, solo, single character, 2d cartoon illustration of a muppet puppet character, very long dark brown hair, cream sweater, long burgundy skirt to her ankles, skater shoes, cheerful determined expression, pinning a big blank paper wall calendar to a wall, two squares circled in bright pink marker, small green hexagon stickers on the calendar, plain soft yellow background
-
-Negative prompt:
-
-  human, realistic person, real skin, text, letters, pants, trousers, jeans, orange clothing, skin-colored clothes, numbers, writing, logo, watermark, two characters, multiple characters, duplicate, photograph, anime, deformed hands, extra fingers, extra limbs, blurry, cropped
+  Hand-drawn storybook cartoon illustration with loose ink outlines and soft watercolor washes. Three-quarter angle full-body wide shot. The female muppet-style puppet character from Picture 1 with mid-back length dark brown hair, wearing a mustard yellow turtleneck, a plum velvet maxi skirt down to her ankles, and chunky black ankle boots. She is beside a tall blank paper wall calendar hanging from a single pushpin on a plain light wall, the calendar is an empty grid of white squares with no numbers, letters or writing anywhere, pressing a small green hexagon sticker onto one square of the calendar with her fingertip, with a focused happy expression. Two squares on the calendar, one near the top and one near the bottom, are circled in thick bright pink marker, and a few small green hexagon stickers dot other squares. A small potted green plant sits on a simple wooden desk to one side. Warm late-afternoon sunlight streaming in from the side. No text, numbers or letters anywhere in the image.
 
 | Field | Value |
 |---|---|
-| Model | SDXL 1.0 Base |
-| LoRA | flx_ematar |
+| Model | flux_2_klein_4b_q8p.ckpt |
+| Steps | 7 |
+| Sampler | DDIM Trailing |
+| Guidance Scale | 1.4 |
+| Seed | 680853702 |
+| Seed Mode | Scale Alike |
+| Size | 1344x768 |
+| Strength | 1.0 |
+| Shift | 1.5 |
+| CLIP Skip | 2 |
+| Upscaler | 4x_ultrasharp_f16.ckpt |
