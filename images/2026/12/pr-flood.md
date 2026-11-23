@@ -13,12 +13,18 @@ Used _Draw Things_
 
 Prompt:
 
-  muppetem, cartoon felt puppet, orange-peach felt skin, (very long dark brown hair falling past her waist:1.3), wearing a mustard yellow cardigan over a white blouse and a long teal ankle-length skirt, black skater shoes, sitting at a small wooden desk buried up to her shoulders in a huge pile of white paper airplanes, (an avalanche of paper airplanes streaming in through an open window behind her:1.3), holding up a single red pen with a determined but overwhelmed expression, cozy small office, flat colours, bold outlines, (illustration:0.7)
-
-Negative prompt:
-
-  human, realistic person, real skin, text, letters, pants, trousers, jeans, orange clothing, peach clothing, skin-colored clothing, words, writing, watermark, logo, photorealistic, plush, 3d render, short hair, extra fingers, deformed hands, blurry
+  The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with very long straight dark brown hair, wearing a long teal dress and skate shoes, holding a big umbrella in the rain. Beside her, tiny boxy robots made of building blocks run in late with tiny umbrellas. All their umbrellas flipped inside out. One robot waves a tiny white flag. Over-the-shoulder shot from behind the robots, her facing the camera. Retro 1960s cartoon, thin outlines, warm limited palette. No text or letters.
 
 | Field | Value |
 |---|---|
-| Model | SD3 Large Turbo 3.5 |
+| Model | flux_2_klein_4b_q8p.ckpt |
+| Steps | 7 |
+| Sampler | DDIM Trailing |
+| Guidance Scale | 1.4 |
+| Seed | 1217479156 |
+| Seed Mode | Scale Alike |
+| Size | 1344x768 |
+| Strength | 1.0 |
+| Shift | 1.5 |
+| CLIP Skip | 2 |
+| Upscaler | 4x_ultrasharp_f16.ckpt |

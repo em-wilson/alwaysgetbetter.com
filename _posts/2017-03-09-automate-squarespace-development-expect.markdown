@@ -20,7 +20,7 @@ Sometime in the last year they added a local development server that really help
 
 Since I use a password generator, logging into my Squarespace account to do any development work involves cracking open 1Password and copy/pasting into the terminal. After a few weeks of that I decides there had to be a better way so I created this shell script to take care of the setup.
 
-`
+```bash
 #!/usr/bin/expect
 spawn squarespace-server squarespacewebsiteaddress --auth
 expect "Squarespace email:"
@@ -28,6 +28,6 @@ send "squarespace username\r"
 expect "Squarespace password:"
 send "password\r"
 interact
-`
+```
 
 Hope this helps out someone who is as lazy as I am.
