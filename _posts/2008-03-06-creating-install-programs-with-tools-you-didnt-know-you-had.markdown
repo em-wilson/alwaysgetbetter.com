@@ -4,6 +4,8 @@ comments: true
 date: 2008-03-06 00:09:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/03/05/creating-install-programs-with-tools-you-didnt-know-you-had/
+redirect_from:
+- /2008/03/05/creating-install-programs-with-tools-you-didnt-know-you-had/
 slug: creating-install-programs-with-tools-you-didnt-know-you-had
 title: Creating Install Programs with Tools You Didn't Know You Had
 wordpress_id: 14

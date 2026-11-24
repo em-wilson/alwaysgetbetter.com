@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-29 11:43:58+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/29/c-finding-the-number-of-days-between-two-datetime-items/
+redirect_from:
+- /2008/04/29/c-finding-the-number-of-days-between-two-datetime-items/
 slug: c-finding-the-number-of-days-between-two-datetime-items
 title: 'C#: Finding the Number of Days Between Two DateTime Items'
 wordpress_id: 27

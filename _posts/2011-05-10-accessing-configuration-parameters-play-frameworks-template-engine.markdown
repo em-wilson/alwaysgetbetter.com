@@ -4,6 +4,8 @@ comments: true
 date: 2011-05-10 02:20:02+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/05/09/accessing-configuration-parameters-play-frameworks-template-engine/
+redirect_from:
+- /2011/05/09/accessing-configuration-parameters-play-frameworks-template-engine/
 slug: accessing-configuration-parameters-play-frameworks-template-engine
 title: Accessing Configuration Parameters using Play Framework's Template Engine
 wordpress_id: 430

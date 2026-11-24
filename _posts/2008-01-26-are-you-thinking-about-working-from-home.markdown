@@ -4,6 +4,8 @@ comments: true
 date: 2008-01-26 21:36:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/01/26/are-you-thinking-about-working-from-home/
+redirect_from:
+- /2008/01/26/are-you-thinking-about-working-from-home/
 slug: are-you-thinking-about-working-from-home
 title: Are You Thinking About Working from Home?
 wordpress_id: 8

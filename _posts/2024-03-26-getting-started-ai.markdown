@@ -4,6 +4,8 @@ comments: true
 date: 2024-03-26 10:06:00+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2024-03-26-adventures-ai/
+redirect_from:
+- /2024-03-26-adventures-ai/
 slug: adventures-ai
 title: "Adventures in AI: From Boredom to Binary"
 excerpt: Free tools and programs you can use today to jump into AI.

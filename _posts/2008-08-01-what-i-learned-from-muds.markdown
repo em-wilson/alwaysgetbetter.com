@@ -4,6 +4,8 @@ comments: true
 date: 2008-08-01 11:54:34+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/08/01/what-i-learned-from-muds/
+redirect_from:
+- /2008/08/01/what-i-learned-from-muds/
 slug: what-i-learned-from-muds
 title: What I Learned from MUDs
 wordpress_id: 40

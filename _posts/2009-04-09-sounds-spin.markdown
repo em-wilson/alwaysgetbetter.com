@@ -4,6 +4,8 @@ comments: true
 date: 2009-04-09 00:54:34+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/04/08/sounds-spin/
+redirect_from:
+- /2009/04/08/sounds-spin/
 slug: sounds-spin
 title: Everything Sounds Better With Spin
 wordpress_id: 213

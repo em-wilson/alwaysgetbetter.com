@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-08 01:08:56+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/07/post-dating-blog-entries-in-wordpress-or-the-absent-minded-blogger/
+redirect_from:
+- /2008/12/07/post-dating-blog-entries-in-wordpress-or-the-absent-minded-blogger/
 slug: post-dating-blog-entries-in-wordpress-or-the-absent-minded-blogger
 title: Post-Dating Blog Entries in Wordpress (or, the Absent-Minded Blogger)
 wordpress_id: 97

@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-10 10:31:18+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/10/memcache-mysqls-hero/
+redirect_from:
+- /2011/04/10/memcache-mysqls-hero/
 slug: memcache-mysqls-hero
 title: Memcache as MySQL's Hero
 wordpress_id: 374

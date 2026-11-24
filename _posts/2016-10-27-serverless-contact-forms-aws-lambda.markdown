@@ -4,6 +4,8 @@ comments: true
 date: 2016-10-27 07:29:06+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2016/10/27/serverless-contact-forms-aws-lambda/
+redirect_from:
+- /2016/10/27/serverless-contact-forms-aws-lambda/
 slug: serverless-contact-forms-aws-lambda
 title: Serverless Contact Forms with AWS Lambda
 wordpress_id: 650

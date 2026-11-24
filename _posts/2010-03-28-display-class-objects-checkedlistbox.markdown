@@ -4,6 +4,8 @@ comments: true
 date: 2010-03-28 17:10:43+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/03/28/display-class-objects-checkedlistbox/
+redirect_from:
+- /2010/03/28/display-class-objects-checkedlistbox/
 slug: display-class-objects-checkedlistbox
 title: Display Class Objects in CheckedListBox
 wordpress_id: 303

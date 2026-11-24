@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-22 01:29:58+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/21/apache-enabling-mod_rewrite-on-windows-2003-server/
+redirect_from:
+- /2008/04/21/apache-enabling-mod_rewrite-on-windows-2003-server/
 slug: apache-enabling-mod_rewrite-on-windows-2003-server
 title: 'Apache: Enabling mod_rewrite on Windows 2003 Server'
 wordpress_id: 24

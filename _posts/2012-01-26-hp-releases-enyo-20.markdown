@@ -4,6 +4,8 @@ comments: true
 date: 2012-01-26 01:56:27+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/01/25/hp-releases-enyo-20/
+redirect_from:
+- /2012/01/25/hp-releases-enyo-20/
 slug: hp-releases-enyo-20
 title: HP Releases Enyo 2.0
 wordpress_id: 485

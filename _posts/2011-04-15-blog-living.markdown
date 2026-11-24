@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-15 03:27:45+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/14/blog-living/
+redirect_from:
+- /2011/04/14/blog-living/
 slug: blog-living
 title: How to Blog for a Living
 wordpress_id: 385

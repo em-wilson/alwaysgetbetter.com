@@ -4,6 +4,8 @@ comments: true
 date: 2025-08-14 23:23:00+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2025-08-14-slowly-surrendering-ai-masters/
+redirect_from:
+- /2025-08-14-slowly-surrendering-ai-masters/
 slug: slowly-surrendering-ai-masters
 title: "Slowly Surrendering to our AI Masters"
 excerpt: Starting to use AI to escape the IDE, master long prompts, and surface hidden values.

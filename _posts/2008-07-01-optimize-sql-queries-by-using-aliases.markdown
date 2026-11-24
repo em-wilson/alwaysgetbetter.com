@@ -4,6 +4,8 @@ comments: true
 date: 2008-07-01 02:22:23+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/06/30/optimize-sql-queries-by-using-aliases/
+redirect_from:
+- /2008/06/30/optimize-sql-queries-by-using-aliases/
 slug: optimize-sql-queries-by-using-aliases
 title: Optimize SQL Queries by Using Aliases
 wordpress_id: 35

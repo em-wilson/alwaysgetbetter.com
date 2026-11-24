@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-29 12:00:11+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/29/improving-wordpress-page-titles/
+redirect_from:
+- /2008/11/29/improving-wordpress-page-titles/
 slug: improving-wordpress-page-titles
 title: Improving Wordpress Page Titles
 wordpress_id: 77

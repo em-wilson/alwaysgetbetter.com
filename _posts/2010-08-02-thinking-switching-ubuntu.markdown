@@ -4,6 +4,8 @@ comments: true
 date: 2010-08-02 17:40:07+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/08/02/thinking-switching-ubuntu/
+redirect_from:
+- /2010/08/02/thinking-switching-ubuntu/
 slug: thinking-switching-ubuntu
 title: Thinking About Switching to Ubuntu
 wordpress_id: 320

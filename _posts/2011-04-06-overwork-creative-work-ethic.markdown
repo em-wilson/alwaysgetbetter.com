@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-06 12:00:20+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/06/overwork-creative-work-ethic/
+redirect_from:
+- /2011/04/06/overwork-creative-work-ethic/
 slug: overwork-creative-work-ethic
 title: Overwork and the Creative Work Ethic
 wordpress_id: 337

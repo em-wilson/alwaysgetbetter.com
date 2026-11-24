@@ -4,6 +4,8 @@ comments: true
 date: 2022-01-01 03:53:53+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2021/12/31/winter-2021-reading-list/
+redirect_from:
+- /2021/12/31/winter-2021-reading-list/
 slug: winter-2021-reading-list
 title: Winter 2021 Reading List
 wordpress_id: 747

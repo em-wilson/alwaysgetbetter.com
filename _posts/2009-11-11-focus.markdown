@@ -4,6 +4,8 @@ comments: true
 date: 2009-11-11 01:37:48+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/11/10/focus/
+redirect_from:
+- /2009/11/10/focus/
 slug: focus
 title: When You Focus on Getting Better
 wordpress_id: 267

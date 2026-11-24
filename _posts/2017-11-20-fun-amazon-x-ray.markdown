@@ -4,6 +4,8 @@ comments: true
 date: 2017-11-20 01:07:35+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/11/19/fun-amazon-x-ray/
+redirect_from:
+- /2017/11/19/fun-amazon-x-ray/
 slug: fun-amazon-x-ray
 title: Fun With Amazon X-Ray
 wordpress_id: 708

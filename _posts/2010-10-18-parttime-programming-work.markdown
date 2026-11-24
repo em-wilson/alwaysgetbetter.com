@@ -4,6 +4,8 @@ comments: true
 date: 2010-10-18 23:54:37+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/10/18/parttime-programming-work/
+redirect_from:
+- /2010/10/18/parttime-programming-work/
 slug: parttime-programming-work
 title: Part-Time Programming Work
 wordpress_id: 151

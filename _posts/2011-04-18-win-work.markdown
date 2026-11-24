@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-18 03:42:17+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/17/win-work/
+redirect_from:
+- /2011/04/17/win-work/
 slug: win-work
 title: How to Win at Work
 wordpress_id: 393

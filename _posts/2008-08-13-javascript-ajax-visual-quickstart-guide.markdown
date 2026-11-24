@@ -4,6 +4,8 @@ comments: true
 date: 2008-08-13 15:30:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/08/13/javascript-ajax-visual-quickstart-guide/
+redirect_from:
+- /2008/08/13/javascript-ajax-visual-quickstart-guide/
 slug: javascript-ajax-visual-quickstart-guide
 title: JavaScript & Ajax Visual Quickstart Guide
 wordpress_id: 48

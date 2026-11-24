@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-30 23:12:30+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/30/form-trumps-function/
+redirect_from:
+- /2008/04/30/form-trumps-function/
 slug: form-trumps-function
 title: Form Trumps Function
 wordpress_id: 28

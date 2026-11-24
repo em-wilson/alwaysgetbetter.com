@@ -4,6 +4,8 @@ comments: true
 date: 2009-11-11 22:07:13+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/11/11/microsoft-xbox-owners-mod-consoles/
+redirect_from:
+- /2009/11/11/microsoft-xbox-owners-mod-consoles/
 slug: microsoft-xbox-owners-mod-consoles
 title: 'Microsoft to Xbox Owners: Don''t Mod Your Consoles'
 wordpress_id: 269

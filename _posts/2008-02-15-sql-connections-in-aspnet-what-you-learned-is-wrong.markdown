@@ -4,6 +4,8 @@ comments: true
 date: 2008-02-15 19:22:49+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/02/15/sql-connections-in-aspnet-what-you-learned-is-wrong/
+redirect_from:
+- /2008/02/15/sql-connections-in-aspnet-what-you-learned-is-wrong/
 slug: sql-connections-in-aspnet-what-you-learned-is-wrong
 title: SQL Connections in ASP.NET - What you learned is WRONG!
 wordpress_id: 11

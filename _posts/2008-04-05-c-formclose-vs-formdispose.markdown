@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-05 00:16:12+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/04/c-formclose-vs-formdispose/
+redirect_from:
+- /2008/04/04/c-formclose-vs-formdispose/
 slug: c-formclose-vs-formdispose
 title: 'C#: Form.Close() vs Form.Dispose()'
 wordpress_id: 17

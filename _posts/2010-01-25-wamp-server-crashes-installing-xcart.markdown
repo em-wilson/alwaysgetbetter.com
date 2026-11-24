@@ -4,6 +4,8 @@ comments: true
 date: 2010-01-25 02:38:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/01/24/wamp-server-crashes-installing-xcart/
+redirect_from:
+- /2010/01/24/wamp-server-crashes-installing-xcart/
 slug: wamp-server-crashes-installing-xcart
 title: Wamp Server Crashes Installing X-Cart
 wordpress_id: 294

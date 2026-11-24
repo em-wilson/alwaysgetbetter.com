@@ -4,6 +4,8 @@ comments: true
 date: 2018-01-17 01:25:58+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2018/01/16/decennial/
+redirect_from:
+- /2018/01/16/decennial/
 slug: decennial
 title: Decennial
 wordpress_id: 720

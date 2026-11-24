@@ -4,6 +4,8 @@ comments: true
 date: 2009-06-19 20:14:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/06/19/limitlessunitscom/
+redirect_from:
+- /2009/06/19/limitlessunitscom/
 slug: limitlessunitscom
 title: LimitlessUnits.com
 wordpress_id: 247

@@ -4,6 +4,8 @@ comments: true
 date: 2011-10-03 18:17:23+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/10/03/adobe-aquires-typekit/
+redirect_from:
+- /2011/10/03/adobe-aquires-typekit/
 slug: adobe-aquires-typekit
 title: Adobe Aquires Typekit
 wordpress_id: 452

@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-20 14:49:52+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/20/lenovo-thinkpad-laptop-boasts-second-screen/
+redirect_from:
+- /2008/12/20/lenovo-thinkpad-laptop-boasts-second-screen/
 slug: lenovo-thinkpad-laptop-boasts-second-screen
 title: Lenovo Thinkpad Laptop Boasts Second Screen
 wordpress_id: 127

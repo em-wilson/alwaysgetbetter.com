@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-13 11:51:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/13/interview-process/
+redirect_from:
+- /2011/04/13/interview-process/
 slug: interview-process
 title: The Interview Process
 wordpress_id: 380

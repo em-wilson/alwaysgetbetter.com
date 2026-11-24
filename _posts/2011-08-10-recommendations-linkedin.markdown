@@ -4,6 +4,8 @@ comments: true
 date: 2011-08-10 00:58:51+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/08/09/recommendations-linkedin/
+redirect_from:
+- /2011/08/09/recommendations-linkedin/
 slug: recommendations-linkedin
 title: How to Get Recommendations on LinkedIn
 wordpress_id: 445

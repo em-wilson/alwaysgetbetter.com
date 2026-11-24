@@ -4,6 +4,8 @@ comments: true
 date: 2010-12-29 04:05:55+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/12/28/rails-generators-mongodb/
+redirect_from:
+- /2010/12/28/rails-generators-mongodb/
 slug: rails-generators-mongodb
 title: How to Use Rails Generators with MongoDB
 wordpress_id: 349

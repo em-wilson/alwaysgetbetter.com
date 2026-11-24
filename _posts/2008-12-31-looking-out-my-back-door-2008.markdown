@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-31 15:33:19+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/31/looking-out-my-back-door-2008/
+redirect_from:
+- /2008/12/31/looking-out-my-back-door-2008/
 slug: looking-out-my-back-door-2008
 title: Looking Out My Back Door 2008
 wordpress_id: 154

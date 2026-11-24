@@ -4,6 +4,8 @@ comments: true
 date: 2012-04-30 20:01:16+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/04/30/relearning-write/
+redirect_from:
+- /2012/04/30/relearning-write/
 slug: relearning-write
 title: Re-Learning How to Write
 wordpress_id: 495

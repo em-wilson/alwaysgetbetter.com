@@ -4,6 +4,8 @@ comments: true
 date: 2009-05-01 14:33:07+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/05/01/ignoring-pirates/
+redirect_from:
+- /2009/05/01/ignoring-pirates/
 slug: ignoring-pirates
 title: If Only Ignoring Pirates Made Them Go Away
 wordpress_id: 220

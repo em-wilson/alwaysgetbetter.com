@@ -4,6 +4,8 @@ comments: true
 date: 2010-12-19 01:05:40+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/12/18/site-info-builtwith/
+redirect_from:
+- /2010/12/18/site-info-builtwith/
 slug: site-info-builtwith
 title: Getting Site Info using BuiltWith
 wordpress_id: 346

@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-10 03:23:04+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/09/accessing-the-stage-in-flex/
+redirect_from:
+- /2008/11/09/accessing-the-stage-in-flex/
 slug: accessing-the-stage-in-flex
 title: Accessing the stage in Flex
 wordpress_id: 61

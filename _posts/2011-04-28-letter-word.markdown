@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-28 02:26:16+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/27/letter-word/
+redirect_from:
+- /2011/04/27/letter-word/
 slug: letter-word
 title: It's not a four letter word
 wordpress_id: 421

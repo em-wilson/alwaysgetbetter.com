@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-22 03:30:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/21/accelerate-site-content-delivery-network/
+redirect_from:
+- /2011/04/21/accelerate-site-content-delivery-network/
 slug: accelerate-site-content-delivery-network
 title: Accelerate Your Site with a Content Delivery Network
 wordpress_id: 406

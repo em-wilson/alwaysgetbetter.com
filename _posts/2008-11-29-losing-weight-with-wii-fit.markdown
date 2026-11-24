@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-29 02:36:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/28/losing-weight-with-wii-fit/
+redirect_from:
+- /2008/11/28/losing-weight-with-wii-fit/
 slug: losing-weight-with-wii-fit
 title: Losing Weight with Wii Fit
 wordpress_id: 75

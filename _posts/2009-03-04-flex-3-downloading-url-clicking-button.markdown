@@ -4,6 +4,8 @@ comments: true
 date: 2009-03-04 00:36:03+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/03/03/flex-3-downloading-url-clicking-button/
+redirect_from:
+- /2009/03/03/flex-3-downloading-url-clicking-button/
 slug: flex-3-downloading-url-clicking-button
 title: 'Flex 3: Downloading URL after Clicking on Button'
 wordpress_id: 143

@@ -4,6 +4,8 @@ comments: true
 date: 2010-01-20 02:14:01+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/01/19/simple-makefile-language/
+redirect_from:
+- /2010/01/19/simple-makefile-language/
 slug: simple-makefile-language
 title: A Simple Makefile for the Go Language
 wordpress_id: 290

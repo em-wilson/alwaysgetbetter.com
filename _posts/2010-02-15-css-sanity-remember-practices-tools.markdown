@@ -4,6 +4,8 @@ comments: true
 date: 2010-02-15 21:54:24+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/02/15/css-sanity-remember-practices-tools/
+redirect_from:
+- /2010/02/15/css-sanity-remember-practices-tools/
 slug: css-sanity-remember-practices-tools
 title: 'CSS Sanity: Remember Best Practices When Using New Tools'
 wordpress_id: 299

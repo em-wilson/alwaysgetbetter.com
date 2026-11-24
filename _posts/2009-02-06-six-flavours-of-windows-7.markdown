@@ -4,6 +4,8 @@ comments: true
 date: 2009-02-06 01:32:34+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/02/05/six-flavours-of-windows-7/
+redirect_from:
+- /2009/02/05/six-flavours-of-windows-7/
 slug: six-flavours-of-windows-7
 title: Six Flavours of Windows 7
 wordpress_id: 175

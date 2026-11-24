@@ -4,6 +4,8 @@ comments: true
 date: 2008-08-16 20:56:33+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/08/16/the-8-month-mark/
+redirect_from:
+- /2008/08/16/the-8-month-mark/
 slug: the-8-month-mark
 title: The 8 Month Mark
 wordpress_id: 44

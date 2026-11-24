@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-26 11:20:59+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/26/protect-ssh-server-rsa-keys/
+redirect_from:
+- /2011/04/26/protect-ssh-server-rsa-keys/
 slug: protect-ssh-server-rsa-keys
 title: Protect Your SSH Server with RSA Keys
 wordpress_id: 418

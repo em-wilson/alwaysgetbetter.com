@@ -4,6 +4,8 @@ comments: true
 date: 2011-08-06 18:57:43+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/08/06/upgrade-firefox-ubuntu/
+redirect_from:
+- /2011/08/06/upgrade-firefox-ubuntu/
 slug: upgrade-firefox-ubuntu
 title: How to Upgrade Firefox using Ubuntu
 wordpress_id: 441

@@ -4,6 +4,8 @@ comments: true
 date: 2009-03-01 20:03:47+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/03/01/fragile-world-internet/
+redirect_from:
+- /2009/03/01/fragile-world-internet/
 slug: fragile-world-internet
 title: The Fragile World Internet
 wordpress_id: 110

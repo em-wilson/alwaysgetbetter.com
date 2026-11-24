@@ -4,6 +4,8 @@ comments: true
 date: 2008-01-25 01:19:02+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/01/24/a-beginning/
+redirect_from:
+- /2008/01/24/a-beginning/
 slug: a-beginning
 title: A Beginning
 wordpress_id: 3

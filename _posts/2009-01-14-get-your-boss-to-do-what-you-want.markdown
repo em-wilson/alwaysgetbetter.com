@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-14 11:00:01+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/14/get-your-boss-to-do-what-you-want/
+redirect_from:
+- /2009/01/14/get-your-boss-to-do-what-you-want/
 slug: get-your-boss-to-do-what-you-want
 title: Get Your Boss to Do What You Want
 wordpress_id: 114

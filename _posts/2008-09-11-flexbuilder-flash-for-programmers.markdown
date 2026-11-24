@@ -4,6 +4,8 @@ comments: true
 date: 2008-09-11 22:26:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/09/11/flexbuilder-flash-for-programmers/
+redirect_from:
+- /2008/09/11/flexbuilder-flash-for-programmers/
 slug: flexbuilder-flash-for-programmers
 title: 'FlexBuilder: Flash for Programmers'
 wordpress_id: 51

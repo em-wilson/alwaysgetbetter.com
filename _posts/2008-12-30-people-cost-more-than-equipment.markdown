@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-30 14:48:56+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/30/people-cost-more-than-equipment/
+redirect_from:
+- /2008/12/30/people-cost-more-than-equipment/
 slug: people-cost-more-than-equipment
 title: People Cost More Than Equipment
 wordpress_id: 133

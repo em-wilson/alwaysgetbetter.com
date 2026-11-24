@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-02 12:00:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/02/work-from-home-as-a-blogger/
+redirect_from:
+- /2008/12/02/work-from-home-as-a-blogger/
 slug: work-from-home-as-a-blogger
 title: Work from Home as a Blogger
 wordpress_id: 88

@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-25 15:28:27+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/25/handling-relative-paths-programmatically-in-aspnet/
+redirect_from:
+- /2008/04/25/handling-relative-paths-programmatically-in-aspnet/
 slug: handling-relative-paths-programmatically-in-aspnet
 title: Handling Relative Paths Programmatically In ASP.NET
 wordpress_id: 26

@@ -4,6 +4,8 @@ comments: true
 date: 2008-02-14 14:40:04+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/02/14/how-to-create-full-text-search-using-mysql/
+redirect_from:
+- /2008/02/14/how-to-create-full-text-search-using-mysql/
 slug: how-to-create-full-text-search-using-mysql
 title: How to Create Full Text Search Using mySQL
 wordpress_id: 10

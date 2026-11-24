@@ -4,6 +4,8 @@ comments: true
 date: 2017-09-04 04:15:58+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/09/04/reverse-proxy-with-iis-on-elastic-beanstalk/
+redirect_from:
+- /2017/09/04/reverse-proxy-with-iis-on-elastic-beanstalk/
 slug: reverse-proxy-with-iis-on-elastic-beanstalk
 title: Reverse Proxy with IIS and Elastic Beanstalk
 wordpress_id: 693

@@ -4,6 +4,8 @@ comments: true
 date: 2017-10-14 04:55:07+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/10/14/dont-trust-app-node-js/
+redirect_from:
+- /2017/10/14/dont-trust-app-node-js/
 slug: dont-trust-app-node-js
 title: Don't Trust Your App to Node.js
 wordpress_id: 704

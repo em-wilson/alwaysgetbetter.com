@@ -4,6 +4,8 @@ comments: true
 date: 2010-05-24 14:48:33+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/05/24/cell-phone-backup-internet/
+redirect_from:
+- /2010/05/24/cell-phone-backup-internet/
 slug: cell-phone-backup-internet
 title: Using a Cell Phone as Backup Internet
 wordpress_id: 311

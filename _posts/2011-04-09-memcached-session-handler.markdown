@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-09 12:24:26+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/09/memcached-session-handler/
+redirect_from:
+- /2011/04/09/memcached-session-handler/
 slug: memcached-session-handler
 title: Memcached as Session Handler
 wordpress_id: 369

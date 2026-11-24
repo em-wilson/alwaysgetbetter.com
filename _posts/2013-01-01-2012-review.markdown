@@ -4,6 +4,8 @@ comments: true
 date: 2013-01-01 18:27:52+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2013/01/01/2012-review/
+redirect_from:
+- /2013/01/01/2012-review/
 slug: 2012-review
 title: 2012 in Review
 wordpress_id: 518

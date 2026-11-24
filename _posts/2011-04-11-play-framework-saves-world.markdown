@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-11 12:46:05+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/11/play-framework-saves-world/
+redirect_from:
+- /2011/04/11/play-framework-saves-world/
 slug: play-framework-saves-world
 title: How Play Framework Saves the World
 wordpress_id: 367

@@ -4,6 +4,8 @@ comments: true
 date: 2019-01-30 04:54:51+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2019/01/29/12-months-of-agile/
+redirect_from:
+- /2019/01/29/12-months-of-agile/
 slug: 12-months-of-agile
 title: 12 Months of Agile
 wordpress_id: 723

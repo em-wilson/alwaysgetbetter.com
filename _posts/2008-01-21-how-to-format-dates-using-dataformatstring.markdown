@@ -4,6 +4,8 @@ comments: true
 date: 2008-01-21 04:34:23+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/01/20/how-to-format-dates-using-dataformatstring/
+redirect_from:
+- /2008/01/20/how-to-format-dates-using-dataformatstring/
 slug: how-to-format-dates-using-dataformatstring
 title: How To Format Dates Using DataFormatString
 wordpress_id: 5

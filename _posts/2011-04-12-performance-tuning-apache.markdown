@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-12 10:31:21+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/12/performance-tuning-apache/
+redirect_from:
+- /2011/04/12/performance-tuning-apache/
 slug: performance-tuning-apache
 title: Performance Tuning Apache
 wordpress_id: 376

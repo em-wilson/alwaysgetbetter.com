@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-20 02:43:10+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/19/tracking-website-speed-problems/
+redirect_from:
+- /2011/04/19/tracking-website-speed-problems/
 slug: tracking-website-speed-problems
 title: Tracking Down Website Speed Problems
 wordpress_id: 401

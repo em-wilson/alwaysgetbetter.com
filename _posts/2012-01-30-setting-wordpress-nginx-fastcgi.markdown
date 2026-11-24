@@ -4,6 +4,8 @@ comments: true
 date: 2012-01-30 12:00:17+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/01/30/setting-wordpress-nginx-fastcgi/
+redirect_from:
+- /2012/01/30/setting-wordpress-nginx-fastcgi/
 slug: setting-wordpress-nginx-fastcgi
 title: Setting up Wordpress with nginx and FastCGI
 wordpress_id: 490

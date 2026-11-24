@@ -4,6 +4,8 @@ comments: true
 date: 2008-07-19 00:25:18+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/07/18/reboot-windows-server-2003-using-remote-desktop-rdp/
+redirect_from:
+- /2008/07/18/reboot-windows-server-2003-using-remote-desktop-rdp/
 slug: reboot-windows-server-2003-using-remote-desktop-rdp
 title: Reboot Windows Server 2003 Using Remote Desktop (RDP)
 wordpress_id: 37

@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-03 21:35:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/03/how-to-send-ctrlaltdelete-using-terminal-services/
+redirect_from:
+- /2008/04/03/how-to-send-ctrlaltdelete-using-terminal-services/
 slug: how-to-send-ctrlaltdelete-using-terminal-services
 title: How To Send Ctrl+Alt+Delete Using Terminal Services
 wordpress_id: 16

@@ -4,6 +4,8 @@ comments: true
 date: 2010-02-07 01:29:29+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/02/06/itunes-future-toy/
+redirect_from:
+- /2010/02/06/itunes-future-toy/
 slug: itunes-future-toy
 title: iTunes - The Future, or Just a Toy?
 wordpress_id: 296

@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-30 01:15:39+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/29/finding-ubuntu-version/
+redirect_from:
+- /2011/04/29/finding-ubuntu-version/
 slug: finding-ubuntu-version
 title: Finding Your Ubuntu Version
 wordpress_id: 425

@@ -4,6 +4,8 @@ comments: true
 date: 2011-12-20 19:08:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/12/20/fastcgi-nginx-performance-vm/
+redirect_from:
+- /2011/12/20/fastcgi-nginx-performance-vm/
 slug: fastcgi-nginx-performance-vm
 title: Using FastCGI with Nginx for Performance on a VM
 wordpress_id: 461

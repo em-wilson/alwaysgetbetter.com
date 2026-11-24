@@ -4,6 +4,8 @@ comments: true
 date: 2015-04-05 04:02:25+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2015/04/05/applecare/
+redirect_from:
+- /2015/04/05/applecare/
 slug: applecare
 title: Always Get AppleCare
 wordpress_id: 599

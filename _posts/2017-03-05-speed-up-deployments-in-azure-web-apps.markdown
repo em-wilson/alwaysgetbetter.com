@@ -4,6 +4,8 @@ comments: true
 date: 2017-03-05 04:06:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/03/04/speed-up-deployments-in-azure-web-apps/
+redirect_from:
+- /2017/03/04/speed-up-deployments-in-azure-web-apps/
 slug: speed-up-deployments-in-azure-web-apps
 title: Speed up Deployments in Azure Web Apps
 wordpress_id: 684

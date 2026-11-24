@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-17 01:47:57+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/16/small-site-big-footprint/
+redirect_from:
+- /2011/04/16/small-site-big-footprint/
 slug: small-site-big-footprint
 title: Small Site, Big Footprint
 wordpress_id: 391

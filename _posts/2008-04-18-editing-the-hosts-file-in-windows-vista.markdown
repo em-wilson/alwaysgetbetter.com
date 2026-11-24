@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-18 21:49:03+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/18/editing-the-hosts-file-in-windows-vista/
+redirect_from:
+- /2008/04/18/editing-the-hosts-file-in-windows-vista/
 slug: editing-the-hosts-file-in-windows-vista
 title: Editing the HOSTS file in Windows Vista
 wordpress_id: 23

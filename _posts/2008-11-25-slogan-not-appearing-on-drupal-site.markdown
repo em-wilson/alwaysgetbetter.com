@@ -4,6 +4,8 @@ comments: false
 date: 2008-11-25 12:00:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/25/slogan-not-appearing-on-drupal-site/
+redirect_from:
+- /2008/11/25/slogan-not-appearing-on-drupal-site/
 slug: slogan-not-appearing-on-drupal-site
 title: Slogan Not Appearing on Drupal Site
 wordpress_id: 71

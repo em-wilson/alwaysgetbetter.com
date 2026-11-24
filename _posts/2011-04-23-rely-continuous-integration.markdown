@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-23 02:46:33+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/22/rely-continuous-integration/
+redirect_from:
+- /2011/04/22/rely-continuous-integration/
 slug: rely-continuous-integration
 title: Rely on Continuous Integration
 wordpress_id: 408

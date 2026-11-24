@@ -4,6 +4,8 @@ comments: true
 date: 2010-06-02 12:16:01+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/06/02/resumes-alphabet-soup/
+redirect_from:
+- /2010/06/02/resumes-alphabet-soup/
 slug: resumes-alphabet-soup
 title: Resumes Are Better Without Alphabet Soup
 wordpress_id: 301

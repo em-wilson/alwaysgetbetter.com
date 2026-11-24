@@ -4,6 +4,8 @@ comments: true
 date: 2008-05-14 00:15:34+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/05/13/take-yourself-less-seriously-manage-scope-creep/
+redirect_from:
+- /2008/05/13/take-yourself-less-seriously-manage-scope-creep/
 slug: take-yourself-less-seriously-manage-scope-creep
 title: Take Yourself Less Seriously, Manage Scope Creep
 wordpress_id: 33

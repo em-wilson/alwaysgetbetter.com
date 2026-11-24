@@ -4,6 +4,8 @@ comments: true
 date: 2009-11-17 01:26:37+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/11/16/279-days-overnight-success/
+redirect_from:
+- /2009/11/16/279-days-overnight-success/
 slug: 279-days-overnight-success
 title: 279 Days to Overnight Success
 wordpress_id: 285

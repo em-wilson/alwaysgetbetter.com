@@ -4,6 +4,8 @@ comments: true
 date: 2009-02-28 20:28:56+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/02/28/implementing-lazy-load-proxy-class/
+redirect_from:
+- /2009/02/28/implementing-lazy-load-proxy-class/
 slug: implementing-lazy-load-proxy-class
 title: Implementing Lazy Load Using a Proxy Class
 wordpress_id: 183

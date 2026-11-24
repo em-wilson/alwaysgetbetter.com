@@ -4,6 +4,8 @@ comments: true
 date: 2012-02-29 11:33:41+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/02/29/log4php-performance/
+redirect_from:
+- /2012/02/29/log4php-performance/
 slug: log4php-performance
 title: log4php Performance
 wordpress_id: 492

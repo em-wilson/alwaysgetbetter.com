@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-02 00:00:41+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/01/create-directory-in-python/
+redirect_from:
+- /2009/01/01/create-directory-in-python/
 slug: create-directory-in-python
 title: Create Directory in Python
 wordpress_id: 147

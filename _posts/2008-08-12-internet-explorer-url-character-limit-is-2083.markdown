@@ -4,6 +4,8 @@ comments: true
 date: 2008-08-12 23:51:21+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/08/12/internet-explorer-url-character-limit-is-2083/
+redirect_from:
+- /2008/08/12/internet-explorer-url-character-limit-is-2083/
 slug: internet-explorer-url-character-limit-is-2083
 title: Internet Explorer URL Character Limit is 2,083
 wordpress_id: 46

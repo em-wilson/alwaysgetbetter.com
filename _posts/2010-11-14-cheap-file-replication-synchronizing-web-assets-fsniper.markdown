@@ -4,6 +4,8 @@ comments: true
 date: 2010-11-14 17:31:44+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/11/14/cheap-file-replication-synchronizing-web-assets-fsniper/
+redirect_from:
+- /2010/11/14/cheap-file-replication-synchronizing-web-assets-fsniper/
 slug: cheap-file-replication-synchronizing-web-assets-fsniper
 title: 'Cheap File Replication: Synchronizing Web Assets with fsniper'
 wordpress_id: 341

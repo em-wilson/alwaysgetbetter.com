@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-16 03:27:04+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/15/backup-time/
+redirect_from:
+- /2011/04/15/backup-time/
 slug: backup-time
 title: Backup Through Time
 wordpress_id: 389

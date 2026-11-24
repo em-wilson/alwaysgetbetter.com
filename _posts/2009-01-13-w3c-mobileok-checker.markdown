@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-13 11:00:13+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/13/w3c-mobileok-checker/
+redirect_from:
+- /2009/01/13/w3c-mobileok-checker/
 slug: w3c-mobileok-checker
 title: W3C MobileOK Checker
 wordpress_id: 131

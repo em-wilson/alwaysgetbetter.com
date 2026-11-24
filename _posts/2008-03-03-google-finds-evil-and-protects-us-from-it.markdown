@@ -4,6 +4,8 @@ comments: true
 date: 2008-03-03 18:29:27+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/03/03/google-finds-evil-and-protects-us-from-it/
+redirect_from:
+- /2008/03/03/google-finds-evil-and-protects-us-from-it/
 slug: google-finds-evil-and-protects-us-from-it
 title: Google Finds Evil and Protects us from it
 wordpress_id: 13

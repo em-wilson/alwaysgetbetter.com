@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-29 02:54:35+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/28/pintsized-mobile-devices/
+redirect_from:
+- /2011/04/28/pintsized-mobile-devices/
 slug: pintsized-mobile-devices
 title: Pint-Sized Mobile Devices
 wordpress_id: 423

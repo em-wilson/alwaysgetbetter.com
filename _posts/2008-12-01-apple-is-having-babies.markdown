@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-01 12:00:25+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/01/apple-is-having-babies/
+redirect_from:
+- /2008/12/01/apple-is-having-babies/
 slug: apple-is-having-babies
 title: Apple is Having Babies
 wordpress_id: 81

@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-20 01:03:07+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/19/love-my-chrome/
+redirect_from:
+- /2008/12/19/love-my-chrome/
 slug: love-my-chrome
 title: Love My Chrome
 wordpress_id: 107

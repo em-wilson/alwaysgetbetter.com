@@ -4,6 +4,8 @@ comments: true
 date: 2017-03-09 22:39:10+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/03/09/automate-squarespace-development-expect/
+redirect_from:
+- /2017/03/09/automate-squarespace-development-expect/
 slug: automate-squarespace-development-expect
 title: Automate Squarespace Development with Expect
 wordpress_id: 689

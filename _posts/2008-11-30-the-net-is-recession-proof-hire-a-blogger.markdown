@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-30 12:00:31+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/30/the-net-is-recession-proof-hire-a-blogger/
+redirect_from:
+- /2008/11/30/the-net-is-recession-proof-hire-a-blogger/
 slug: the-net-is-recession-proof-hire-a-blogger
 title: The Net is Recession-Proof; Hire a Blogger
 wordpress_id: 79

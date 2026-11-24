@@ -13,12 +13,18 @@ Used _Draw Things_
 
 Prompt:
 
-  muppetem, cartoon felt puppet, orange-peach felt skin, (very long dark brown hair falling past her waist:1.3), wearing a cream knit sweater and a long cranberry red ankle-length skirt, black skater shoes, (carrying a big armful of rolled paper scrolls:1.3), a few scrolls slipping from her arms, walking away from a tall crumbling stone library with cracked columns and falling dust, toward a sturdy little wooden cabin with a warm lit window and a plain blank welcome mat at the door, late afternoon light, determined expression, flat colours, bold outlines, (illustration:0.7)
-
-Negative prompt:
-
-  human, realistic person, real skin, text, letters, pants, trousers, jeans, orange clothing, peach clothing, skin-colored clothing, words, writing, writing on mat, signs, watermark, logo, photorealistic, plush, 3d render, short hair, extra fingers, deformed hands, blurry
+  The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a loose ponytail, wearing a long navy dress and flat low-top canvas sneakers, dusting a big shelf of books with a feather duster. On the shelf below, tiny boxy robots made of building blocks read a yellowed, crumbling book. One robot is lost inside the crumbling pages. A cat watches from a windowsill, unimpressed. Full-body shot, her on the right, the chaos on the left. Storybook cartoon, ink lines and watercolor. No text or letters.
 
 | Field | Value |
 |---|---|
-| Model | SD3 Large Turbo 3.5 |
+| Model | flux_2_klein_4b_q8p.ckpt |
+| Steps | 6 |
+| Sampler | DDIM Trailing |
+| Guidance Scale | 1.0 |
+| Seed | 3759869903 |
+| Seed Mode | Scale Alike |
+| Size | 1344x768 |
+| Strength | 1.0 |
+| Shift | 1.2 |
+| CLIP Skip | 2 |
+| Upscaler | 4x_ultrasharp_f16.ckpt |

@@ -4,6 +4,8 @@ comments: true
 date: 2011-03-04 01:23:03+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/03/03/displaying-productiononly-markup-rails/
+redirect_from:
+- /2011/03/03/displaying-productiononly-markup-rails/
 slug: displaying-productiononly-markup-rails
 title: Displaying Production-Only Markup in Rails
 wordpress_id: 351

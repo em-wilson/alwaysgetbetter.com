@@ -4,6 +4,8 @@ comments: true
 date: 2012-09-10 10:00:39+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/09/10/observations-mobile-development/
+redirect_from:
+- /2012/09/10/observations-mobile-development/
 slug: observations-mobile-development
 title: Observations From Mobile Development
 wordpress_id: 511

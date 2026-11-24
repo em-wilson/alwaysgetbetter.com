@@ -4,6 +4,8 @@ comments: true
 date: 2011-03-04 05:05:15+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/03/04/defaulting-null-variables/
+redirect_from:
+- /2011/03/04/defaulting-null-variables/
 slug: defaulting-null-variables
 title: Defaulting Null Variables
 wordpress_id: 354

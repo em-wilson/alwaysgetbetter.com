@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-05 20:28:53+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/05/c-instantiating-a-class-of-unknown-type/
+redirect_from:
+- /2008/04/05/c-instantiating-a-class-of-unknown-type/
 slug: c-instantiating-a-class-of-unknown-type
 title: 'C#: Instantiating a class of Unknown Type'
 wordpress_id: 18

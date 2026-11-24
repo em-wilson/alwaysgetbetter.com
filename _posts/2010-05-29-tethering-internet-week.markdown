@@ -4,6 +4,8 @@ comments: true
 date: 2010-05-29 19:31:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/05/29/tethering-internet-week/
+redirect_from:
+- /2010/05/29/tethering-internet-week/
 slug: tethering-internet-week
 title: Tethering the Internet, Week One
 wordpress_id: 313

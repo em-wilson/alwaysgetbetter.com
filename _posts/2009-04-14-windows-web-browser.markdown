@@ -4,6 +4,8 @@ comments: true
 date: 2009-04-14 02:58:07+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/04/13/windows-web-browser/
+redirect_from:
+- /2009/04/13/windows-web-browser/
 slug: windows-web-browser
 title: How Useful is Windows Without a Web Browser?
 wordpress_id: 173

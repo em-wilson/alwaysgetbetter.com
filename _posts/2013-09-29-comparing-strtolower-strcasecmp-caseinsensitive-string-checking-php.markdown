@@ -4,6 +4,8 @@ comments: true
 date: 2013-09-29 18:14:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2013/09/29/comparing-strtolower-strcasecmp-caseinsensitive-string-checking-php/
+redirect_from:
+- /2013/09/29/comparing-strtolower-strcasecmp-caseinsensitive-string-checking-php/
 slug: comparing-strtolower-strcasecmp-caseinsensitive-string-checking-php
 title: Case-insensitive string comparison in PHP
 wordpress_id: 546

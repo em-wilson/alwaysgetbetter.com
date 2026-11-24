@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-03 11:00:34+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/03/ontario-government-builds-rural-internet-infrastructure/
+redirect_from:
+- /2008/12/03/ontario-government-builds-rural-internet-infrastructure/
 slug: ontario-government-builds-rural-internet-infrastructure
 title: Ontario Government Builds Rural Internet Infrastructure
 wordpress_id: 92

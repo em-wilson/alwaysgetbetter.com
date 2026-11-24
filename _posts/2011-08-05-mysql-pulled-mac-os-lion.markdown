@@ -4,6 +4,8 @@ comments: true
 date: 2011-08-05 13:41:47+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/08/05/mysql-pulled-mac-os-lion/
+redirect_from:
+- /2011/08/05/mysql-pulled-mac-os-lion/
 slug: mysql-pulled-mac-os-lion
 title: MySQL Pulled From Mac OS X Lion
 wordpress_id: 439

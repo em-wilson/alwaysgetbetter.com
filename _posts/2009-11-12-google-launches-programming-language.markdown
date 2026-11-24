@@ -4,6 +4,8 @@ comments: true
 date: 2009-11-12 10:30:59+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/11/12/google-launches-programming-language/
+redirect_from:
+- /2009/11/12/google-launches-programming-language/
 slug: google-launches-programming-language
 title: Google Launches Its Own Programming Language
 wordpress_id: 277

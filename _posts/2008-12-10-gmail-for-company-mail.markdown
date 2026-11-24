@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-10 03:13:18+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/09/gmail-for-company-mail/
+redirect_from:
+- /2008/12/09/gmail-for-company-mail/
 slug: gmail-for-company-mail
 title: Gmail for Company Mail
 wordpress_id: 100

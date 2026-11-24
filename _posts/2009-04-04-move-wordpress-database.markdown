@@ -4,6 +4,8 @@ comments: true
 date: 2009-04-04 15:48:29+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/04/04/move-wordpress-database/
+redirect_from:
+- /2009/04/04/move-wordpress-database/
 slug: move-wordpress-database
 title: How to Move a Wordpress Database
 wordpress_id: 205

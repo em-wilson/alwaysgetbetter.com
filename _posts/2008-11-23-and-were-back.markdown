@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-23 19:56:30+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/23/and-were-back/
+redirect_from:
+- /2008/11/23/and-were-back/
 slug: and-were-back
 title: And We're Back!
 wordpress_id: 65

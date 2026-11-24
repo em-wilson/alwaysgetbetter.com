@@ -4,6 +4,8 @@ comments: true
 date: 2011-11-07 10:00:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/11/07/nodejs-06-released/
+redirect_from:
+- /2011/11/07/nodejs-06-released/
 slug: nodejs-06-released
 title: Node.js 0.6 Released
 wordpress_id: 457

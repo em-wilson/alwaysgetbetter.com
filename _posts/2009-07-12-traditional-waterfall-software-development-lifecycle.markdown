@@ -4,6 +4,8 @@ comments: true
 date: 2009-07-12 19:35:37+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/07/12/traditional-waterfall-software-development-lifecycle/
+redirect_from:
+- /2009/07/12/traditional-waterfall-software-development-lifecycle/
 slug: traditional-waterfall-software-development-lifecycle
 title: The Traditional "Waterfall" Software Development Lifecycle
 wordpress_id: 253

@@ -4,6 +4,8 @@ comments: true
 date: 2010-09-25 20:21:40+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/09/25/give-apache-break-nginx/
+redirect_from:
+- /2010/09/25/give-apache-break-nginx/
 slug: give-apache-break-nginx
 title: Give Apache a Break with nginx
 wordpress_id: 331

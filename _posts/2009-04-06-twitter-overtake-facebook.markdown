@@ -4,6 +4,8 @@ comments: true
 date: 2009-04-06 11:05:14+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/04/06/twitter-overtake-facebook/
+redirect_from:
+- /2009/04/06/twitter-overtake-facebook/
 slug: twitter-overtake-facebook
 title: Twitter Won't Overtake Facebook
 wordpress_id: 200

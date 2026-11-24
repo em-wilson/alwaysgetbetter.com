@@ -4,6 +4,8 @@ comments: true
 date: 2011-12-31 18:35:13+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/12/31/2011-review/
+redirect_from:
+- /2011/12/31/2011-review/
 slug: 2011-review
 title: 2011 In Review
 wordpress_id: 471

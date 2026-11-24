@@ -4,6 +4,8 @@ comments: true
 date: 2008-05-03 02:19:25+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/05/02/connection-to-server-reset-when-installing-drupal/
+redirect_from:
+- /2008/05/02/connection-to-server-reset-when-installing-drupal/
 slug: connection-to-server-reset-when-installing-drupal
 title: '"Connection to Server Reset" when Installing Drupal'
 wordpress_id: 30

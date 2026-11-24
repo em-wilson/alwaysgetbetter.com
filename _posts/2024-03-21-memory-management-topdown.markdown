@@ -4,6 +4,8 @@ comments: true
 date: 2024-03-21 12:49:00+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2024-03-21-memory-management-topdown/
+redirect_from:
+- /2024-03-21-memory-management-topdown/
 slug: memory-management-topdown
 title: Memory Management Demanded from the Very Top
 excerpt: Is your favourite programming language a security risk? The White House thinks so.

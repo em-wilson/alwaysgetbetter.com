@@ -4,6 +4,8 @@ comments: true
 date: 2024-02-25 19:20:00+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2024/02/25/github-pages/
+redirect_from:
+- /2024/02/25/github-pages/
 slug: github-pages
 title: GitHub Pages
 excerpt: I'm tired of running my own server just to host a blog, and GitHub seems like the perfect place to store all these thoughts.

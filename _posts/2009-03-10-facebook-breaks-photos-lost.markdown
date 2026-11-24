@@ -4,6 +4,8 @@ comments: true
 date: 2009-03-10 00:38:44+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/03/09/facebook-breaks-photos-lost/
+redirect_from:
+- /2009/03/09/facebook-breaks-photos-lost/
 slug: facebook-breaks-photos-lost
 title: Facebook Breaks, But Photos Not Lost
 wordpress_id: 198

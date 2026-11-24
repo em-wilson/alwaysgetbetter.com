@@ -4,6 +4,8 @@ comments: true
 date: 2012-01-16 10:00:39+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/01/16/4-year-blogiversary/
+redirect_from:
+- /2012/01/16/4-year-blogiversary/
 slug: 4-year-blogiversary
 title: 4 Year Blogiversary
 wordpress_id: 481

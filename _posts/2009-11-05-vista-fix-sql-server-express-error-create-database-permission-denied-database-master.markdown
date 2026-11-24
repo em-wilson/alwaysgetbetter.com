@@ -4,6 +4,8 @@ comments: true
 date: 2009-11-05 13:22:16+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/11/05/vista-fix-sql-server-express-error-create-database-permission-denied-database-master/
+redirect_from:
+- /2009/11/05/vista-fix-sql-server-express-error-create-database-permission-denied-database-master/
 slug: vista-fix-sql-server-express-error-create-database-permission-denied-database-master
 title: 'VISTA: How to fix SQL Server Express Error - CREATE DATABASE permission denied
   in database ''master'''

@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-06 12:49:55+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/06/how-to-sum-bit-fields-in-sql/
+redirect_from:
+- /2008/04/06/how-to-sum-bit-fields-in-sql/
 slug: how-to-sum-bit-fields-in-sql
 title: How to SUM Bit Fields in SQL
 wordpress_id: 19

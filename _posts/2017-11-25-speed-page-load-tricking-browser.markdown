@@ -4,6 +4,8 @@ comments: true
 date: 2017-11-25 06:20:48+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/11/25/speed-page-load-tricking-browser/
+redirect_from:
+- /2017/11/25/speed-page-load-tricking-browser/
 slug: speed-page-load-tricking-browser
 title: Speed Up Page Load By Tricking the Browser
 wordpress_id: 428

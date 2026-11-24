@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-12 18:47:17+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/12/cant-change-country-of-adobe-account/
+redirect_from:
+- /2008/11/12/cant-change-country-of-adobe-account/
 slug: cant-change-country-of-adobe-account
 title: Can't Change Country of Adobe Account
 wordpress_id: 59

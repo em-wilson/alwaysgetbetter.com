@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-12 11:00:17+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/12/riaa-switches-to-three-strikes-approach/
+redirect_from:
+- /2009/01/12/riaa-switches-to-three-strikes-approach/
 slug: riaa-switches-to-three-strikes-approach
 title: RIAA Changes Tactics
 wordpress_id: 119

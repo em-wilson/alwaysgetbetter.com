@@ -4,6 +4,8 @@ comments: true
 date: 2008-07-29 02:26:13+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/07/28/cuil-not-so-cool/
+redirect_from:
+- /2008/07/28/cuil-not-so-cool/
 slug: cuil-not-so-cool
 title: Cuil not so Cool
 wordpress_id: 38

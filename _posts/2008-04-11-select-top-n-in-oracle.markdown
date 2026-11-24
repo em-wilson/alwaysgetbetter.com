@@ -4,6 +4,8 @@ comments: true
 date: 2008-04-11 16:30:54+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/04/11/select-top-n-in-oracle/
+redirect_from:
+- /2008/04/11/select-top-n-in-oracle/
 slug: select-top-n-in-oracle
 title: SELECT TOP N in Oracle
 wordpress_id: 20

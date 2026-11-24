@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-24 12:00:31+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/24/drupal-stuck-at-database-configuration/
+redirect_from:
+- /2008/11/24/drupal-stuck-at-database-configuration/
 slug: drupal-stuck-at-database-configuration
 title: Drupal Stuck at Database Configuration
 wordpress_id: 68

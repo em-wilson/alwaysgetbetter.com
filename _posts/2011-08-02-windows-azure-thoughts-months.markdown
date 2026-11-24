@@ -4,6 +4,8 @@ comments: true
 date: 2011-08-02 10:00:51+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/08/02/windows-azure-thoughts-months/
+redirect_from:
+- /2011/08/02/windows-azure-thoughts-months/
 slug: windows-azure-thoughts-months
 title: Windows Azure Thoughts - First Six Months
 wordpress_id: 434

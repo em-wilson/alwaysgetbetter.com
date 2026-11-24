@@ -4,6 +4,8 @@ comments: true
 date: 2011-11-05 01:19:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/11/04/multiple-development-environments/
+redirect_from:
+- /2011/11/04/multiple-development-environments/
 slug: multiple-development-environments
 title: Multiple Development Environments
 wordpress_id: 454

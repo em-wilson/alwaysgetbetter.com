@@ -13,12 +13,18 @@ Used _Draw Things_
 
 Prompt:
 
-  muppetem, cartoon felt puppet, orange-peach felt skin, (very long dark brown hair flowing past her waist:1.3), cream knit sweater, (long midnight-blue ankle-length skirt:1.3), black skater shoes, standing on a wooden riverbank beside a small old wooden water gate, both hands pulling the gate lever open, (a flood of tiny white paper boats rushing through the open gate:1.3), early morning mist, soft sunrise light, calm wide river beyond with a quiet evening sky glowing at the far end, storybook landscape, (illustration:0.6)
-
-Negative prompt:
-
-  human, realistic person, real skin, text, letters, pants, trousers, jeans, orange clothing, plush, photo, photorealistic, 3d render, words, signs, watermark, short hair, short skirt, deformed hands, extra limbs, blurry
+  The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair to her waist, wearing a green cardigan, a long denim skirt and flat low-top canvas sneakers, closing a big barn door. Beside her, tiny cardboard-box robots ride in late on a runaway goat. Hay flies everywhere. One robot waves a tiny white flag. Low-angle shot from the robots' height, looking up at her. Storybook cartoon, ink lines and watercolor. No text or letters.
 
 | Field | Value |
 |---|---|
-| Model | SD3 Large Turbo 3.5 |
+| Model | flux_2_klein_4b_q8p.ckpt |
+| Steps | 7 |
+| Sampler | DDIM Trailing |
+| Guidance Scale | 1.2 |
+| Seed | 1549140093 |
+| Seed Mode | Scale Alike |
+| Size | 1344x768 |
+| Strength | 1.0 |
+| Shift | 1.2 |
+| CLIP Skip | 2 |
+| Upscaler | 4x_ultrasharp_f16.ckpt |

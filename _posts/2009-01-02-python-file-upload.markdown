@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-02 11:00:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/02/python-file-upload/
+redirect_from:
+- /2009/01/02/python-file-upload/
 slug: python-file-upload
 title: Python file upload
 wordpress_id: 146

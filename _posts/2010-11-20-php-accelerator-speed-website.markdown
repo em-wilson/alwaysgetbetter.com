@@ -4,6 +4,8 @@ comments: true
 date: 2010-11-20 17:04:37+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2010/11/20/php-accelerator-speed-website/
+redirect_from:
+- /2010/11/20/php-accelerator-speed-website/
 slug: php-accelerator-speed-website
 title: Use a PHP Accelerator to Speed Up Your Website
 wordpress_id: 344

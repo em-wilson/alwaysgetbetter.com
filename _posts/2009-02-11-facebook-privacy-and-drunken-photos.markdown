@@ -4,6 +4,8 @@ comments: true
 date: 2009-02-11 22:35:25+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/02/11/facebook-privacy-and-drunken-photos/
+redirect_from:
+- /2009/02/11/facebook-privacy-and-drunken-photos/
 slug: facebook-privacy-and-drunken-photos
 title: Facebook, Privacy and Drunken Photos
 wordpress_id: 181

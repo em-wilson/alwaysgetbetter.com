@@ -4,6 +4,8 @@ comments: true
 date: 2012-01-15 01:21:24+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/01/14/humanstxt-antirobotstxt/
+redirect_from:
+- /2012/01/14/humanstxt-antirobotstxt/
 slug: humanstxt-antirobotstxt
 title: Humans.txt - the Anti-Robots.txt
 wordpress_id: 450

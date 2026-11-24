@@ -4,6 +4,8 @@ comments: true
 date: 2008-01-16 16:53:40+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/01/16/blank-screen-loading-gmail/
+redirect_from:
+- /2008/01/16/blank-screen-loading-gmail/
 slug: blank-screen-loading-gmail
 title: Blank Screen Loading GMail
 wordpress_id: 4

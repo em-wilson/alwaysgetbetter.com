@@ -4,6 +4,8 @@ comments: true
 date: 2016-02-06 01:21:18+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2016/02/05/https-on-static-sites-using-cloudfront/
+redirect_from:
+- /2016/02/05/https-on-static-sites-using-cloudfront/
 slug: https-on-static-sites-using-cloudfront
 title: HTTPS on Static Sites using Cloudfront
 wordpress_id: 626

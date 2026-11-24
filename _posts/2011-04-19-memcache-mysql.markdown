@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-19 00:12:35+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/18/memcache-mysql/
+redirect_from:
+- /2011/04/18/memcache-mysql/
 slug: memcache-mysql
 title: Using Memcache with MySQL
 wordpress_id: 395

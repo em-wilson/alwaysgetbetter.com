@@ -4,6 +4,8 @@ comments: true
 date: 2013-05-27 10:00:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2013/05/27/tweeting-buffer/
+redirect_from:
+- /2013/05/27/tweeting-buffer/
 slug: tweeting-buffer
 title: Tweeting with Buffer
 wordpress_id: 535

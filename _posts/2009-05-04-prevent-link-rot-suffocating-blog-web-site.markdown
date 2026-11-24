@@ -4,6 +4,8 @@ comments: true
 date: 2009-05-04 02:11:11+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/05/03/prevent-link-rot-suffocating-blog-web-site/
+redirect_from:
+- /2009/05/03/prevent-link-rot-suffocating-blog-web-site/
 slug: prevent-link-rot-suffocating-blog-web-site
 title: Prevent Link Rot From Suffocating Your Blog or Web Site
 wordpress_id: 226

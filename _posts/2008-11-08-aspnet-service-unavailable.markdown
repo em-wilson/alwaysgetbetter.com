@@ -4,6 +4,8 @@ comments: true
 date: 2008-11-08 16:04:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/08/aspnet-service-unavailable/
+redirect_from:
+- /2008/11/08/aspnet-service-unavailable/
 slug: aspnet-service-unavailable
 title: ASP.NET "Service Unavailable"
 wordpress_id: 57

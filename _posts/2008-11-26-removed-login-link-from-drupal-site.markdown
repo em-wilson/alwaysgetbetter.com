@@ -4,6 +4,8 @@ comments: false
 date: 2008-11-26 12:00:42+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/11/26/removed-login-link-from-drupal-site/
+redirect_from:
+- /2008/11/26/removed-login-link-from-drupal-site/
 slug: removed-login-link-from-drupal-site
 title: Removed Login Link from Drupal Site
 wordpress_id: 70

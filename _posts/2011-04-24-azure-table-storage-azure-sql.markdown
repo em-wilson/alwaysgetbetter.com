@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-24 11:30:54+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/24/azure-table-storage-azure-sql/
+redirect_from:
+- /2011/04/24/azure-table-storage-azure-sql/
 slug: azure-table-storage-azure-sql
 title: Azure Table Storage vs Azure SQL
 wordpress_id: 414

@@ -13,12 +13,18 @@ Used _Draw Things_
 
 Prompt:
 
-  muppetem, cartoon felt puppet, peachy-orange felt skin, very long dark brown hair falling past her waist, wearing a long emerald green ankle-length skirt and a cream blouse, black skater shoes, standing on a small conductor's podium raising a baton with an exasperated expression, (conducting a huge orchestra of tiny identical felt puppet musicians filling rows of chairs:1.3), only one tiny musician in the front row playing a violin, (every other tiny musician fast asleep slumped in their chair with their instrument in their lap:1.2), grand concert hall stage, warm stage lighting, flat colours, bold outlines, storybook style, (illustration:0.6)
-
-Negative prompt:
-
-  human, realistic person, real skin, text, letters, pants, trousers, jeans, orange clothing, peach clothing, photorealistic, photograph, 3d render, plush toy photo, words, sheet music, music notes, signs, watermark, logo, extra fingers, deformed, blurry, lowres
+  The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a burgundy blazer, a long black skirt and flat low-top canvas sneakers, raising a conductor's baton on a small podium. A huge orchestra of tiny felt mice, only one playing a violin. One loud snore knocks empty chairs over like dominoes. Full-body shot, her on the left, the chaos on the right. Retro 1960s cartoon, thin outlines, warm limited palette. No text or letters.
 
 | Field | Value |
 |---|---|
-| Model | [AUTHOR: model used when you generate it] |
+| Model | flux_2_klein_4b_q8p.ckpt |
+| Steps | 7 |
+| Sampler | DDIM Trailing |
+| Guidance Scale | 1.2 |
+| Seed | 3549556165 |
+| Seed Mode | Scale Alike |
+| Size | 1344x768 |
+| Strength | 1.0 |
+| Shift | [AUTHOR: not in the pasted metadata] |
+| CLIP Skip | 2 |
+| Upscaler | 4x_ultrasharp_f16.ckpt |

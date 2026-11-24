@@ -4,6 +4,8 @@ comments: true
 date: 2008-05-27 14:19:08+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/05/27/replacing-adding-line-breaks-in-gridview-text/
+redirect_from:
+- /2008/05/27/replacing-adding-line-breaks-in-gridview-text/
 slug: replacing-adding-line-breaks-in-gridview-text
 title: Replacing / Adding Line Breaks in GridView Text
 wordpress_id: 34

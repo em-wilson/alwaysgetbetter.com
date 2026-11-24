@@ -4,6 +4,8 @@ comments: true
 date: 2008-05-04 02:28:03+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/05/03/blow-out-the-candles-for-spams-birthday/
+redirect_from:
+- /2008/05/03/blow-out-the-candles-for-spams-birthday/
 slug: blow-out-the-candles-for-spams-birthday
 title: Blow Out the Candles for Spam's Birthday
 wordpress_id: 31

@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-06 01:59:53+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/05/cloud-computing-magical/
+redirect_from:
+- /2011/04/05/cloud-computing-magical/
 slug: cloud-computing-magical
 title: Cloud Computing Is Not Magical
 wordpress_id: 237

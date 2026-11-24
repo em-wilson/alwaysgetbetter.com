@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-25 11:15:01+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/25/ensure-sla-multiple-web-role-instances-windows-azure/
+redirect_from:
+- /2011/04/25/ensure-sla-multiple-web-role-instances-windows-azure/
 slug: ensure-sla-multiple-web-role-instances-windows-azure
 title: Ensure SLA with Multiple Web Role Instances on Windows Azure
 wordpress_id: 416

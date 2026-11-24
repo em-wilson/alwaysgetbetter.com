@@ -4,6 +4,8 @@ comments: true
 date: 2008-07-02 03:06:12+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/07/01/getting-real-power-in-vista/
+redirect_from:
+- /2008/07/01/getting-real-power-in-vista/
 slug: getting-real-power-in-vista
 title: Getting Real Power in Vista
 wordpress_id: 36

@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-08 12:36:05+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/08/command-control-social-media/
+redirect_from:
+- /2011/04/08/command-control-social-media/
 slug: command-control-social-media
 title: Command and Control Social Media
 wordpress_id: 287

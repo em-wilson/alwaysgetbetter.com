@@ -4,6 +4,8 @@ comments: true
 date: 2008-08-02 16:31:52+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/08/02/aspnet-a-potentially-dangerous-requestform-value-was-detected-from-the-client/
+redirect_from:
+- /2008/08/02/aspnet-a-potentially-dangerous-requestform-value-was-detected-from-the-client/
 slug: aspnet-a-potentially-dangerous-requestform-value-was-detected-from-the-client
 title: 'ASP.NET: A potentially dangerous Request.Form value was detected from the
   client'

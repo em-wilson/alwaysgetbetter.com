@@ -4,6 +4,8 @@ comments: true
 date: 2021-01-01 03:38:10+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2020/12/31/coast-to-coast/
+redirect_from:
+- /2020/12/31/coast-to-coast/
 slug: coast-to-coast
 title: Coast to Coast
 wordpress_id: 741

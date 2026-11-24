@@ -4,6 +4,8 @@ comments: true
 date: 2017-09-19 09:13:38+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2017/09/19/5-ways-keep-server-secure/
+redirect_from:
+- /2017/09/19/5-ways-keep-server-secure/
 slug: 5-ways-keep-server-secure
 title: 5 Ways to Keep Your Web Server Secure
 wordpress_id: 699

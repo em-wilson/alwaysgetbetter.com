@@ -4,6 +4,8 @@ comments: true
 date: 2012-05-20 04:08:16+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2012/05/20/datetime-play-framework/
+redirect_from:
+- /2012/05/20/datetime-play-framework/
 slug: datetime-play-framework
 title: Using DateTime in the Play! Framework
 wordpress_id: 500

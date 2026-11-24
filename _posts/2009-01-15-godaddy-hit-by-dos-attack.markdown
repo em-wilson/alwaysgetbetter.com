@@ -4,6 +4,8 @@ comments: true
 date: 2009-01-15 14:27:26+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/01/15/godaddy-hit-by-dos-attack/
+redirect_from:
+- /2009/01/15/godaddy-hit-by-dos-attack/
 slug: godaddy-hit-by-dos-attack
 title: GoDaddy Hit by DoS Attack
 wordpress_id: 171

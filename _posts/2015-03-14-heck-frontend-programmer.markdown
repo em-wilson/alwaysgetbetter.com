@@ -4,6 +4,8 @@ comments: true
 date: 2015-03-14 01:22:15+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2015/03/13/heck-frontend-programmer/
+redirect_from:
+- /2015/03/13/heck-frontend-programmer/
 slug: heck-frontend-programmer
 title: That's Not My Job
 wordpress_id: 570

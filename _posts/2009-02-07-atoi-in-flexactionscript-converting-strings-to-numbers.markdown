@@ -4,6 +4,8 @@ comments: true
 date: 2009-02-07 23:31:09+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/02/07/atoi-in-flexactionscript-converting-strings-to-numbers/
+redirect_from:
+- /2009/02/07/atoi-in-flexactionscript-converting-strings-to-numbers/
 slug: atoi-in-flexactionscript-converting-strings-to-numbers
 title: atoi in Flex/ActionScript - Converting Strings to Numbers
 wordpress_id: 177

@@ -4,6 +4,8 @@ comments: true
 date: 2008-12-04 11:38:28+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/12/04/gotomypc-vs-remote-desktop-rdp/
+redirect_from:
+- /2008/12/04/gotomypc-vs-remote-desktop-rdp/
 slug: gotomypc-vs-remote-desktop-rdp
 title: GoToMyPC vs Remote Desktop (RDP)
 wordpress_id: 94

@@ -4,6 +4,8 @@ comments: true
 date: 2008-02-09 02:15:36+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/02/08/breaking-javas-rules-instantiating-an-interface/
+redirect_from:
+- /2008/02/08/breaking-javas-rules-instantiating-an-interface/
 slug: breaking-javas-rules-instantiating-an-interface
 title: 'Breaking Java''s Rules: Instantiating an Interface'
 wordpress_id: 9

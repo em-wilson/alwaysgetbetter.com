@@ -4,6 +4,8 @@ comments: true
 date: 2015-03-19 05:24:14+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2015/03/19/standing-desk-experiment/
+redirect_from:
+- /2015/03/19/standing-desk-experiment/
 slug: standing-desk-experiment
 title: Standing Desk Experiment
 wordpress_id: 558

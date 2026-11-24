@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-21 01:39:32+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/20/database-migrations/
+redirect_from:
+- /2011/04/20/database-migrations/
 slug: database-migrations
 title: Database Migrations
 wordpress_id: 404

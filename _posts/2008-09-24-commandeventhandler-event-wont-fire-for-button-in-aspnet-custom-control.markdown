@@ -4,6 +4,8 @@ comments: true
 date: 2008-09-24 23:03:04+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/09/24/commandeventhandler-event-wont-fire-for-button-in-aspnet-custom-control/
+redirect_from:
+- /2008/09/24/commandeventhandler-event-wont-fire-for-button-in-aspnet-custom-control/
 slug: commandeventhandler-event-wont-fire-for-button-in-aspnet-custom-control
 title: CommandEventHandler Event Won't Fire for Button in ASP.NET Custom Control
 wordpress_id: 55

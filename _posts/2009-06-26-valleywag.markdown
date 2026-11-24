@@ -4,6 +4,8 @@ comments: true
 date: 2009-06-26 19:50:03+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/06/26/valleywag/
+redirect_from:
+- /2009/06/26/valleywag/
 slug: valleywag
 title: Valleywag
 wordpress_id: 250

@@ -4,6 +4,8 @@ comments: true
 date: 2014-07-14 04:57:01+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2014/07/14/native-languages-mobile-development/
+redirect_from:
+- /2014/07/14/native-languages-mobile-development/
 slug: native-languages-mobile-development
 title: Native Languages are Best for Mobile Development
 wordpress_id: 562

@@ -4,6 +4,8 @@ comments: true
 date: 2009-05-15 02:45:25+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/05/14/statement/
+redirect_from:
+- /2009/05/14/statement/
 slug: statement
 title: 'C#: using Statement'
 wordpress_id: 228

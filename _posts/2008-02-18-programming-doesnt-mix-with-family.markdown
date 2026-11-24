@@ -4,6 +4,8 @@ comments: true
 date: 2008-02-18 19:15:18+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2008/02/18/programming-doesnt-mix-with-family/
+redirect_from:
+- /2008/02/18/programming-doesnt-mix-with-family/
 slug: programming-doesnt-mix-with-family
 title: Programming Doesn’t Mix With Family
 wordpress_id: 12

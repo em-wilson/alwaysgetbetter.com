@@ -4,6 +4,8 @@ comments: true
 date: 2009-06-12 19:26:55+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/06/12/friendly-fridays/
+redirect_from:
+- /2009/06/12/friendly-fridays/
 slug: friendly-fridays
 title: Friendly Fridays
 wordpress_id: 242

@@ -4,6 +4,8 @@ comments: true
 date: 2009-02-08 00:36:29+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/02/07/technorati-improves-blog-crawling-engine/
+redirect_from:
+- /2009/02/07/technorati-improves-blog-crawling-engine/
 slug: technorati-improves-blog-crawling-engine
 title: Technorati Improves Blog Crawling Engine
 wordpress_id: 179

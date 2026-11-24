@@ -4,6 +4,8 @@ comments: true
 date: 2011-04-24 03:21:12+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2011/04/23/surviving-cloud-failures/
+redirect_from:
+- /2011/04/23/surviving-cloud-failures/
 slug: surviving-cloud-failures
 title: Surviving Cloud Failures
 wordpress_id: 411

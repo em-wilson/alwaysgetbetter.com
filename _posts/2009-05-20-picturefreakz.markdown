@@ -4,6 +4,8 @@ comments: true
 date: 2009-05-20 20:29:12+00:00
 layout: post
 link: https://www.alwaysgetbetter.com/2009/05/20/picturefreakz/
+redirect_from:
+- /2009/05/20/picturefreakz/
 slug: picturefreakz
 title: What is PictureFreakz?
 wordpress_id: 235
