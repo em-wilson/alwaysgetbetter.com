@@ -1,0 +1,48 @@
+---
+author: emwilson
+comments: false
+date: 2026-12-11 12:26:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/2026/12/bug-names
+title: Every Bug Has a Cute Name Now
+---
+
+[![Every Bug Has a Cute Name Now](/images/2026/12/bug-names.jpg)](/images/2026/12/bug-names.jpg)
+
+Used _Draw Things_
+
+Prompt ideas:
+
+1. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair, wearing a long forest green dress and white flat low-top canvas sneakers, calmly holding a blank clipboard as a parade marches past. A line of cartoon beetles in sparkly costumes struts by, each wearing a plain satin sash with no writing. The lead beetle trips on its own cape and the whole parade tumbles into a heap of confetti. Wide shot from the curb. Retro 1960s cartoon, thin outlines, warm limited palette. No text or letters.
+
+2. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a low ponytail, wearing a khaki safari shirt, a long olive skirt and brown flat low-top canvas sneakers, peering through binoculars from behind a fern. In the jungle clearing, brightly costumed bugs pose dramatically for her attention. A startled toucan drops a coconut on a posing caterpillar's head. Medium shot from the side. Storybook ink and watercolor illustration. No text or letters.
+
+3. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a navy cardigan over a long mustard dress and navy flat low-top canvas sneakers, calmly ticking a blank list while standing at an open pantry. Tiny beetles wearing capes and party hats sprint out of jars and cereal boxes. A tower of tin cans topples and a flour bag bursts into a white cloud behind her. Medium shot facing her. Flat 2D cartoon, bold shapes, clean colors. No text or letters.
+
+4. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a loose braid, wearing a long plum wrap dress and black flat low-top canvas sneakers, sitting at a judges' table and holding up a blank scorecard. On a little stage, costumed bugs compete in a beauty pageant, each with a blank sash. A spotlight swings wildly and a nervous ladybug faints into a bouquet. Low angle from the audience. Mid-century modern illustration, geometric shapes, muted teal and mustard palette. No text or letters.
+
+5. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair tucked behind her ears, wearing a long denim pinafore dress over a white shirt and white flat low-top canvas sneakers, calmly opening a filing drawer full of blank folders. Boxy robots made of building blocks rush in waving tiny bug costumes and shouting soundlessly. One robot slips on a banana peel and sends blank papers flying like snow. Wide shot, her centered. Gouache picture book painting, soft brushwork. No text or letters.
+
+6. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with very long straight dark brown hair, wearing a long burgundy velvet dress and gray flat low-top canvas sneakers, calmly holding a magnifying glass over a tiny beetle on a garden leaf. Behind her, a crowd of costumed caterpillars and moths throws a dramatic red carpet premiere with camera flashes. A garden gnome topples into the birdbath with a huge splash. Close-up over her shoulder. Linocut print, bold carved lines, two inks. No text or letters.
+
+7. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in two low braids, wearing a long sky blue dress and white flat low-top canvas sneakers, sipping from a steaming coffee mug while checking a blank inventory sheet. Around her kitchen, a panicked flock of geese runs in circles honking at a tiny costumed bug on the counter. One goose crashes into a stack of pots and lids clatter everywhere. Medium shot. Cel-shaded animation style, crisp outlines. No text or letters.
+
+8. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair under a wide-brimmed straw hat, wearing a long sage green linen dress and tan flat low-top canvas sneakers, standing calmly in a vegetable garden with a blank seed notebook. Dozens of beetles in tiny superhero masks and capes burst out of the cabbages striking heroic poses. A watering can tips over and a startled rabbit gets soaked. Wide shot. Woodblock print style, flat colors, visible wood grain. No text or letters.
+
+9. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a long deep blue dress with a white collar and blue flat low-top canvas sneakers, calmly stamping a blank ledger at a tall wooden desk. A chain reaction unfolds behind her: a costumed bug bumps a domino, which tips a book, which launches a teacup at a sleepy cat. The cat leaps straight up, fur on end. Wide shot. Paper cut-out collage style, layered paper shapes. No text or letters.
+
+10. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a high ponytail, wearing a long red plaid skirt, a cream sweater and red flat low-top canvas sneakers, calmly pointing to a spot on a blank wall chart. A swarm of tiny costumed fireflies forms dramatic glowing shapes in the air to impress her. Two fireflies collide and fizzle into a puff of smoke. Medium shot facing her. Risograph print, grainy two-tone pink and blue inks. No text or letters.
+
+11. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair loose over her shoulders, wearing a long lavender dress and white flat low-top canvas sneakers, calmly holding a butterfly net at her side in a meadow. A parade of costumed bugs rides on the back of a very offended tortoise, all waving blank flags. The tortoise stops dead and the whole parade slides off into a puddle. Wide shot, low angle. Retro 1960s cartoon, limited palette, simple backgrounds. No text or letters.
+
+12. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair, wearing a long charcoal gray pinafore dress over a mint blouse and black flat low-top canvas sneakers, calmly looking through a row of plain glass jars on a long shelf. Inside each jar a costumed bug poses dramatically against the glass. One jar's lid pops off and a beetle in a feather boa bounces across the shelf, knocking jars like bowling pins. Medium shot. Storybook ink and watercolor. No text or letters.
+
+13. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair pinned back with a clip, wearing a long teal skirt, a white blouse and teal flat low-top canvas sneakers, calmly drinking coffee on a park bench. A street crier pigeon in a tiny cape flaps around shouting soundlessly, scattering a pile of breadcrumbs. A squirrel overreacts and faceplants into a pile of autumn leaves. Wide shot from across the path. Gouache picture book illustration, autumn palette. No text or letters.
+
+14. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a loose bun with strands falling down, wearing a long navy dress with small white dots and navy flat low-top canvas sneakers, calmly counting boxes in a tidy warehouse with a blank clipboard. Boxy robots made of building blocks chase a tiny glittering bug wearing a crown. The robots crash into each other and tumble into a pile of empty cardboard boxes. Wide shot. Flat 2D cartoon, bold outlines. No text or letters.
+
+15. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a long emerald dress and cream flat low-top canvas sneakers, calmly holding a lantern and peeking into a cozy attic. A crowd of moths in theatrical masks and capes dramatically unveils itself from behind a blanket. An old trunk lid snaps shut on a moth's cape and the curtain falls on everyone. Medium shot. Mid-century modern illustration, flat shapes, deep blues and greens. No text or letters.
+
+16. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair, wearing a long cobalt blue dress and white flat low-top canvas sneakers, calmly pinning a blank index card to a big corkboard covered in blank index cards. A costumed grasshopper bursts through the window in a spray of glass shards. A startled owl drops its teacup and spins off its perch. Wide shot. Cel-shaded cartoon, bright colors. No text or letters.
+
+17. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a side braid, wearing a long mossy green corduroy dress and brown flat low-top canvas sneakers, kneeling to look into a tide pool with a blank notebook. Tiny crabs in sequined costumes scuttle out dramatically, each waving a blank pennant. A wave rushes in and knocks over a seagull standing on one leg. Wide shot from low on the rocks. Linocut print, blue and sand two-color inks. No text or letters.

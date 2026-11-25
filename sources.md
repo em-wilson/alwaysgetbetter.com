@@ -83,6 +83,45 @@ Sources are grouped by tier. When reading the news, cover every source in Tier 1
 36. **Help Net Security (helpnetsecurity.com):** Daily vulnerability and industry news, often with links to the original advisory.
 37. **The Register (theregister.com):** `search-only` Irreverent but well-sourced coverage of outages, vendor behaviour and security incidents.
 
+## Tier 2: Cryptography and Post-Quantum (additional)
+
+38. **Filippo Valsorda (words.filippo.io):** `search-only` Go cryptography maintainer. Primary source for practical PQC opinions: quantum timeline analysis, the post-quantum "Cryptographic Right Answers" and ML-KEM/ML-DSA implementation notes.
+39. **Trail of Bits Blog (blog.trailofbits.com):** `search-only` Security research and audits with strong cryptography coverage, including PQC support in pyca/cryptography and constant-time compiler work.
+40. **Feisty Duck Cryptography & Security Newsletter (feistyduck.com/newsletter):** `search-only` Ivan Ristić's monthly commentary on TLS, PKI and the post-quantum transition. Its live "Feisty Duck News" page is an aggregator (see Fallback Aggregators).
+41. **Canadian Centre for Cyber Security (cyber.gc.ca):** `search-only` Canada's lead authority on PQC migration (roadmap ITSM.40.001) and national cyber guidance. Primary source for Canadian deadlines and advisories.
+
+## Tier 2: Privacy-Preserving AI
+
+42. **Flower Blog (flower.ai/blog):** `search-only` Release notes and case studies for the most widely used open-source federated learning framework.
+43. **Zama Blog (zama.ai/blog):** `search-only` Primary source for practical fully homomorphic encryption (TFHE-rs, Concrete ML). Vendor blog: skip the token and blockchain marketing posts.
+
+## Tier 2: Firmware and Hardware Security
+
+44. **Eclypsium Blog and Research (eclypsium.com/blog):** `search-only` Firmware, BMC, UEFI and Secure Boot research, including network-device and AI-infrastructure hardware risks. Vendor blog: use the research posts, not the product posts.
+45. **Oxide Computer Blog (oxide.computer/blog):** `search-only` Open firmware (Hubris), root-of-trust design and rack-scale hardware/software co-design. Posts are infrequent but deep; release notes at docs.oxide.computer.
+
+## Tier 2: Bio-Integrated Sensors and Novel Materials
+
+46. **MIT News: Sensors and Wearables (news.mit.edu/topic/wearables):** `search-only` University press releases on e-skin, wearable sensors and new materials, with links to the published papers.
+47. **IEEE Spectrum (spectrum.ieee.org):** `search-only` Engineering news on sensors, semiconductors and biomedical devices. Free to read; an account only unlocks extras.
+
+## Tier 2: Decentralized and Local-First Infrastructure
+
+48. **Ink & Switch (inkandswitch.com):** `search-only` Research lab behind local-first software, Automerge and Keyhive (local-first access control). Publishes essays and an occasional Dispatch newsletter. Pairs with Martin Kleppmann.
+
+## Tier 2: AI Agent Security (additional)
+
+49. **Embrace The Red (embracethered.com):** `search-only` Johann Rehberger's hands-on prompt injection and data exfiltration research against real agent products. Often the original report behind Simon Willison's coverage.
+
+## Tier 2: Supply Chain (additional)
+
+50. **OpenSSF Blog (openssf.org/blog):** `search-only` Open source supply chain security, SLSA, Sigstore and EU Cyber Resilience Act readiness for maintainers.
+
+## Tier 2: AI for Underserved Communities and Niche SaaS
+
+51. **Rest of World (restofworld.org):** `search-only` Nonprofit newsroom covering technology outside the US and Western Europe, including AI and gig work, data labour and local adoption.
+52. **BetaKit (betakit.com):** `search-only` Canadian tech and startup news: funding, SaaS, policy and sovereign tech. Good for Canada-angle and niche SaaS posts.
+
 ---
 
 ## Tier 3: General News (Major Events Only)
@@ -104,3 +143,5 @@ Use these when primary sites can't be reached. Never cite them directly; always 
 
 - **Hacker News Digest (zeli.app/digest):** `search-only` Daily summaries of Hacker News front-page stories and discussion.
 - **The Hacker News weekly recap (thehackernews.com):** `search-only` Weekly roundup of vulnerabilities and attacks, useful for finding CVEs and advisories to trace.
+- **Feisty Duck News (feistyduck.com/news):** `search-only` Live feed of cryptography, TLS and PKI links curated by Feisty Duck.
+- **Indie Hackers (indiehackers.com):** `search-only` Founder posts and revenue stories for spotting niche SaaS ideas. Very noisy; never cite a revenue figure without the founder's own post or other evidence.

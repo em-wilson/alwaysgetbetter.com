@@ -1,0 +1,50 @@
+---
+author: emwilson
+comments: false
+date: 2026-12-16 12:26:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/2026/12/canary-tokens
+title: Plant Canary Tokens to Find the Leaks You Can't See
+---
+
+[![Plant Canary Tokens to Find the Leaks You Can't See](/images/2026/12/canary-tokens.jpg)](/images/2026/12/canary-tokens.jpg)
+
+Used _Draw Things_
+
+Prompt ideas:
+
+1. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a low braid, wearing a forest green work dress with a canvas apron, a yellow hard hat with a headlamp and flat low-top canvas sneakers, holding up a lantern while a tiny yellow canary in a tiny hard hat sings on her shoulder. A wooden-beamed mine tunnel glows with warm lantern light. A startled mole in goggles drops his pickaxe and tumbles backward into a pile of coal dust. Medium shot, her in the center. Retro 1960s cartoon, thin outlines, warm limited palette. No text or letters.
+
+2. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long loose dark brown hair under a straw sun hat, wearing a sage green gardening dress and flat low-top canvas sneakers, kneeling to plant one shiny golden carrot in a neat vegetable row. A tiny bell on a string is tied to the carrot's leaves. Behind her a sneaky rabbit in a striped burglar mask yanks the carrot, the bell jingles and the rabbit leaps straight up, flinging soil everywhere. Wide shot. Storybook ink and watercolor. No text or letters.
+
+3. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair tied back with a ribbon, wearing a cornflower blue dress with a white apron and flat low-top canvas sneakers, calmly drying a teacup at the counter. A cozy kitchen with a tall cookie jar wearing a little brass bell on its lid. A raccoon lifts the lid, the bell rings, and the raccoon flails and knocks over a tower of mixing bowls. Medium shot from the side. Gouache picture book. No text or letters.
+
+4. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair over one shoulder, wearing a mustard yellow sundress and flat low-top canvas sneakers, setting a small honey pot on a tree stump with a bell tied around its neck. A sunny forest clearing. A bear sneaks a paw into the pot, the bell clangs, and a swarm of bees chases the bear in a dizzy loop around a tree. Wide shot. Linocut print, bold carved lines, two inks. No text or letters.
+
+5. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a high ponytail, wearing a plum wrap dress and flat low-top canvas sneakers, placing a sparkly fake gem on a velvet cushion in a museum gallery. A thin thread runs from the gem to a little bell on her finger. A cat burglar, an actual black cat in a mask, grabs the gem and slides across the polished floor into a suit of armor that collapses. Wide shot. Retro 1960s cartoon. No text or letters.
+
+6. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long curly dark brown hair, wearing a red gingham dress and flat low-top canvas sneakers, sitting on a picnic blanket and pouring lemonade. A grassy park with a ring of tiny bells strung around the blanket on a low string. A marching line of ants trips the string, the bells jangle and the ants pile into a startled heap on top of a sandwich. Low wide shot. Mid-century modern illustration, flat geometric shapes. No text or letters.
+
+7. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in two loose braids, wearing a lavender pinafore dress and flat low-top canvas sneakers, tucking a plain wooden decoy egg into a straw nest. A cheerful red henhouse at dawn. A fox reaches in for the egg, it squeaks like a toy, every chicken explodes into flapping feathers and the fox somersaults over a hay bale. Wide shot, her calm in the foreground. Flat 2D cartoon, bright colors. No text or letters.
+
+8. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long sleek dark brown hair, wearing a navy shirtdress and flat low-top canvas sneakers, sliding a blank golden envelope into a tall wooden filing drawer. A quiet records room with a tiny yellow canary perched on top of the cabinet. A boxy robot snoops in the drawer, the canary blows a tiny whistle, and the robot jumps so high its stack of blank papers flies everywhere. Medium shot. Cel-shaded cartoon, crisp shadows. No text or letters.
+
+9. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair tucked behind her ears, wearing a teal midi skirt, a cream sweater and flat low-top canvas sneakers, hanging a small cloth seed bag with a bell from a garden bird feeder. A snowy backyard. A greedy squirrel grabs the bag, the bell rings, and the squirrel tumbles off the branch straight into a birdbath with a huge splash. Medium shot. Woodblock print, soft blues and greens. No text or letters.
+
+10. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long windswept dark brown hair, wearing a striped navy and white sailor dress and flat low-top canvas sneakers, lounging in a beach chair holding a string that disappears into the sand. A sunny beach with a half-buried decoy treasure chest. A gang of seagulls digs it up, a bell on her chair rings, and the gulls collide midair in a burst of feathers. Wide shot. Paper cut-out collage, layered paper textures. No text or letters.
+
+11. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a messy bun with loose strands, wearing a burgundy dress and flat low-top canvas sneakers, sprinkling a thin line of flour across a pantry floor. A cozy stone pantry full of jars. A family of mice leaves tiny footprints straight through the flour, and the smallest mouse sneezes a giant white cloud that blasts the others off their feet. Low angle shot. Risograph print, grainy two-tone inks. No text or letters.
+
+12. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair under a knitted beanie, wearing a dark green pinafore dress over a white shirt and flat low-top canvas sneakers, nailing shut a plain wooden decoy crate on a harbor dock. Fishing boats bob in the background. A pirate parrot pries the crate open, a jack-in-the-box springs out, and the parrot flops backward into a barrel of water. Medium shot. Storybook ink and watercolor. No text or letters.
+
+13. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair and bangs, wearing a slate gray dress and flat low-top canvas sneakers, calmly sipping tea at a desk while a tiny yellow canary perched on her desk lamp sings loudly. Behind her, a boxy robot in a trench coat tiptoes off with a blank folder, trips over a power cord, and sends a chain reaction of falling binders across the office. Over-the-shoulder shot. Mid-century modern illustration. No text or letters.
+
+14. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a side braid, wearing a cobalt blue dress and flat low-top canvas sneakers, sitting on a dock holding a fishing rod with a little bell on its tip. A calm lake at sunset. A sly crab steals the bait from the hook, the bell jingles, and the crab panics and scuttles backward into her empty bucket with a splash. Wide shot. Linocut print. No text or letters.
+
+15. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long glossy dark brown hair, wearing an emerald velvet dress and flat low-top canvas sneakers, hanging a shiny fake golden key on a hook beside a castle door. A grand stone hallway. A magpie swoops in and snatches the key, which squeaks loudly, and the startled magpie crashes into a row of hanging tapestries that drop on a sleeping guard dog. Wide shot. Gouache picture book. No text or letters.
+
+16. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair blowing in the wind, wearing a cranberry red raincoat dress and flat low-top canvas sneakers, standing calmly beside a tall birdcage where a yellow canary rings a tiny handbell. A rainy rooftop of water tanks and pipes. Three boxy robots sneaking across the roof jump at the sound and pile into a rain barrel, splashing everywhere. Medium shot. Flat 2D cartoon, bold outlines. No text or letters.
+
+17. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a half-up twist, wearing a dusty rose dress and flat low-top canvas sneakers, placing a plain blank book on a high library shelf with a thin string to a bell. A tall old library with ladders. A sneaky weasel pulls the book, the bell rings, and an avalanche of blank books buries the weasel up to its nose. Wide shot. Cel-shaded cartoon. No text or letters.
+
+18. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a loose ponytail, wearing a denim blue dress and flat low-top canvas sneakers, setting a glowing decoy acorn on a fence post in an autumn orchard. A string of tiny bells hangs from the post. A chipmunk grabs the acorn, the bells ring, and a flock of crows bursts from the apple trees, raining apples onto the fleeing chipmunk. Wide shot. Retro 1960s cartoon. No text or letters.

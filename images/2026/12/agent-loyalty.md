@@ -1,0 +1,48 @@
+---
+author: emwilson
+comments: false
+date: 2026-12-18 12:26:08+00:00
+layout: page
+link: https://www.alwaysgetbetter.com/images/2026/12/agent-loyalty
+title: Whose Side Is Your Agent On?
+---
+
+[![Whose Side Is Your Agent On?](/images/2026/12/agent-loyalty.jpg)](/images/2026/12/agent-loyalty.jpg)
+
+Used _Draw Things_
+
+Prompt ideas:
+
+1. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a loose side braid, wearing a forest green knee-length dress and flat low-top canvas sneakers, calmly holding a leash attached to a big shaggy dog. A quiet park path curves past a row of tidy houses. The dog strains toward a fancy gated mansion, dragging a pile of autumn leaves and a startled squirrel along behind it. Wide side shot at eye level. Flat 2D cartoon, bold clean outlines, bright colors. No text or letters.
+
+2. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair, wearing a navy blue midi skirt, a cream sweater and flat low-top canvas sneakers, holding one end of a red leash with a patient smile. On a grassy riverbank, a goose grips the other end of the leash in its beak. The goose flaps so hard that feathers fly everywhere and a picnic basket tips into the river with a splash. Medium shot at eye level. Retro 1960s cartoon, thin outlines, warm limited palette. No text or letters.
+
+3. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a plum ankle-length dress and flat low-top canvas sneakers, holding out an empty teacup. A boxy robot butler with a silver tray stands beside her in a cozy sitting room. The robot bows deeply toward someone outside the frame, and the teapot on its tray pours a long stream of tea onto the rug. Medium shot. Storybook ink and watercolor, soft washes. No text or letters.
+
+4. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a low ponytail, wearing a sky blue pinafore dress and flat low-top canvas sneakers, leaning on a shepherd's crook. Her sheepdog herds the flock through a gate toward a huge red barn on the neighboring hill instead of her own little shed. The sheep pile up in a woolly heap at the gate, legs in the air. Wide shot of rolling hills. Paper cut-out style, layered colored paper. No text or letters.
+
+5. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair tucked behind her ears, wearing a lavender tea-length dress and flat low-top canvas sneakers, releasing a carrier pigeon holding a blank envelope from her rooftop garden. The pigeon flies straight toward a grand dovecote on a distant hill. A dozen other pigeons crash into her laundry line, and white sheets drop over a surprised cat. Low-angle shot from the rooftop. Gouache picture book illustration, soft brushy textures. No text or letters.
+
+6. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long curly dark brown hair, wearing a teal wrap dress and flat low-top canvas sneakers, carrying her shopping bags beside a boxy robot helper. Marionette strings run from the robot's arms up out of the top of the frame. The strings tangle, the robot spins in place and blank paper parcels tumble across the sidewalk while pigeons scatter. Full-body shot on a city street. Linocut print, bold carved lines, two colors. No text or letters.
+
+7. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair under a knit beret, wearing a burgundy ankle-length skirt, a grey cardigan and flat low-top canvas sneakers, following a boxy robot guide holding a lantern through a dark forest. The lantern's beam bends toward a glowing castle on a faraway hill instead of her cottage. Startled owls tumble off their branches in a feathery cascade. Wide shot from behind. Japanese woodblock print, flat color areas, fine linework. No text or letters.
+
+8. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a high ponytail, wearing a cobalt blue sundress and flat low-top canvas sneakers, walking a beagle on a leash. A second leash on the same beagle stretches to a gloved hand reaching in from outside the frame. The two leashes wrap the dog around a lamppost three times while a flock of pigeons explodes into the air. Medium shot. Cel-shaded cartoon, crisp shadows, saturated colors. No text or letters.
+
+9. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long windswept dark brown hair, wearing a mint green midi dress and flat low-top canvas sneakers, flying a diamond kite on a breezy hilltop. A large crow has grabbed the kite string and tugs it toward a tall tower on the horizon. Three more crows join in and land in a tangled heap of string and feathers. Wide shot with lots of sky. Mid-century modern illustration, geometric shapes, muted teal and cream palette. No text or letters.
+
+10. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in two loose braids, wearing a dusty rose long dress and flat low-top canvas sneakers, sitting at a garden tea party table. A boxy robot waiter slides the biggest slice of cake through a hatch in a hedge to someone unseen. The cake flips off the plate and lands frosting-first on a sleeping pug. Medium shot across the table. Retro 1960s cartoon, thin outlines, pastel limited palette. No text or letters.
+
+11. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair tied back with a scarf, wearing a denim blue pinafore dress over a white blouse and flat low-top canvas sneakers, calmly soldering a small boxy robot on her own cluttered workbench at home. Blank paper manuals and spare parts surround her. A tower of spare parts topples and a hamster surfs down the avalanche in a tiny tin cup. Close-up over the workbench. Storybook ink and watercolor, loose lines. No text or letters.
+
+12. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long straight dark brown hair, wearing a navy and white striped long dress and flat low-top canvas sneakers, sitting on a wooden dock with a fishing rod. Her pelican helper scoops up every fish she catches and flies off across the lake toward a giant fancy yacht. A fish slips from its beak and smacks a sunbathing seal, who flops into the water. Wide shot over the lake. Gouache picture book illustration. No text or letters.
+
+13. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair under a beekeeper's veil, wearing a white beekeeping smock over a long olive skirt and flat low-top canvas sneakers, holding a honey frame beside her small hive. Her bees stream over the fence toward an enormous shiny hive in the neighbor's yard. A curious bear tries to follow and gets stuck halfway through the fence. Medium wide shot. Paper cut-out style, layered textured paper. No text or letters.
+
+14. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a low bun with loose strands, wearing a charcoal grey ankle-length dress and flat low-top canvas sneakers, handing a blank parcel to a boxy robot courier at her front door. The robot salutes toward a giant office tower in the distance instead of looking at her. Its mailbag bursts and blank envelopes swirl through the air while a terrier leaps after them. Medium shot on a front porch. Risograph print, grainy two-tone inks. No text or letters.
+
+15. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long wavy dark brown hair, wearing a yellow-green gingham long dress and flat low-top canvas sneakers, standing calmly in a meadow holding a whistle. Her pack of eager ducklings marches in a neat line, then abruptly turns to follow a goose in a top hat walking off-frame. The last duckling trips and the whole line dominoes into a mud puddle. Low wide shot at duck height. Flat 2D cartoon, soft rounded shapes. No text or letters.
+
+16. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair falling over one shoulder, wearing a deep purple velvet long dress and flat low-top canvas sneakers, playing chess against a boxy robot in a library. The robot keeps glancing at a giant hand in the window giving it signals. It knocks over the whole board, and a startled cat leaps onto a stack of blank books that topples. Medium shot across the board. Cel-shaded cartoon with bold outlines. No text or letters.
+
+17. The puppet character from Picture 1, keeping her face, felt texture and proportions exactly the same, with long dark brown hair in a thick braid, wearing an emerald green long skirt, a white blouse and flat low-top canvas sneakers, sitting in a small rowboat. A boxy robot rows the other side but strokes hard toward a big lighthouse island, so the boat spins in circles. A seagull steals her sandwich and three more seagulls chase it, splashing into the water. Overhead shot. Mid-century modern illustration, flat geometric shapes, blue and green palette. No text or letters.
