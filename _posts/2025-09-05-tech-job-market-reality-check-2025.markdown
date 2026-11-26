@@ -32,7 +32,7 @@ Everyone seems to forget **the period from 2020-2022 was one of the hottest tech
 
 Then reality hit. [Interest rates went up to levels we hadn't seen in 20 years](https://www.statista.com/statistics/187616/effective-rate-of-us-federal-funds-monthly/). The money spigot turned off. [Companies looked around and realized they'd hired way more people than they actually needed](https://www.npr.org/2022/11/09/1134139800/facebook-layoffs-instagram-meta).
 
-So yes, layoffs happened. [About 95,000 workers at U.S. tech companies were cut in 2024](https://news.crunchbase.com/startups/tech-layoffs/). What the headlines don't tell you: [most of those cuts weren't engineers](https://www.codesmith.io/blog/software-engineering-jobs-2025). They were HR, communications, middle management, and other non-technical roles.
+So yes, layoffs happened. [About 95,000 workers at U.S. tech companies were cut in 2024](https://news.crunchbase.com/startups/tech-layoffs/). What the headlines don't tell you: [most of those cuts weren't engineers](https://codesmith.io/blog/software-engineering-jobs-2025). They were HR, communications, middle management, and other non-technical roles.
 
 Meanwhile, [software development roles are still projected to grow 17% from 2023 to 2033](https://lemon.io/blog/software-engineering-job-market/) – one of the fastest growth rates across all occupations. The Bureau of Labor Statistics isn't exactly known for wild optimism.
 
@@ -66,7 +66,7 @@ _If you got in before the COVID rush ended, good for you! If you're a new grad t
 
 If you're trying to break into this field right now, it's tough. Really tough.
 
-The entry-level market is the most challenging it's been in years. [Companies that used to hire bootcamp grads by the dozen are now primarily recruiting from top computer science programs](https://formation.dev/blog/2025-salary-and-career-trends-for-software-engineers/) where students have already completed multiple internships. The competition is fierce, and the bar has been raised significantly.
+The entry-level market is the most challenging it's been in years. [Companies that used to hire bootcamp grads by the dozen are now primarily recruiting from top computer science programs](https://formation.dev/blog/2025-salary-and-career-trends-for-software-engineers) where students have already completed multiple internships. The competition is fierce, and the bar has been raised significantly.
 
 The brutal reality: **the bottleneck has moved entirely to that first job**. Breaking in is harder than it's ever been. Many new grads are facing months or even a year or more of job searching. The the counterintuitive part is [once you do land that first role and prove you can deliver, the career progression opportunities are actually quite strong](https://www.zippia.com/junior-software-engineer-jobs/trends/). The job market now works like this: getting your first job is nearly impossible, but once you're in, moving up is much easier.
 
@@ -78,13 +78,13 @@ The junior engineers who are succeeding right now aren't just learning to code. 
 
 ### Mid-Level Engineers: The Sweet Spot
 
-If you have 3-7 years of experience, you're in the driver's seat. [Companies desperately want engineers who can contribute immediately without months of hand-holding](https://formation.dev/blog/2025-salary-and-career-trends-for-software-engineers/). You're experienced enough to be productive from day one, but not so senior that you're prohibitively expensive.
+If you have 3-7 years of experience, you're in the driver's seat. Companies desperately want engineers who can contribute immediately without months of hand-holding. You're experienced enough to be productive from day one, but not so senior that you're prohibitively expensive.
 
 This is where the "skills shortage" everyone talks about is most acute. [There's massive demand for engineers who understand modern development practices, can work with AI tools effectively, and have experience building scalable systems](https://blog.getaura.ai/software-engineering-job-trends).
 
 ### Senior Engineers: More Critical Than Ever
 
-[The market for truly senior engineers – people with 8+ years of real experience – has never been better](https://newsletter.manager.dev/p/the-software-engineering-squeeze). [Companies are realizing that a handful of excellent senior engineers can accomplish more than a small army of junior developers](https://newsletter.manager.dev/p/the-software-engineering-squeeze).
+[The market for truly senior engineers – people with 8+ years of real experience – has never been better](https://www.manager.dev/newsletter/the-software-engineering-squeeze). Companies are realizing that a handful of excellent senior engineers can accomplish more than a small army of junior developers.
 
 But being "senior" isn't just about years of experience anymore. The demand is for people who can architect complex systems, mentor other developers, and bridge the gap between technical and business requirements. They're the ones who can look at a business problem and figure out the right technical solution, not just implement what someone else designed.
 
@@ -119,8 +119,6 @@ For engineers who are genuinely good at this work – who can solve real problem
 The key is being honest about where you stand. Are you coasting on skills you learned five years ago? Are you ignoring new developments because change is hard? Are you more focused on job titles than on the actual value you create?
 
 The market has no patience for any of that anymore. My own experience taught me that even though decades of experience can open doors and get you conversations, they don't guarantee anything if you can't demonstrate current relevance and adaptability. But if you're willing to stay sharp, keep learning, and focus on solving real problems, there's never been a better time to be a software engineer.
-
-[![Be Unique in a Crowd](/images/2025/09/unique-crowd.png)](/images/2025/09/unique-crowd/)
 
 
 ---

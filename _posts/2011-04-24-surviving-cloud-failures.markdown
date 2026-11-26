@@ -28,7 +28,7 @@ I think the failure is not surprising, but rather the fact that it hasn't happen
 Not every business can afford the overhead of a large dedicated solution, so what to do?
 
 **Spread the Load**
-The key is redundancy. Start by [spreading your content](/blog/2011/04/22/accelerate-site-content-delivery-network/) across the internet rather than relying on  single server to cough up all of your visitors' needs. Things like content delivery networks (CDNs) will reduce the incoming load on the server and help it stay online.
+The key is redundancy. Start by [spreading your content](/blog/2011/04/21/accelerate-site-content-delivery-network/) across the internet rather than relying on  single server to cough up all of your visitors' needs. Things like content delivery networks (CDNs) will reduce the incoming load on the server and help it stay online.
 
 How can we tell if a website is offloading the right amount of content? [Perform regular speed testing](/blog/2011/04/19/tracking-website-speed-problems/) and identify problem areas using tools like YSlow.
 
@@ -41,7 +41,7 @@ Some systems are difficult to cluster: replication schemes in the various SQL se
 
 The key to successful redundancy is in scripting your software in such a way that failures can be recovered from fast and automatically. Having a hot spare in the group isn't useful if you need to reach an administrator at 4am to activate - by that point you've already lost your overseas customers for the day.
 
-Twilio has [an excellent summary](http://www.twilio.com/engineering/2011/04/22/why-twilio-wasnt-affected-by-todays-aws-issues/) of the engineering process that goes into creating a scalable cloud-ready infrastructure.
+Twilio has [an excellent summary](https://www.twilio.com/en-us/blog/company/communications/why-twilio-wasnt-affected-by-todays-aws-issues) of the engineering process that goes into creating a scalable cloud-ready infrastructure.
 
 **Avoid the Cloud? Never**
 Despite some public failures, cloud computing has not suffered any kind of blow. Large organizations will always want their own private non-cloud hosting, small sites will always be looking for an inexpensive VWS. The middle-tier which is serviced by the cloud will continue to see cost savings that greatly outweigh any physical hosting options available at that level.

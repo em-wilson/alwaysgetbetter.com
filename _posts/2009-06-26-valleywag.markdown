@@ -13,7 +13,7 @@ categories:
 - Friendly Friday
 ---
 
-I have to admit, reading [Valleywag](http://valleywag.gawker.com/) was a bit of a guilty pleasure. The online publication, which was part of Gawker Media, is akin to the tech world's Perez Hilton. Gossip about silicon's celebrities is dished up daily and served to geeks' RSS feeds everywhere.
+I have to admit, reading [Valleywag](https://en.wikipedia.org/wiki/Valleywag) was a bit of a guilty pleasure. The online publication, which was part of Gawker Media, is akin to the tech world's Perez Hilton. Gossip about silicon's celebrities is dished up daily and served to geeks' RSS feeds everywhere.
 
 Valleywag was folded in 2008 and became a column in the overall Gawker site. Too bad... it was fun to see people get so upset over its (essentially tabloid) articles.
 

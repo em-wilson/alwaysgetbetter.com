@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-19 13:00:00+00:00
 layout: post
 slug: your-status-page-depends-on-their-status-page
-title: "Your Status Page Depends on Their Status Page"
+title: "Status Pages Depend on Other Status Pages"
 excerpt: "When Microsoft 365 went dark for most of a day, products built on top of it went dark with it. Your uptime can't beat the services you quietly lean on. Here's how one bad gateway rolled downhill, and the questions to ask about your own product before it happens to you."
 categories:
 - General Programming

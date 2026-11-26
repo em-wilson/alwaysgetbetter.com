@@ -20,7 +20,7 @@ tags:
 - security
 ---
 
-The Ontario government has a program designed to provide funding for the purposes of building broadband internet infrastructure in rural communities.  The [Rural Connections Broadband Program](http://www.omafra.gov.on.ca/english/rural/ruralconnections/broadband.htm) has earmarked millions of dollars to build new infrastructure, which will bring high-speed Internet to communities where low population densities preclude the construction of more traditional networks (such as cable).
+The Ontario government has a program designed to provide funding for the purposes of building broadband internet infrastructure in rural communities.  The [Rural Connections Broadband Program](https://www.grainews.ca/daily/ont-pledges-8-8m-for-rural-broadband) has earmarked millions of dollars to build new infrastructure, which will bring high-speed Internet to communities where low population densities preclude the construction of more traditional networks (such as cable).
 
 This is great for users who, until now, have only been able to dream about leaving dial-up behind and joining the rest of the world.  Unfortunately, the solution to rural internet involves either unreliable satellite installations, or line-of-site cellular towers.
 

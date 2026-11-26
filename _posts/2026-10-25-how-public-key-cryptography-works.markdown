@@ -91,7 +91,7 @@ A kid eventually tires out, though, and a math problem never does. **The private
 
 ## What a Quantum Computer Changes
 
-That shortcut is exactly what a large quantum computer would provide. A known quantum algorithm solves both the factoring problem and the curve problem efficiently, which is why the UK's NCSC expects [most traditional public-key algorithms to be vulnerable](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography) once such a machine exists. Symmetric encryption fares far better - the same guidance says AES with 128-bit or longer keys can stay in use, and [Cloudflare](https://blog.cloudflare.com/pq-2025) says the quantum speedup doesn't even practically force bigger keys.
+That shortcut is exactly what a large quantum computer would provide. A known quantum algorithm solves both the factoring problem and the curve problem efficiently, which is why the UK's NCSC expects [most traditional public-key algorithms to be vulnerable](https://www.ncsc.gov.uk/paper/next-steps-in-preparing-for-post-quantum-cryptography) once such a machine exists. Symmetric encryption fares far better - the same guidance says AES with 128-bit or longer keys can stay in use, and [Cloudflare](https://blog.cloudflare.com/pq-2025) says the quantum speedup doesn't even practically force bigger keys.
 
 When I [argued for SSH keys over passwords]({% post_url 2011-04-26-protect-ssh-server-rsa-keys %}) back in 2011, my reasoning was that a long key can't be guessed from a dictionary and that as computers got faster we'd just make keys longer. That held up for fifteen years against ordinary computers, but a quantum computer doesn't guess faster - it takes the shortcut - so the fix is different math rather than longer keys.
 

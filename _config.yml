@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Never stop looking for ways to improve.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: America/Toronto # post URLs use this zone; matches the original WordPress dates
 github_username:  em-wilson
 
 permalink: /blog/:year/:month/:day/:title

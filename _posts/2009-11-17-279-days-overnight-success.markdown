@@ -18,11 +18,9 @@ tags:
 - twitter
 - work/life balance
 photo:
-  source: http://www.flickr.com/photos/53326337@N00/3924871627/
-  url: http://farm3.static.flickr.com/2506/3924871627_3632ec16d9_m.jpg
+  source: /images/2009/11/overnight-success
+  url: /images/2009/11/overnight-success.jpg
   description: Victory!
-  cc_author: quinn.anya
-  cc_link: http://www.flickr.com/photos/53326337@N00/3924871627/
 ---
 
 Chris Guillebeau offers his e-book _279 Days to Overnight Success_ for free on his blog. This is a great piece of writing that debunks the popular myths about "making it" blogging.
@@ -44,4 +42,4 @@ Chris Guillebeau offers his e-book _279 Days to Overnight Success_ for free on h
 
 
 
-[See for yourself - download it today.](http://chrisguillebeau.com/3x5/overnight-success/)
+[See for yourself - download it today.](https://chrisguillebeau.com/overnight-success)

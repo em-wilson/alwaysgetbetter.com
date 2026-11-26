@@ -17,7 +17,7 @@ tags:
 - Google
 ---
 
-Having worked with Online Applications for a number of years, I am rarely happy to be introduced to a new web browser. A new web browser means another test case - every line of code has to be verified against all of the major browsers before going into production. Another browser means new faults to watch for and program around, which translates to longer time to market. When I first heard about [Google Chrome](http://www.google.com/chrome/index.html) I thought to myself "great. Here we go again."
+Having worked with Online Applications for a number of years, I am rarely happy to be introduced to a new web browser. A new web browser means another test case - every line of code has to be verified against all of the major browsers before going into production. Another browser means new faults to watch for and program around, which translates to longer time to market. When I first heard about [Google Chrome](https://www.google.com/chrome/index.html) I thought to myself "great. Here we go again."
 
 As far as actually _using_ the thing, it took a long time. My preference has been Firefox for quite some time and although I have flirted with other browsers I always found myself preferring the usability of the software Mozilla's team has put together for us. So when Chrome first came across my desk I didn't invest much time into trying out its features. What a mistake!
 

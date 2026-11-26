@@ -26,7 +26,7 @@ photo:
   description: Spin doctor
 ---
 
-You have to shake your head every time someone goes off about "netbooks", those wonderful, tiny, _cute_ computers that don't cost very much. When you look at them, what do you really see? How about a crappy laptop that can barely run Windows. [The thing is cheap](http://gigaom.com/2009/01/26/netbook-cheap-pc/) in more ways than one - but somehow marketers have been able to spin that as a good thing and make big profits off useless hardware without needing to develop anything new.
+You have to shake your head every time someone goes off about "netbooks", those wonderful, tiny, _cute_ computers that don't cost very much. When you look at them, what do you really see? How about a crappy laptop that can barely run Windows. [The thing is cheap](https://www.wired.com/2009/02/mf-netbooks/) in more ways than one - but somehow marketers have been able to spin that as a good thing and make big profits off useless hardware without needing to develop anything new.
 
 
 

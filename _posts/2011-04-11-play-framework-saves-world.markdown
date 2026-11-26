@@ -19,7 +19,7 @@ tags:
 - unit testing
 ---
 
-Play framework must be the best-kept secret in the Java world. If you haven't had a chance to see their totally awesome demonstration video where they build a full app before your eyes in a matter of minutes, [go - go now](http://www.playframework.org/). Then come back.
+Play framework must be the best-kept secret in the Java world. If you haven't had a chance to see their totally awesome demonstration video where they build a full app before your eyes in a matter of minutes, [go - go now](https://www.playframework.com/). Then come back.
 
 Why do I like this framework so much? Put simply, it is an elegant solution for nearly every problem I've ever run into in developing websites, both single-server and multi-server applications. Don't take my word for it, see for yourself.
 

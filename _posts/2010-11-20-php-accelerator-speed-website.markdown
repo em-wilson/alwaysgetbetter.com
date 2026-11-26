@@ -26,7 +26,7 @@ Even though compilation is very fast, it still has a resource and time cost, esp
 Xcache is my favourite and is the one I use in my own configurations. It works by caching the compiled PHP opcode in memory so PHP can be directly executed by the web server without expensive disk reads and processing time. Many caching schemes also use Xcache to store the results of PHP rendering so individual pages don't need to be re-processed.
 
 **APC (Alternative PHP Cache)**
-APC is a very similar product to XCache - in fact XCache was released partially as a response to the perceived lag APC's support for newer PHP versions. APC is essentially the standard PHP Accelerator - in fact, it will be [included by default in PHP 6](http://davidwalsh.name/php6). As much as I like XCache, it will be hard to compete with built-in caching.
+APC is a very similar product to XCache - in fact XCache was released partially as a response to the perceived lag APC's support for newer PHP versions. APC is essentially the standard PHP Accelerator - in fact, it will be [included by default in PHP 6](https://davidwalsh.name/php6). As much as I like XCache, it will be hard to compete with built-in caching.
 
 **MMCache**
 Turck MMCache is one of the original PHP Accelerators. Although it is no longer in development, it is still widely used. An impressive feature of MMCache is its exporter which allows you to distribute compiled versions of your PHP applications without the source code. This is useful for those companies that feel they need to protect their program code when hosting in client environments.

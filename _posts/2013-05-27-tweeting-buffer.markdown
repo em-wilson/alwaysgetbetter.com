@@ -27,7 +27,7 @@ Then there's my reading. I read a lot. And I run into all kinds of cool stuff I 
 Until now.
 
 **Buffer to Spread Around the Outbursts**
-I found an app called Buffer ([bufferapp.com](http://bufferapp.com)) that sits in front of your twitter account and collects your tweets into a "buffer", then sends them out on a schedule. So you can have a backlog of messages filter out slowly over a day instead of shoving them all out at once.
+I found an app called Buffer ([bufferapp.com](https://buffer.com/)) that sits in front of your twitter account and collects your tweets into a "buffer", then sends them out on a schedule. So you can have a backlog of messages filter out slowly over a day instead of shoving them all out at once.
 
 So my workflow with Twitter now is to monitor it (using Growl, of course) and have conversations where I can. I've met some incredible people using Twitter and made more than a few fun connections, and hope to keep building that over time. Whenever I read something interesting I'll drop it into Buffer, and anyone who is interested can see those links without getting spammed all at once. I think it's win-win.
 

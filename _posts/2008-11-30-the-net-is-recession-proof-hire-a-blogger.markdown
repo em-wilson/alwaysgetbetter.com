@@ -20,7 +20,7 @@ tags:
 - programming
 ---
 
-An interesting article at the Silicon Alley Insider today - [recession winners are designers and SEO experts](http://www.alleyinsider.com/2008/11/recession-winners-web-designers-seo).  Advertising is tricky for businesses because dollars spent can't always be tracked to dollars earned.  When it comes to designing a web site I like to go with the analogy of a salesperson.  A web site is like an employee who works 24/7, can serve unlimited numbers of customers, and remembers everything they are told about every product.  Every dollar spent on a corporate web site is returned to the company passively over time - and as the site ages and grows in traffic, its value continues to increase.
+An interesting article at the Silicon Alley Insider today - [recession winners are designers and SEO experts](https://www.businessinsider.com/2008/11/recession-winners-web-designers-seo).  Advertising is tricky for businesses because dollars spent can't always be tracked to dollars earned.  When it comes to designing a web site I like to go with the analogy of a salesperson.  A web site is like an employee who works 24/7, can serve unlimited numbers of customers, and remembers everything they are told about every product.  Every dollar spent on a corporate web site is returned to the company passively over time - and as the site ages and grows in traffic, its value continues to increase.
 
 Those are interesting elements to keep in mind when making purchasing decisions.  As we head into hard times it is more important than ever for businesses to connect to their customers in real and organic ways - social networking is the tool for the job.
 

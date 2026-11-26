@@ -38,7 +38,7 @@ If the new lock has a hidden flaw the old one still stops today's attackers, and
 
 Both machines run both exchanges side by side inside the same handshake. Your browser sends its half of the old elliptic-curve exchange along with a public key for the new one, and the server answers with its half of the old exchange plus a fresh secret wrapped in that public key. When it's done, each side holds two secrets, one from each method.
 
-The specification, [RFC 10024](https://www.rfc-editor.org/rfc/rfc10024), joins those two 32-byte secrets into one 64-byte value and feeds it into the normal process that produces the session key. It uses "hybrid" in a specific sense: the result stays secure **as long as one component remains secure**. Recovering the session key means recovering both secrets, which means breaking both kinds of math.
+The specification, [RFC 10024](https://www.rfc-editor.org/info/rfc10024/), joins those two 32-byte secrets into one 64-byte value and feeds it into the normal process that produces the session key. It uses "hybrid" in a specific sense: the result stays secure **as long as one component remains secure**. Recovering the session key means recovering both secrets, which means breaking both kinds of math.
 
 That protects everything sent over the connection, including traffic recorded today and attacked years from now.
 

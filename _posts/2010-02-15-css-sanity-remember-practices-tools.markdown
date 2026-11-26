@@ -40,7 +40,7 @@ jQuery("ul#menu ul").css({display: "none"}); // For Opera
 Not only is this example less dependent on consistent web browser support for the CSS :hover selector, we've even thrown in a spiffy little roll-out animation.
 
 **Keep It Simple**
-The [nth-child selector is one that stands to be abused](http://css-tricks.com/how-nth-child-works/) by overzealous developers. Imagine this: change the display of every nth element as defined through an algebraic expression.
+The [nth-child selector is one that stands to be abused](https://css-tricks.com/how-nth-child-works/) by overzealous developers. Imagine this: change the display of every nth element as defined through an algebraic expression.
 
 Why is this a bad thing? CSS is run in the same memory space as the general web page - that's why it's so fast. JavaScript tends to be isolated; meaning if you make an infinite loop in JavaScript, the web browser will eventually stop it from running. If the same thing happens in CSS, your web session is probably toast.
 

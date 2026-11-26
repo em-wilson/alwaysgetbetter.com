@@ -16,7 +16,7 @@ tags:
 - work/life balance
 ---
 
-Back in 2006, George Alexander detailed a great list of [traits essential for successful computer programmers](http://blogs.ittoolbox.com/c/programming/archives/essential-traits-of-a-great-programmer-part-1-11381).  In this entry, we will look at those traits and see how they apply (or not) to the family life of a computer programmer.
+Great programmers are said to share a handful of traits: drive and passion, comfort with change, a knack for breaking big problems down, openness to criticism, and the ability to communicate.  In this entry, we will look at those traits and see how they apply (or not) to the family life of a computer programmer.
 
 In Canada, the Ontario government decreed the third Monday in February would be a holiday known as “family day”.  This ends the decades-long stretch from January through March known to Canadians as the “dead zone” – the longest unbroken span of work weeks of the year.  Nobody is complaining about a long weekend lightening the dreary winter months; except of course the four million or so workers who don’t qualify for the holiday, but that’s another story altogether.
 

@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-22 13:00:00+00:00
 layout: post
 slug: does-your-saas-need-to-mark-ai-output
-title: "Does Your SaaS Need to Mark AI Output by December 2?"
+title: "The December 2 Deadline for Marking AI Output"
 excerpt: "Since August, a European law has required AI-generated content to carry a hidden 'made by AI' tag and chatbots to say they're bots, and on December 2 the grace period for older products runs out. Most small teams wrapping an AI service don't know whether the rules apply to them or to their vendor. A plain-language walkthrough of who owes what, how the marking works, and a checklist you can run this week."
 categories:
 - General Programming
@@ -144,8 +144,8 @@ Some rows won't need anything, because they only produce code or never reach a h
 
 This step protects you from both doing double work and trusting a mark that isn't there. The Commission's FAQ says marking techniques built in by general-purpose model providers can make downstream compliance easier - _easier, not automatic_. Look up exactly what your vendor does for each content type and each model you call, because the answers vary:
 
-* **OpenAI:** images from the API [carry both Content Credentials and a SynthID watermark](https://help.openai.com/en/articles/8912793), except from models planned for imminent deprecation. **API text watermarking is something you turn on** in your project or organization settings, and outputs under about 200 tokens and code snippets aren't expected to carry it. A [content provenance API](https://developers.openai.com/api/docs/guides/content-provenance) can check images and audio, but text checking is limited to approved organizations.
-* **Anthropic:** supported Claude models [watermark generated text and put Content Credentials on supported files](https://support.claude.com/en/articles/16266773) such as PNG and JPEG. The listed exceptions include very short passages and, for certain models, a non-default `temperature`, `top_p` or `top_k`. Anthropic tells developers to work out their own obligations independently.
+* **OpenAI:** images from the API [carry both Content Credentials and a SynthID watermark](https://help.openai.com/en/articles/8912793-provenance-signals-in-content-processed-by-openai-tools), except from models planned for imminent deprecation. **API text watermarking is something you turn on** in your project or organization settings, and outputs under about 200 tokens and code snippets aren't expected to carry it. A [content provenance API](https://developers.openai.com/api/docs/guides/content-provenance) can check images and audio, but text checking is limited to approved organizations.
+* **Anthropic:** supported Claude models [watermark generated text and put Content Credentials on supported files](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) such as PNG and JPEG. The listed exceptions include very short passages and, for certain models, a non-default `temperature`, `top_p` or `top_k`. Anthropic tells developers to work out their own obligations independently.
 * **Google:** there's no official guarantee from Google that text from the Gemini API carries a SynthID watermark. In Google's developer forums, people who appear to work for Google seem to confirm that it does, but there's no public tool to check text from the API yourself. Until Google puts it in writing, treat the gap as yours.
 
 Once you know what your provider does for you, make sure your own code isn't throwing the marks away. Signed metadata lives in the file, and resizing, re-encoding, a CDN's "optimize images" setting or a screenshot will strip it. OpenAI's docs warn that editing, converting or sharing a file can remove its metadata. Add a check to your pipeline that runs on the files you serve, not the ones the vendor sent you.

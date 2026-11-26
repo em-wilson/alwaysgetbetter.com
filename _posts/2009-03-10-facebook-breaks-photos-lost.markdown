@@ -23,6 +23,6 @@ photo:
   cc_link: http://www.flickr.com/photos/60991646@N00/2482389516/
 ---
 
-Over the weekend Facebook suffered a multiple hardware failure that caused its photo service to fail. Up to 15% of the site's multiple-_billion_ photos [displayed as nothing more than a question mark on Sunday night](http://news.cnet.com/8301-13577_3-10191678-36.html?part=rss&tag=feed&subj=TheSocial).
+Over the weekend Facebook suffered a multiple hardware failure that caused its photo service to fail. Up to 15% of the site's multiple-_billion_ photos [displayed as nothing more than a question mark on Sunday night](https://www.reddit.com/r/CSRRacing2/comments/87juva/why_is_everyones_facebook_picture_a_red_question/).
 
 Facebook is already in the process of cleaning up the mess and restoring the lost files, but the failure is just another example highlighting the importance of making backups of our own data rather than relying on ["the cloud"](/blog/2011/04/05/cloud-computing-magical/) for permanence.

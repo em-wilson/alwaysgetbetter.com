@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-16 13:00:00+00:00
 layout: post
 slug: your-ai-agent-is-a-new-hire-with-root
-title: "Your AI Agent Is a New Hire With Root"
+title: "AI Coding Agents Are New Hires With Root"
 excerpt: "AI coding tools are already running on our machines with our keys and our permissions, and most of us never actually decided they should. A reality check on what went wrong this fall and what to do about it."
 categories:
 - Security
@@ -74,11 +74,11 @@ Keep those five questions handy. They work just as well on the next agent produc
 
 The encouraging part is that the platforms where agents do real work are converging on the same answers, and they look a lot like how we already manage people.
 
-**Read-only by default, writes through someone else.** In GitHub's newly released Agentic Workflows, [agents start with read-only permissions](https://infoq.com/news/2026/11/github-agentic-workflows-ga) and any changes they propose are applied by separate jobs holding their own write tokens. Its FAQ is honest about the limits: the protections don't automatically extend to direct write permissions or to custom jobs a workflow author adds, so a workflow is only as safe as its configuration.
+**Read-only by default, writes through someone else.** In GitHub's newly released Agentic Workflows, [agents start with read-only permissions](https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/) and any changes they propose are applied by separate jobs holding their own write tokens. Its FAQ is honest about the limits: the protections don't automatically extend to direct write permissions or to custom jobs a workflow author adds, so a workflow is only as safe as its configuration.
 
-**Agents show up in the audit log.** Teams can now [connect outside agents like Claude Code, Cursor and Codex to GitLab](https://infoq.com/news/2026/11/gitlab-19-5-agentic-platform) through its CLI, record their sessions (who, which agent, which project, when) and stream those audit events to a SIEM. Administrators pick which tool sets the agents can see at all.
+**Agents show up in the audit log.** Teams can now [connect outside agents like Claude Code, Cursor and Codex to GitLab](https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/) through its CLI, record their sessions (who, which agent, which project, when) and stream those audit events to a SIEM. Administrators pick which tool sets the agents can see at all.
 
-**Tools are off until someone owns them.** A single [gateway at Uber](https://infoq.com/news/2026/11/uber-mcp-gateway-ai-agents) sits in front of more than 800 MCP servers (MCP being the standard protocol agents use to call outside tools) and 5,000 tools, enforces authorization at both the server and tool level, and keeps newly discovered tools disabled until the owning team reviews and enables them.
+**Tools are off until someone owns them.** A single [gateway at Uber](https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/) sits in front of more than 800 MCP servers (MCP being the standard protocol agents use to call outside tools) and 5,000 tools, enforces authorization at both the server and tool level, and keeps newly discovered tools disabled until the owning team reviews and enables them.
 
 **The agent never holds the key.** Separating the authority an agent needs from the credential behind it lets an agent do one narrow thing, like modify a single repository, without holding a token that opens everything else. Scoped command execution and workload identity have shipped, while the credential-brokered API access is still on the way.
 

@@ -63,7 +63,7 @@ Based on millions of examples, it can take input and guess what the output is. T
 Combine ML with **natural language processing (NLP)** and you get a chatbot that appears
 to understand written human speech. This is what gives chatbots the uncanny valley where
 you might think (*at first*) you are talking to a real human. As we've all seen, these
-apps are [easy to "fool" into giving you out of bounds responses](https://venturebeat.com/ai/a-chevy-for-1-car-dealer-chatbots-show-perils-of-ai-for-customer-service/), since they tend to have
+apps are [easy to "fool" into giving you out of bounds responses](https://venturebeat.com/ai/a-chevy-for-1-car-dealer-chatbots-show-perils-of-ai-for-customer-service), since they tend to have
 very little training outside their specialty area.
 
 The terms **neural networks** and **deep learning** refer to flavours of the same thing,
@@ -128,7 +128,7 @@ ask for 5 meal ideas based on what it sees.
 Cooking for picky houseguests? Ask for a mealplan tailored to their dietary preferences
 and tastes.
 
-Working on the [latest spacecraft for NASA](https://www.nasa.gov/science-research/nasa-turns-to-ai-to-design-mission-hardware/)?
+Working on the [latest spacecraft for NASA](https://www.nasa.gov/technology/goddard-tech/nasa-turns-to-ai-to-design-mission-hardware/)?
 AI can shortcut the design of totally alien structures that perform better than traditional
 manual processes.
 

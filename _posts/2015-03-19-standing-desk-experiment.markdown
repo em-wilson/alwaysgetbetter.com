@@ -21,7 +21,7 @@ Over the past year I experimented with working at a standing desk. My setup was 
 
 **Motivation: Not Wanting to Die**
 
-It should come as no surprise that [sitting for long periods of time is killer bad for you](http://www.lifehacker.com.au/2011/05/infographic-shows-just-how-bad-prolonged-sitting-is/).  When you live a generally sedentary lifestyle, any excuse to get out of your chair is a good one; so my expectation going in was that I would probably be uncomfortable from being on my feet and subtly flexing my knees all day versus sitting.
+It should come as no surprise that [sitting for long periods of time is killer bad for you](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005).  When you live a generally sedentary lifestyle, any excuse to get out of your chair is a good one; so my expectation going in was that I would probably be uncomfortable from being on my feet and subtly flexing my knees all day versus sitting.
 
 In reality it wasn't bad at all. The first two or three days my legs were pretty sore at the end of the day and then my body got accustomed to standing. Many standing desk users suggest putting an anti-fatigue mat down; I never did nor did I find I needed it. The first week I used a few towels to pad my feet from the hard floor but after the initial adjustment I was fine on my own.
 
@@ -33,7 +33,7 @@ Unlike days spent sitting, when you stand you never stand perfectly still; you'r
 
 **Results: Sharper Focus**
 
-After all this I think every company should raise their conference tables and throw away the chairs, or ditch the conference room and [go for walking meetings instead](http://www.ted.com/talks/nilofer_merchant_got_a_meeting_take_a_walk?language=en). When you're standing you naturally approach your tasks with more urgency, and have quick brilliant insights. Everything gets done faster because there is less mind-wandering.
+After all this I think every company should raise their conference tables and throw away the chairs, or ditch the conference room and [go for walking meetings instead](https://www.ted.com/talks/nilofer_merchant_got_a_meeting_take_a_walk?language=en). When you're standing you naturally approach your tasks with more urgency, and have quick brilliant insights. Everything gets done faster because there is less mind-wandering.
 
 For a programmer, this works really well if you are doing a good job at breaking your work down to manageable tasks. A single work unit can be done quickly when there are no other distractions, and standing really helped cut through all those other distractions.
 

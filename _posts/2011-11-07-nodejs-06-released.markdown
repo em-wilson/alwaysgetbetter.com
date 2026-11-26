@@ -18,4 +18,4 @@ tags:
 
 The Node.js team has released version 0.6. Although much of the core was re-written, the most noteworthy change has to be the support for native Windows installation. Whereas previously it was possible to run node.js on Windows using Cygwin, the native compilation means its performance will be comparable to Linux equivalents.
 
-Other important improvements include upgrading of the V8 engine and multi-process load balancing. Much more information can be found on the [node blog](http://blog.nodejs.org/2011/11/05/node-v0-6-0/).
+Other important improvements include upgrading of the V8 engine and multi-process load balancing. Much more information can be found on the [node blog](https://nodejs.org/en/blog/release/v0.6.0).

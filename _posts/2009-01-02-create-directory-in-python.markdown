@@ -16,7 +16,7 @@ tags:
 - python
 ---
 
-I needed to learn how to create directories using Python and found this [great resource](http://desk.stinkpot.org:8080/tricks/index.php/2006/07/create-a-directory-in-python/) (digression: check out this author's page headers - way cool!)
+I needed to learn how to create directories using Python and found some great resources and books.
 
 Although I didn't really add anything new to the code, I ended up creating the following commented function which I share here in case it helps more users to understand.
 

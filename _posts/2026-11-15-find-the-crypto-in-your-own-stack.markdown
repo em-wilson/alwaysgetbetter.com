@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-15 13:00:00+00:00
 layout: post
 slug: find-the-crypto-in-your-own-stack
-title: "Find the Crypto in Your Own Stack"
+title: "Find the Crypto Hiding in a Web Stack"
 excerpt: "Post-quantum migration starts with a boring question: what cryptography are you actually using? Here's a one-afternoon audit you can run on your own servers, repos and keys."
 photo:
   source: /images/2026/11/crypto-audit
@@ -35,7 +35,7 @@ Looking at what you have takes only a handful of commands - the harder part is k
 Zoom in and the risk splits into two parts, and it helps to keep them apart.
 
 * **Secrets recorded now and read later.** An attacker copies your encrypted traffic today, stores it, and unlocks it once a powerful enough quantum computer exists, which makes this the one to worry about for data that has to stay private for years.
-* **Forged identities.** Encryption also proves who you're talking to, and website certificates, SSH keys, signed software and login tokens all depend on it. Forging them needs a working quantum computer to exist first but the switch to something safer has to happen *before* it does - Google says it [moved authentication up in its own threat model](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography).
+* **Forged identities.** Encryption also proves who you're talking to, and website certificates, SSH keys, signed software and login tokens all depend on it. Forging them needs a working quantum computer to exist first but the switch to something safer has to happen *before* it does - Google says it moved authentication up in its own threat model.
 
 Audit both but keep them on separate lists. The first is mostly a matter of updating software while the second is slower and tangled up with everything else.
 
@@ -53,9 +53,9 @@ Keep them in your head as you work. The commands only gather facts, and the ques
 
 ## 1. Check What Your Servers Negotiate
 
-Start with the front door. Everything your visitors and users send to your servers - logins, form submissions, API calls - travels over a secure connection set up with a protocol called TLS (it's the thing behind the padlock next to the address), so this is where an attacker who records traffic would start. The part we care about is the handshake where both sides agree on a secret, called the "key exchange," since that decides whether a recording made today could be unlocked later. You'll need OpenSSL 3.5 or newer to test it because that release [made hybrid post-quantum key exchange part of the default setup](https://openssl-library.org/news/openssl-3.5-notes). 
+Start with the front door. Everything your visitors and users send to your servers - logins, form submissions, API calls - travels over a secure connection set up with a protocol called TLS (it's the thing behind the padlock next to the address), so this is where an attacker who records traffic would start. The part we care about is the handshake where both sides agree on a secret, called the "key exchange," since that decides whether a recording made today could be unlocked later. You'll need OpenSSL 3.5 or newer to test it because that release [made hybrid post-quantum key exchange part of the default setup](https://openssl-library.org/news/openssl-3.5-notes/index.html). 
 
-A [hybrid exchange]({% post_url 2026-11-10-how-hybrid-key-exchange-works %}) exists because the new quantum-resistant math is young and has had far less time to be attacked than the old math, so cryptographers don't want to rely on it alone yet. It [runs both methods and combines the results into one secret](https://blog.cloudflare.com/post-quantum-visibility/), which means an attacker has to break both to read the traffic. Browsers and big providers have already adopted it, with [about 70% of browser traffic to Cloudflare's network](https://blog.cloudflare.com/post-quantum-visibility/) now using hybrid post-quantum key exchange. The catch is that both sides have to know the new method - when a connection starts the two machines compare what they support and settle on the best match, so if either one has never heard of the hybrid option they quietly settle on the old method and the connection works fine with no error and no warning.
+A [hybrid exchange]({% post_url 2026-11-10-how-hybrid-key-exchange-works %}) exists because the new quantum-resistant math is young and has had far less time to be attacked than the old math, so cryptographers don't want to rely on it alone yet. It [runs both methods and combines the results into one secret](https://blog.cloudflare.com/post-quantum-visibility/), which means an attacker has to break both to read the traffic. Browsers and big providers have already adopted it, with about 70% of browser traffic to Cloudflare's network now using hybrid post-quantum key exchange. The catch is that both sides have to know the new method - when a connection starts the two machines compare what they support and settle on the best match, so if either one has never heard of the hybrid option they quietly settle on the old method and the connection works fine with no error and no warning.
 
 That quiet fallback is why we test what was actually negotiated instead of assuming it. Start by checking which OpenSSL you have:
 
@@ -99,7 +99,7 @@ If your site sits behind a CDN or host you don't control the answer is whatever 
 
 ## 2. Check SSH
 
-SSH is how you get into your servers and push your code, so what's at stake is someone watching or imitating your sessions: a recording can reveal what you did on the machine and a forged key lets someone walk in as you. OpenSSH 10.0 [made the hybrid mlkem768x25519-sha256 key exchange the default](https://www.openssh.com/txt/release-10.0), which covers the recording half. Find out where you stand:
+SSH is how you get into your servers and push your code, so what's at stake is someone watching or imitating your sessions: a recording can reveal what you did on the machine and a forged key lets someone walk in as you. OpenSSH 10.0 [made the hybrid mlkem768x25519-sha256 key exchange the default](https://www.openssh.org/txt/release-10.0), which covers the recording half. Find out where you stand:
 
 ```bash
 ssh -V
@@ -180,7 +180,7 @@ You will not fix everything at once so sort the list:
 
 1. **Long-lived secrets traveling over a network.** Anything that has to stay private for years can be recorded today and unlocked later (security people call this "harvest now, decrypt later"), so these go first.
 2. **Things you control and can update.** Most of the key exchange work is plain old patching, which is exactly why [keeping your software up to date]({% post_url 2017-09-19-5-ways-keep-server-secure %}) is still the biggest lever you have.
-3. **Things a vendor controls.** Ask them now because they set the timeline whether you like it or not. The UK's NCSC expects large organizations to [finish discovery and planning by 2028 and migrate their highest-priority systems by 2031](https://cloudmersive.com/article/How-to-Get-Prepared-for-Post-Quantum-Cryptography-Migration), and your vendor's answer tells you how much of that applies to you.
+3. **Things a vendor controls.** Ask them now because they set the timeline whether you like it or not. The UK's NCSC expects large organizations to finish discovery and planning by 2028 and migrate their highest-priority systems by 2031, and your vendor's answer tells you how much of that applies to you.
 
 Notice that this order comes straight from the three questions - what's protected and for how long, then who can change it - and not from which algorithm sounds scariest.
 
@@ -188,7 +188,7 @@ Notice that this order comes straight from the three questions - what's protecte
 
 **Don't trust a green checkmark.** Both sides settle on the best method they have in common, so a single machine that doesn't know the hybrid option quietly drags the connection back to the old math while the padlock looks exactly the same. Check what was actually negotiated, the way we did with the TLS and SSH tests, instead of assuming an upgrade took effect.
 
-**Post-quantum key exchange is only half the story.** A connection can use quantum-safe key establishment and still [authenticate with a quantum-vulnerable signature](https://cloudmersive.com/article/How-to-Get-Prepared-for-Post-Quantum-Cryptography-Migration), which is why we track the two problems separately.
+**Post-quantum key exchange is only half the story.** A connection can use quantum-safe key establishment and still authenticate with a quantum-vulnerable signature, which is why we track the two problems separately.
 
 **Hard-coded algorithm names are tomorrow's migration project.** Algorithms change - NIST has already selected a backup standard called HQC in case someone finds a weakness in ML-KEM (the new standard for key exchange) - so if swapping one means touching business logic you have a problem. Pull the choice out into configuration now. Security people call this crypto agility but I call it not hard-coding things.
 

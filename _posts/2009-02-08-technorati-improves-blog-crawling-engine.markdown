@@ -17,6 +17,6 @@ Anyone who has done their homework in regards to blogging knows that Technorati 
 
 One victim of Technorati's success has been its blog crawler - that piece of software that scans its directories looking for posts and updates. As time marches on, new developments and ways of interacting spring up which ultimately make cataloging the blogosphere more complex. Many site owners were complaining that it took too long for Technorati to update their listings - they had to manually ping the service every time they posted new content.
 
-Fortunately they have announced an upgrade to their crawler (they say it's a [total rewrite from the ground up](http://technorati.com/weblog/2009/02/473.html)) that promises to improve the speed and accuracy of Technorati's blogosphere scans - what and _who_ are blogs talking about over time.
+Fortunately they have announced an upgrade to their crawler (they say it's a [total rewrite from the ground up](https://doc.searls.com/2009/10/14/technorati-tweaking/) that promises to improve the speed and accuracy of Technorati's blogosphere scans - what and _who_ are blogs talking about over time.
 
 This is great news in general - Technorati has been a great source of traffic and useful information; with the continued improvements we hope to see it continue to be a big part of our blogging experience.

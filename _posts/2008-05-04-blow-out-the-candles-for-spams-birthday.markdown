@@ -18,7 +18,7 @@ tags:
 - security
 ---
 
-Kudos to this article for acknowledging MUDs as the source of the term "SPAM": [A very unhappy birthday to spam, age 30](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/03/BUE210E232.DTL)
+Kudos to this article for acknowledging MUDs as the source of the term "SPAM": [A very unhappy birthday to spam, age 30](https://www.sfgate.com/business/article/A-very-unhappy-birthday-to-spam-age-30-3285410.php)
 
 Now that spam has been with us for 30 memorable years, let's take a moment to think of all the great things spam does for us:
 

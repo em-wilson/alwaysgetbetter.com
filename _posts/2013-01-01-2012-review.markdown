@@ -15,7 +15,7 @@ categories:
 
 This has been one of my busiest and most productive years, but you wouldn't know it from the infrequency of my blog updates.
 
-The majority of my writing time was spent creating two books on Node.js which were released this year - [Node: Up and Running](http://shop.oreilly.com/product/0636920015956.do) and [Building Node Applications with MongoDB and Backbone](http://shop.oreilly.com/product/0636920026587.do). I'll use that as my excuse for not updating here - I'm not planning to take on any major projects like this in the near future because I want to get some of my "smaller" ideas accrued over the year out in article form.
+The majority of my writing time was spent creating two books on Node.js which were released this year - [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) and [Building Node Applications with MongoDB and Backbone](https://www.oreilly.com/library/view/building-node-applications/9781449337735/). I'll use that as my excuse for not updating here - I'm not planning to take on any major projects like this in the near future because I want to get some of my "smaller" ideas accrued over the year out in article form.
 
 Apart from writing, I pulled up roots and moved to the West Coast; it was an epic move since we have a larger than normal family, but the new environment and business opportunities have been well worth it. Now that we live on a mountain next to the ocean, I'm going to feel very reluctant to go anywhere else.
 

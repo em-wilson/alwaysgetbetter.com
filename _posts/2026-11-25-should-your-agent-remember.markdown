@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-25 13:00:00+00:00
 layout: post
 slug: should-your-agent-remember
-title: "Should Your Agent Remember?"
+title: "Should an AI Agent Remember?"
 excerpt: "AI agents are getting long-term memory, and memory is turning into a managed service you can rent. Everything people tell an agent can now stick around, spread to other agents and get poisoned. A look at what gets kept, who can read it, what the law expects when someone asks to be forgotten, and the defaults that keep memory honest."
 categories:
 - General Programming
@@ -48,8 +48,8 @@ A memory in Cloudflare's service stays linked to the messages it was pulled from
 
 A user who clicks "forget me" expects their data to be **gone**. Each vendor's "delete" or "forget" does something narrower:
 
-* **Hide.** An expiry date on a Mem0 memory is optional, and when it passes the memory [stops showing up in search but stays in storage](https://docs.mem0.ai/platform/features/expiration-date). Fetch it by ID and it's still there.
-* **Mark.** Deleting a session or a whole profile in Cloudflare's service [marks the data for deletion](https://developers.cloudflare.com/agent-memory/api/workers-api/), and Cloudflare's docs don't say when marked data is physically purged.
+* **Hide.** An expiry date on a Mem0 memory is optional, and when it passes the memory [stops showing up in search but stays in storage](https://docs.mem0.ai/platform/features/memory-expiration). Fetch it by ID and it's still there.
+* **Mark.** Deleting a session or a whole profile in Cloudflare's service marks the data for deletion, and Cloudflare's docs don't say when marked data is physically purged.
 * **Supersede.** Old versions of a fact remain in the chain so the newest one wins at recall time.
 * **Partially remove.** Deleting a conversation from a Zep graph runs in the background, and it [doesn't regenerate the summaries of people and things that show up in other conversations](https://help.getzep.com/deleting-data-from-the-graph), so details from the deleted conversation can survive inside those summaries.
 
@@ -67,7 +67,7 @@ Cloudflare keeps each profile's memories walled off from the others. [A recall o
 
 Those walls only go where you put them. Suppose you scope memory to the agent ("the support bot") instead of to the customer. Every detail the support bot picked up from every customer now lives in one profile, and recall will cheerfully surface one customer's renewal price or home address in another customer's chat because it looked relevant to the question. Nobody broke in and nothing malfunctioned - the system did exactly what the scoping told it to do. **Can one customer's details leak into another customer's session? Yes, the moment you scope memory by agent or by team instead of by the person the memory is about.**
 
-Sharing between agents raises the stakes. Cloudflare pitches [one profile shared by a whole team of engineers](https://blog.cloudflare.com/introducing-agent-memory/), so whatever one person's coding agent learns turns up in everyone else's sessions. That works well for coding standards a person keeps an eye on, and goes badly when every agent on the team can write to the profile and nobody reads what they add.
+Sharing between agents raises the stakes. Cloudflare pitches one profile shared by a whole team of engineers, so whatever one person's coding agent learns turns up in everyone else's sessions. That works well for coding standards a person keeps an eye on, and goes badly when every agent on the team can write to the profile and nobody reads what they add.
 
 Shared memory is a multiplier. A useful lesson reaches every agent at once, and so does a wrong one, a private one or a planted one. Team knowledge like coding standards and architecture decisions belongs in shared memory. Facts about a specific person never do.
 
@@ -103,7 +103,7 @@ Every default below comes back to one question you can ask of any agent you buil
 
 These defaults get you to "yes", and each one answers a specific risk from above.
 
-1. **Scope memory to the person it's about.** This prevents one customer's details from turning up in another customer's session. Use one profile, user ID or namespace per end user or tenant - every product above supports it, with LangMem showing a [per-user namespace pattern](https://langchain-ai.github.io/langmem/hot_path_quickstart) right in its quickstart. Keep team-wide memory for team knowledge only.
+1. **Scope memory to the person it's about.** This prevents one customer's details from turning up in another customer's session. Use one profile, user ID or namespace per end user or tenant - every product above supports it, with LangMem showing a [per-user namespace pattern](https://langchain-ai.github.io/langmem/hot_path_quickstart/) right in its quickstart. Keep team-wide memory for team knowledge only.
 
 2. **Give every memory an expiry and decide what expiry means.** This limits how much you're holding when something goes wrong and keeps you on the right side of "only as long as necessary." Where the product only hides expired memories, run a purge job that actually deletes them.
 

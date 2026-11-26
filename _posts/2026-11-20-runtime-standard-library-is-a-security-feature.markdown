@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-20 13:00:00+00:00
 layout: post
 slug: runtime-standard-library-is-a-security-feature
-title: "Your Runtime's Standard Library Is a Security Feature"
+title: "A Standard Library Is a Security Feature"
 excerpt: "Node.js just absorbed debounce, throttle and PKCS#12 parsing. Every tiny package you stop installing is one less stranger who can push code to your servers. Here's the case for leaning on core, where it falls short, and a script to find what you can drop."
 categories:
 - Node.js

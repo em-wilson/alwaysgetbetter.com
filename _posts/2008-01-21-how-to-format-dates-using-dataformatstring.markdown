@@ -55,7 +55,7 @@ There are a few key issues to consider here:
 
 Using one capital M for the month causes ASP.NET to display the month as a minimum digit - so for months like April the leading 0 will be removed - displaying "4" rather than "04". 
 
-More information about data string format options can be found at the MSDN reference: [http://msdn2.microsoft.com/en-us/library/system.globalization.datetimeformatinfo(vs.71).aspx](http://msdn2.microsoft.com/en-us/library/system.globalization.datetimeformatinfo(vs.71).aspx)
+More information about data string format options can be found at the MSDN reference: [https://learn.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo?view=net-11.0&redirectedfrom=MSDN](https://learn.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo?view=net-11.0&redirectedfrom=MSDN)
 
 
 ## Null Display Text

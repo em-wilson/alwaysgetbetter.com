@@ -4,7 +4,7 @@ comments: true
 date: 2026-11-24 13:00:00+00:00
 layout: post
 slug: your-old-todos-are-now-instructions
-title: "Your Old TODOs Are Now Instructions"
+title: "Old TODOs Are Now Instructions"
 excerpt: "Stale comments and outdated docs used to be harmless clutter. Now AI coding agents read them as marching orders, and Google has measured what that costs. A reality check on tech debt when the bottleneck is reading code, not writing it."
 categories:
 - General Programming
@@ -43,7 +43,7 @@ The numbers are worth reading slowly:
 * Of the unprompted detours, **41% chased tickets that were already closed**, mostly bugs that had been fixed. Another **57% chased bugs that were still open but had nothing to do with the request**, and 39% of those involved editing code. That is scope creep with commit access.
 * Sessions with a detour ran **70% more steps, 77% more tokens and 105% more waiting time** for the developer, after controlling for things like the developer, codebase complexity, task type and model tier.
 
-In one instance, the agent stumbled on a TODO for a bug that was [fixed back in 2023](https://developers.googleblog.com/agent-distraction/) and burned several steps digging into it. In another, it found a TODO inside the bug it was working on and quietly modified unrelated code until the human pushed back and the agent admitted the extra scope was wrong. The authors put it bluntly: agents treat the things people skim past ["as a call to action."](https://developers.googleblog.com/agent-distraction/)
+In one instance, the agent stumbled on a TODO for a bug that was fixed back in 2023 and burned several steps digging into it. In another, it found a TODO inside the bug it was working on and quietly modified unrelated code until the human pushed back and the agent admitted the extra scope was wrong. The authors put it bluntly: agents treat the things people skim past "as a call to action."
 
 The measurements cover one company's internal traces and one kind of clutter. They name [obsolete specs and lagging documentation](https://www.infoq.com/news/2026/11/google-agent-distraction/) as the same problem, but the figures only count comments with a ticket number in them. My guess is the real bill is bigger than the one on the page.
 
@@ -51,7 +51,7 @@ The measurements cover one company's internal traces and one kind of clutter. Th
 
 ## Your Codebase Is Part of the Prompt
 
-The reason this matters more now than it did five years ago is mechanical. When an agent picks up a task, it explores the code the same way you or I would - searching text, opening files and following references. JioHotstar (a massive Indian streaming service, for my North American friends) recently [benchmarked six ways of helping agents find their way around a large codebase](https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval) and found that fancy retrieval layers didn't consistently improve results, and that agents gravitated toward plain text search and file reads over higher-level tools. Whatever is sitting in those files becomes the agent's working context, stale bits included.
+The reason this matters more now than it did five years ago is mechanical. When an agent picks up a task, it explores the code the same way you or I would - searching text, opening files and following references. JioHotstar (a massive Indian streaming service, for my North American friends) recently [benchmarked six ways of helping agents find their way around a large codebase](https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/) and found that fancy retrieval layers didn't consistently improve results, and that agents gravitated toward plain text search and file reads over higher-level tools. Whatever is sitting in those files becomes the agent's working context, stale bits included.
 
 So **every comment, README, design doc and instructions file in your repository is now effectively part of every prompt anyone on your team writes**. A human reads a three-year-old doc with three years of context in their head. The agent reads it as the current truth, because nothing in the file says otherwise.
 
@@ -63,7 +63,7 @@ A stale TODO is about the purest example you could ask for of a note frozen at t
 
 GitHub summed up the situation in [a guide to agentic engineering published this month](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/): "Writing code got faster. The work around it didn't." The same post says GitHub saw more than 1.2 billion commits in a single week in October, over 400% more than a year earlier, and cites a Faros AI study in which pull requests spent 441% longer in review as teams moved from low to high AI adoption.
 
-Anthropic said much the same thing when it launched its AI review tool back in March: ["Code review has become a bottleneck"](https://claude.com/blog/code-review), and code output per Anthropic engineer had grown 200% in a year. By this fall the Claude Code team had rebuilt its whole review process around that reality. [InfoQ reports](https://www.infoq.com/news/2026/11/claude-code-review/) that merged pull requests to the Claude Code repository more than doubled between June and September while the share of changes needing a revert fell by over 40%, using layers of automated checks and AI reviewers with human approval scaled to how risky each change is. Low-risk changes like documentation may need no human sign-off at all, and high-risk ones need two.
+Anthropic said much the same thing when it launched its AI review tool back in March: ["Code review has become a bottleneck"](https://claude.com/resources/articles/code-review), and code output per Anthropic engineer had grown 200% in a year. By this fall the Claude Code team had rebuilt its whole review process around that reality. [InfoQ reports](https://www.infoq.com/news/2026/11/claude-code-review/) that merged pull requests to the Claude Code repository more than doubled between June and September while the share of changes needing a revert fell by over 40%, using layers of automated checks and AI reviewers with human approval scaled to how risky each change is. Low-risk changes like documentation may need no human sign-off at all, and high-risk ones need two.
 
 GitHub, for its part, built [ReviewBench](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/), an open benchmark for AI code reviewers modeled on more than 100 million real pull requests. Companies don't build benchmarks for problems they consider solved.
 
@@ -77,7 +77,7 @@ Put those together and the constraint is obvious. Generating a change is nearly 
 
 For most of my career, "clean up the stale comments" sat at the bottom of every backlog because the payoff was vague. A tidier codebase, slightly less confusion for the next new hire - nice, but never more important than the feature due Friday. Lame, but rational.
 
-Agents change that math. Google's answer to its own findings was to point agents at the problem: scanner agents found bug references marked fixed or obsolete, then dug through bug history, file history and sometimes [years of changes](https://developers.googleblog.com/agent-distraction/) before proposing a deletion, because the presence of a reference alone didn't prove a TODO was dead. Over six months that cleaner removed thousands of obsolete references, and human reviewers accepted more than 95% of its proposals. The authors explicitly recommend revisiting cleanup projects that were written off as low value, since agents now operate across the whole codebase at scale.
+Agents change that math. Google's answer to its own findings was to point agents at the problem: scanner agents found bug references marked fixed or obsolete, then dug through bug history, file history and sometimes years of changes before proposing a deletion, because the presence of a reference alone didn't prove a TODO was dead. Over six months that cleaner removed thousands of obsolete references, and human reviewers accepted more than 95% of its proposals. The authors explicitly recommend revisiting cleanup projects that were written off as low value, since agents now operate across the whole codebase at scale.
 
 Notice the asymmetry. A deleted dead comment is about the cheapest change there is to review - exactly the kind of low-risk change Anthropic's process waves through - while every agent that trips over that comment pays for it in tokens, wall-clock time and reviewer attention, over and over, for as long as it stays. **Small debt used to cost a little, once in a while. Now it costs a little on every single agent run.**
 
@@ -89,7 +89,7 @@ The same logic extends past TODOs even where nobody has published the numbers ye
 
 There's a career angle here that I don't think gets enough attention.
 
-Alasdair Allan's QCon London talk, [The Ladder is Missing Rungs](https://www.infoq.com/presentations/ai-software-engineering-pipeline), argues that the routine work AI now handles - bug fixes, boilerplate, glue code, documentation - is how junior engineers used to build intuition for how systems behave, including how to debug and how to read legacy code. In [InfoQ's interview with him](https://www.infoq.com/news/2026/08/ai-disrupts-engineering-progress/), he says 80 to 90% of engineering questions now go to AI rather than to colleagues, which quietly removes the learning that used to come from asking a senior "hey, what's this thing for?"
+Alasdair Allan's QCon London talk, [The Ladder is Missing Rungs](https://www.infoq.com/presentations/ai-software-engineering-pipeline/), argues that the routine work AI now handles - bug fixes, boilerplate, glue code, documentation - is how junior engineers used to build intuition for how systems behave, including how to debug and how to read legacy code. In [InfoQ's interview with him](https://www.infoq.com/news/2026/08/ai-disrupts-engineering-progress/), he says 80 to 90% of engineering questions now go to AI rather than to colleagues, which quietly removes the learning that used to come from asking a senior "hey, what's this thing for?"
 
 His recommendations include deliberate rotations through fundamental work, a bit like a medical residency, measuring understanding instead of velocity, and treating codified context like docs and architectural decisions as infrastructure.
 
@@ -121,7 +121,7 @@ git blame -L 88,88 src/billing/invoice.ts
 
 * **Make legibility a review criterion.** "Does this change leave behind anything that will mislead the next reader?" belongs on the checklist next to "are there tests?"
 * **Budget for cleanup and measure it.** Google's numbers give you the argument you never had before: unrequested detours cost real tokens and real developer wait time. Track agent token spend and pull request review time, then run a cleanup and compare.
-* **Automate the boring part.** Close the loop between your tracker and your code so closed tickets flag the comments that reference them. Google built [presubmit analyzers, whole-corpus scanners and cleanup agents](https://developers.googleblog.com/agent-distraction/) for exactly this, and it's a great first job for your own agents because the changes are small and cheap to review.
+* **Automate the boring part.** Close the loop between your tracker and your code so closed tickets flag the comments that reference them. Google built presubmit analyzers, whole-corpus scanners and cleanup agents for exactly this, and it's a great first job for your own agents because the changes are small and cheap to review.
 * **Put review capacity where the risk is.** Anthropic's tiered approach is worth stealing - not every change needs the same scrutiny, and pretending otherwise just means everything gets skimmed.
 
 ### If You're Hiring or Growing Juniors

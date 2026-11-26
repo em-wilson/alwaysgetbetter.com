@@ -51,4 +51,4 @@ An example is:
 
 In most cases, you would want to include at least a TEAM and SITE section. Clearly the exact fields are left to your imagination, but it's a very simple way to acknowledge the people who helps (directly or in spirit) a site to get to fruition.
 
-For more information about humans.txt, check out the initiative's home page at [http://humanstxt.org/](http://humanstxt.org/).
+For more information about humans.txt, check out the initiative's home page at [http://humanstxt.org/](https://humanstxt.org/).

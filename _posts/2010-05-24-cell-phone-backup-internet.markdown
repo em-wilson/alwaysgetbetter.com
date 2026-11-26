@@ -28,6 +28,6 @@ photo:
 
 Since we live in the country and rely on [line-of-sight Internet](/blog/2008/12/03/ontario-government-builds-rural-internet-infrastructure/) for our connectivity, I've been increasingly frustrated with service quality and uptime programs. There are a lot of reasons I want to move to a denser population area but access to a proper Internet connection is high on my list.
 
-My phone has turned out to be a decent alternative; using [instructions I found online](http://palmpre-hacks.com/palm-pre-hacks/how-to-hacktether-palm-pre-into-a-wifi-router/) I was able to re-purpose my Palm Pre as a WiFi router. It's still not broadband but it gives me a way to check my email when my <del>Xplornet</del> fixed wireless (often) fails.
+My phone has turned out to be a decent alternative; using instructions I found online I was able to re-purpose my Palm Pre as a WiFi router. It's still not broadband but it gives me a way to check my email when my <del>Xplornet</del> fixed wireless (often) fails.
 
-Although Bell Canada supports tethering with their smartphone plans, they don't go out of their way to make it obvious how to do it. [My Tether](http://mytether.net/) turned out to be worth the cost; even though there is a free version you can use if you want to play with the settings.
+Although Bell Canada supports tethering with their smartphone plans, they don't go out of their way to make it obvious how to do it. _My Tether_ turned out to be worth the cost; even though there is a free version you can use if you want to play with the settings.

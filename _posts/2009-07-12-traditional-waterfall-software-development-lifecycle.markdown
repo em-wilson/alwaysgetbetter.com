@@ -53,13 +53,6 @@ Many clients feel like they are in over their head when your design starts takin
 
 ### Phase 3: Implementation
 
-
-
-
-[![Construction crane at Smith Cove, 1914](http://farm4.static.flickr.com/3179/2692491283_bb6a57a1a0_m.jpg)](http://www.flickr.com/photos/24256351@N04/2692491283/)
-[![Creative Commons License](/images/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by/2.0/) [photo](http://www.photodropper.com/photos/) credit: [Seattle Municipal Archives](http://www.flickr.com/photos/24256351@N04/2692491283/)
-
-
 When we start programming, this is the part we envisioned ourselves doing. In reality, this is the part we do the least (assuming we did our job right in phases 1 and 2). We’re talking about getting down and dirt with raw code.
 
 
