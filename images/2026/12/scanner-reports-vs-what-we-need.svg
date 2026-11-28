@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 350" width="680" height="350" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>What the scanner gives us versus what we need, in one circle</title>
+  <desc>One circle is all 45 reports curl received. A large wedge of 41 reports is problems in the code, which is what the scanner gives us. A small wedge inside it, 5 reports, is problems an attacker can use, which is what we need. The remaining 4 reports are not problems.</desc>
+  <circle cx="300" cy="180" r="120" fill="#FFFFFF" stroke="#888780" stroke-width="1"/>
+  <path d="M300 180L300 60A120 120 0 1 1 236.4 78.2Z" fill="#5DCAA5" stroke="#0F6E56" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M300 180L300 60A120 120 0 0 1 377.1 88.1Z" fill="#F0997B" stroke="#993C1D" stroke-width="1" stroke-linejoin="round"/>
+  <circle cx="324" cy="114" r="3" fill="#5F5E5A"/>
+  <line x1="324" y1="114" x2="440" y2="114" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="450" y="96" font-size="14" font-weight="500" fill="#2C2C2A" dominant-baseline="central">What we need</text>
+  <text x="450" y="116" font-size="12" fill="#5F5E5A" dominant-baseline="central">5 of 45 reports</text>
+  <text x="450" y="134" font-size="12" fill="#5F5E5A" dominant-baseline="central">an attacker can use</text>
+  <circle cx="375" cy="207" r="3" fill="#5F5E5A"/>
+  <line x1="375" y1="207" x2="440" y2="207" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="450" y="190" font-size="14" font-weight="500" fill="#2C2C2A" dominant-baseline="central">What the scanner gives us</text>
+  <text x="450" y="210" font-size="12" fill="#5F5E5A" dominant-baseline="central">41 of 45 reports</text>
+  <text x="450" y="228" font-size="12" fill="#5F5E5A" dominant-baseline="central">problems in the code</text>
+  <circle cx="272" cy="84" r="3" fill="#5F5E5A"/>
+  <line x1="272" y1="84" x2="172" y2="84" stroke="#888780" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="162" y="76" font-size="14" font-weight="500" fill="#2C2C2A" text-anchor="end" dominant-baseline="central">4 of 45</text>
+  <text x="162" y="96" font-size="12" fill="#5F5E5A" text-anchor="end" dominant-baseline="central">not problems</text>
+  <text x="340" y="328" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">The circle is all 45 reports curl received</text>
+</svg>
